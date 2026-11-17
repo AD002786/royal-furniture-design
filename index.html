@@ -694,6 +694,25 @@ header{background:#fff;border-bottom:1px solid var(--hair)}
 .grid>*,.duo>*,.prow2>*,.fp>*{min-width:0}
 @media (max-width:760px){.chead{grid-template-columns:1fr}.fbar .dd>button{white-space:nowrap}}
 
+
+.beat{display:flex;align-items:center;gap:6px;color:var(--iris-d);font-size:14px;font-weight:600;margin:-4px 0 10px}
+.beat svg{width:16px;height:16px}
+.cmp{border:1px solid #e4e2dd;border-radius:var(--r-panel);padding:18px 18px 14px;margin:18px 0 6px;background:#fff}
+.cmp-h{display:flex;justify-content:space-between;align-items:baseline;gap:12px;margin-bottom:10px}
+.cmp-h h2{font:600 17px/1.3 var(--disp, Poppins),sans-serif;margin:0}
+.cmp-h span{font-size:12.5px;color:#76736d}
+.cmp ul{list-style:none;margin:0;padding:0}
+.cmp li{display:flex;justify-content:space-between;align-items:center;gap:14px;padding:11px 0;border-top:1px solid #efede9}
+.cmp li:first-child{border-top:0}
+.cmp li div{min-width:0;display:flex;flex-direction:column}
+.cmp li b{font-size:14px;font-weight:600}
+.cmp li div span{font-size:12.5px;color:#76736d;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.cmp li s{color:#76736d;font-size:15px;white-space:nowrap}
+.cmp li.us{background:var(--iris-t);margin:0 -10px;padding:11px 10px;border-radius:10px;border-top:0}
+.cmp li.us + li{border-top:0}
+.cmp li.us strong{color:var(--iris-d);font-size:17px;white-space:nowrap}
+.cmp-f{margin:10px 0 0;font-weight:600;font-size:14px}
+.cmp-n{margin:6px 0 0;font-size:12.5px;color:#76736d}
 @media (prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}.copy h1 span i{transform:none}.copy p{opacity:1}}
 </style>
 </head>
@@ -1117,6 +1136,21 @@ function list(o) {
 }
 
 /* product page */
+
+const lowComp = p => Math.min(...p.comps.map(c => c.price));
+function compareBlock(p) {
+  if (p.price == null || !p.beat || !p.comps || !p.comps.length) return null;
+  const rows = p.comps.slice().sort((a, b) => a.price - b.price);
+  const save = Math.floor(lowComp(p) - p.price);
+  const d = new Date(p.checked + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  return h('section', { class: 'cmp', 'aria-label': 'Price comparison' },
+    h('div', { class: 'cmp-h' }, h('h2', { text: p.similar ? 'Compared with similar pieces' : 'Compare prices' }), h('span', { text: 'Checked ' + d })),
+    h('ul', {},
+      h('li', { class: 'us' }, h('div', {}, h('b', { text: 'Royal Furniture & Design' }), h('span', { text: p.name })), h('strong', { text: money(p.price) })),
+      rows.map(c => h('li', {}, h('div', {}, h('b', { text: c.store }), h('span', { text: c.title })), h('s', { text: money(c.price) })))),
+    save > 0 ? h('p', { class: 'cmp-f' }, `You save ${money(save)} against the lowest ${p.similar ? 'similar piece' : 'price'} we found.`) : null,
+    p.similar ? h('p', { class: 'cmp-n', text: 'We could not find this exact piece at other stores, so these are the closest matches by type and style.' }) : null);
+}
 function product(p) {
   document.title = `${p.name} | Royal Furniture & Design`;
   recent = [p.sku, ...recent.filter(s => s !== p.sku)].slice(0, 9); persist();
@@ -1144,11 +1178,13 @@ function product(p) {
   const info = h('div', { class: 'pinfo' },
     h('div', { class: 'bc', text: p.catLabel }), h('h1', { text: p.name }),
     h('div', { class: 'prow' }, h('span', { class: 'pr' + (p.price == null ? ' na' : ''), text: p.price == null ? 'Price coming soon' : money(p.price) }), p.pack > 1 ? h('span', { class: 'muted', text: `for a set of ${p.pack}` }) : null, h('span', { class: 'id', text: 'Item ' + p.sku })),
+    p.price != null && p.beat && p.comps && p.comps.length && !p.similar ? h('div', { class: 'beat' }, ic('i-check'), `${money(Math.floor(lowComp(p) - p.price))} less than ${p.comps.slice().sort((a, b) => a.price - b.price)[0].store}`) : null,
     p.price != null ? h('div', { class: 'stock' }, h('i'), freight ? 'Ships by freight from our warehouse' : 'Ships boxed from our warehouse') : null,
     h('div', { class: 'fin2' }, h('div', { class: 'k' }, h('span', { text: 'Finish: ' }), p.finish), h('span', { class: 'chipx' }, h('i', { class: 'sw', style: 'background:' + SW[p.color] }), p.color)),
     h('p', { class: 'pdesc', text: p.desc }),
     p.features.length ? h('ul', { class: 'feats' }, p.features.map(f => h('li', { text: f }))) : null,
     h('div', { class: 'buy', id: 'buyRow' }, step, atb),
+    compareBlock(p),
     h('div', { class: 'ship' }, ic(freight ? 'i-truck' : 'i-box'), h('div', {}, h('b', { text: freight ? 'Freight delivery' : 'Parcel delivery' }), h('span', { text: freight ? 'A delivery window is scheduled with you once it leaves the warehouse. White-glove setup is available at checkout.' : 'Ships boxed to your door with tracking.' }))),
     h('div', { class: 'acc' },
       acc('Details and dimensions', h('dl', { class: 'spec' }, specs.map(([k, v]) => [h('dt', { text: k }), h('dd', { text: v })])), true),
