@@ -19,7 +19,27 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/LV04610.jpg",
-  "color": "Beige & Natural"
+  "color": "Beige & Natural",
+  "comps": [
+   {
+    "store": "Metropolitan Furniture",
+    "price": 149.0,
+    "title": "Acme Silvester Modular Chaise with 2 Pillows"
+   },
+   {
+    "store": "Michael's Home Furniture",
+    "price": 339.0,
+    "title": "Acme Jaszira Modular Chaise"
+   },
+   {
+    "store": "Caviani",
+    "price": 925.22,
+    "title": "Acme Birdie Modular Chaise"
+   }
+  ],
+  "similar": true,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "LV04235",
@@ -40,7 +60,27 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/LV04235.jpg",
-  "color": "Beige & Natural"
+  "color": "Beige & Natural",
+  "comps": [
+   {
+    "store": "Abode Home",
+    "price": 345.0,
+    "title": "Isabella Coffee Table"
+   },
+   {
+    "store": "World Market",
+    "price": 699.99,
+    "title": "Isabelle Trestle Coffee Table"
+   },
+   {
+    "store": "Le Ma\u00e9",
+    "price": 1800.0,
+    "title": "Isabel Coffee Table"
+   }
+  ],
+  "similar": true,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "LV02541",
@@ -154,7 +194,27 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/LV03180.jpg",
-  "color": "Blue & Green"
+  "color": "Blue & Green",
+  "comps": [
+   {
+    "store": "Home Depot",
+    "price": 1056.96,
+    "title": "Oversize Convertible 118 in. Chenille Sectional"
+   },
+   {
+    "store": "Home Depot",
+    "price": 1474.61,
+    "title": "112 in. L-Shaped Chenille Sectional with Pull-Out Bed"
+   },
+   {
+    "store": "Alpine Outlets",
+    "price": 2046.0,
+    "title": "Sleeper Sectional Sofa with Storage Chaise"
+   }
+  ],
+  "similar": true,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "LV03160",
@@ -176,7 +236,8 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/LV03160.jpg",
-  "color": "Gray"
+  "color": "Gray",
+  "checked": "2026-11-16"
  },
  {
   "sku": "LV02680",
@@ -762,7 +823,27 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/BD04152Q.jpg",
-  "color": "Gray"
+  "color": "Gray",
+  "comps": [
+   {
+    "store": "SohoMod.com",
+    "price": 363.0,
+    "title": "Acme Dante Bed"
+   },
+   {
+    "store": "Home Depot",
+    "price": 393.2,
+    "title": "Acme Naima II Bed"
+   },
+   {
+    "store": "Emma Mason",
+    "price": 640.78,
+    "title": "Acme Clayten Bed"
+   }
+  ],
+  "similar": true,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "BD02317Q",
@@ -992,7 +1073,22 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/BD04602Q.jpg",
-  "color": "Beige & Natural"
+  "color": "Beige & Natural",
+  "comps": [
+   {
+    "store": "Target",
+    "price": 367.99,
+    "title": "Baxton Studio Hosea Japandi Platform Bed"
+   },
+   {
+    "store": "LuxeDecor",
+    "price": 1625.2,
+    "title": "Acme Leanna Oak Queen Platform Bed"
+   }
+  ],
+  "similar": true,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "BD03122Q",
@@ -1055,7 +1151,22 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/BD04212Q.jpg",
-  "color": "Gray"
+  "color": "Gray",
+  "comps": [
+   {
+    "store": "Metropolitan Furniture",
+    "price": 589.0,
+    "title": "Acme Madison II Bed with Storage"
+   },
+   {
+    "store": "The Classy Home",
+    "price": 710.95,
+    "title": "Acme Naima Storage Bed"
+   }
+  ],
+  "similar": true,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "LV03865",
@@ -1231,7 +1342,27 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/BD04603.jpg",
-  "color": "Beige & Natural"
+  "color": "Beige & Natural",
+  "comps": [
+   {
+    "store": "The Classy Home",
+    "price": 191.14,
+    "title": "Acme Madison Nightstand"
+   },
+   {
+    "store": "LuxeDecor",
+    "price": 216.92,
+    "title": "Acme Orchest Nightstand"
+   },
+   {
+    "store": "Fine Furniture San Diego",
+    "price": 341.0,
+    "title": "Acme Naima Nightstand"
+   }
+  ],
+  "similar": true,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "LV00444",
@@ -1366,7 +1497,22 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/LV04930.jpg",
-  "color": "Beige & Natural"
+  "color": "Beige & Natural",
+  "comps": [
+   {
+    "store": "BedCo Furniture",
+    "price": 659.0,
+    "title": "Homelegance Isabel Sofa"
+   },
+   {
+    "store": "Direct Factory Furniture",
+    "price": 865.2,
+    "title": "Homelegance Isabel Sofa"
+   }
+  ],
+  "similar": true,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "OF00055",
@@ -2796,7 +2942,17 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/37965.jpg",
-  "color": "Brown & Wood"
+  "color": "Brown & Wood",
+  "comps": [
+   {
+    "store": "Home Living Furniture",
+    "price": 1225.7,
+    "title": "Acme Cargo Storage Twin Loft Bed"
+   }
+  ],
+  "similar": false,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "84853",
@@ -3096,7 +3252,8 @@
   "pack": 2,
   "ship": "Parcel",
   "img": "img/72942.jpg",
-  "color": "Beige & Natural"
+  "color": "Beige & Natural",
+  "checked": "2026-11-16"
  },
  {
   "sku": "37145",
@@ -3196,7 +3353,8 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/92568.jpg",
-  "color": "Warm Tones"
+  "color": "Warm Tones",
+  "checked": "2026-11-16"
  },
  {
   "sku": "37370",
@@ -3463,7 +3621,27 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/LV03227.jpg",
-  "color": "Black"
+  "color": "Black",
+  "comps": [
+   {
+    "store": "Walmart",
+    "price": 428.97,
+    "title": "Acme Clayten Sofa Table, Marble Top"
+   },
+   {
+    "store": "Dream Home Interiors",
+    "price": 469.99,
+    "title": "Acme Clayten Sofa Table"
+   },
+   {
+    "store": "wrightsfurniture.com",
+    "price": 579.0,
+    "title": "Emery Demilune Sofa Table"
+   }
+  ],
+  "similar": true,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "92569",
@@ -3483,7 +3661,27 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/92569.jpg",
-  "color": "Brown & Wood"
+  "color": "Brown & Wood",
+  "comps": [
+   {
+    "store": "Michael's Home Furniture",
+    "price": 629.0,
+    "title": "Indra Top Grain Leather Office Chair"
+   },
+   {
+    "store": "DFW Furniture Warehouse",
+    "price": 699.0,
+    "title": "Indra Office Chair, Top Grain Leather"
+   },
+   {
+    "store": "Fayetteville Furniture Gallery",
+    "price": 1022.5,
+    "title": "Acme Indra Office Chair"
+   }
+  ],
+  "similar": false,
+  "checked": "2026-11-16",
+  "beat": false
  },
  {
   "sku": "92416",

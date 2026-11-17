@@ -713,6 +713,22 @@ header{background:#fff;border-bottom:1px solid var(--hair)}
 .cmp li.us strong{color:var(--iris-d);font-size:17px;white-space:nowrap}
 .cmp-f{margin:10px 0 0;font-weight:600;font-size:14px}
 .cmp-n{margin:6px 0 0;font-size:12.5px;color:#76736d}
+.cmp li em{font-style:normal;color:var(--ink);font-size:15px;white-space:nowrap}
+.cmp li.us strong.na{color:#76736d;font-size:14px;font-weight:600}
+.cmp li.us:not(:first-child){margin-top:2px}
+.pm{display:grid;grid-template-columns:auto 1fr;gap:4px 10px;align-items:start;margin-top:14px;padding-top:14px;border-top:1px solid #efede9}
+.pm>svg{width:18px;height:18px;color:var(--iris);margin-top:2px}
+.pm div{display:flex;flex-direction:column;gap:2px}
+.pm b{font-size:14px}
+.pm div span{font-size:13px;color:#5d5a55;line-height:1.45}
+.pm-btn{grid-column:2;justify-self:start;margin-top:6px;background:none;border:0;padding:0;font:600 13.5px/1.4 inherit;color:var(--iris-d);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
+.pm-btn:focus-visible{outline:2px solid var(--iris);outline-offset:3px;border-radius:2px}
+.pm-form{display:grid;gap:8px;margin-top:12px}
+.pm-form input{width:100%;min-width:0;height:44px;border:1px solid #d9d6d0;border-radius:8px;padding:0 12px;font:inherit;font-size:14px;background:#fff}
+.pm-form input:focus{outline:2px solid var(--iris);outline-offset:0;border-color:transparent}
+.pm-form .btn{justify-self:start}
+.pm-form .msg{margin:0;font-size:13px}
+.pm-form .msg.ok{color:#2e7d4f}.pm-form .msg.err{color:#b3261e}
 @media (prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}.copy h1 span i{transform:none}.copy p{opacity:1}}
 </style>
 </head>
@@ -796,9 +812,10 @@ header{background:#fff;border-bottom:1px solid var(--hair)}
 <script>
 /* Email sign-up: set this to your Shopify, Klaviyo or Mailchimp endpoint at launch. */
 const SIGNUP_URL = '';
+const PRICE_MATCH_URL = ''; // endpoint that receives price-match requests (JSON POST)
 
 const $ = (s, r = document) => r.querySelector(s), $$ = (s, r = document) => [...r.querySelectorAll(s)];
-const money = n => '$' + n.toLocaleString('en-US');
+const money = n => '$' + n.toLocaleString('en-US', n % 1 ? { minimumFractionDigits: 2, maximumFractionDigits: 2 } : {});
 const NS = 'http://www.w3.org/2000/svg';
 function h(t, a = {}, ...kids) { const e = document.createElement(t); for (const [k, v] of Object.entries(a)) { if (v == null || v === false) continue; if (k === 'class') e.className = v; else if (k === 'text') e.textContent = v; else if (k === 'style') e.style.cssText = v; else if (k.startsWith('on')) e[k] = v; else e.setAttribute(k, v === true ? '' : v); } kids.flat(9).forEach(c => c != null && c !== false && e.append(c.nodeType ? c : document.createTextNode(c))); return e; }
 function ic(id, size) { const s = document.createElementNS(NS, 'svg'); if (size) { s.setAttribute('width', size); s.setAttribute('height', size); } const u = document.createElementNS(NS, 'use'); u.setAttribute('href', '#' + id); s.append(u); s.setAttribute('aria-hidden', 'true'); return s; }
@@ -1139,17 +1156,43 @@ function list(o) {
 
 const lowComp = p => Math.min(...p.comps.map(c => c.price));
 function compareBlock(p) {
-  if (p.price == null || !p.beat || !p.comps || !p.comps.length) return null;
-  const rows = p.comps.slice().sort((a, b) => a.price - b.price);
-  const save = Math.floor(lowComp(p) - p.price);
-  const d = new Date(p.checked + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  const d = new Date((p.checked || '2026-11-16') + 'T12:00:00').toLocaleDateString('en-US', { month: 'short', day: 'numeric', year: 'numeric' });
+  const comps = (p.comps || []).slice().sort((a, b) => a.price - b.price);
+  const ours = h('li', { class: 'us' }, h('div', {}, h('b', { text: 'Royal Furniture & Design' }), h('span', { text: p.name })), h('strong', { class: p.price == null ? 'na' : '', text: p.price == null ? 'Price coming soon' : money(p.price) }));
+  const row = c => h('li', {}, h('div', {}, h('b', { text: c.store }), h('span', { text: c.title })), p.price != null && c.price > p.price ? h('s', { text: money(c.price) }) : h('em', { text: money(c.price) }));
+  let list = null;
+  if (comps.length) {
+    const items = comps.map(row);
+    const at = p.price == null ? 0 : comps.filter(c => c.price < p.price).length;
+    items.splice(at, 0, ours);
+    list = h('ul', {}, items);
+  }
+  const save = p.beat && comps.length ? Math.floor(comps[0].price - p.price) : 0;
+  const form = h('form', { class: 'pm-form', hidden: true, novalidate: true });
+  const f1 = h('input', { type: 'text', placeholder: 'Store name', 'aria-label': 'Store name', required: true });
+  const f2 = h('input', { type: 'url', placeholder: 'Link to the listing', 'aria-label': 'Link to the listing', required: true });
+  const f3 = h('input', { type: 'email', placeholder: 'Your email', 'aria-label': 'Your email', autocomplete: 'email', required: true });
+  const msg = h('p', { class: 'msg', role: 'status' });
+  const send = h('button', { class: 'btn iris', type: 'submit', text: 'Send request' });
+  form.append(f1, f2, f3, send, msg);
+  form.onsubmit = async e => {
+    e.preventDefault();
+    if (!f1.value.trim()) { msg.className = 'msg err'; msg.textContent = 'Add the store name.'; f1.focus(); return; }
+    if (!/^https?:\/\/\S+\.\S+/.test(f2.value.trim())) { msg.className = 'msg err'; msg.textContent = 'Paste the full link to the listing, starting with https://.'; f2.focus(); return; }
+    if (!EMAIL.test(f3.value.trim())) { msg.className = 'msg err'; msg.textContent = 'Enter a full email address, like name@example.com.'; f3.focus(); return; }
+    let ok = false;
+    if (PRICE_MATCH_URL) { send.disabled = true; send.textContent = 'Sending…'; try { const r = await fetch(PRICE_MATCH_URL, { method: 'POST', headers: { 'Content-Type': 'application/json' }, body: JSON.stringify({ sku: p.sku, product: p.name, ourPrice: p.price, store: f1.value.trim(), link: f2.value.trim(), email: f3.value.trim() }) }); ok = r.ok; } catch (err) { ok = false; } send.disabled = false; send.textContent = 'Send request'; }
+    if (ok) { msg.className = 'msg ok'; msg.textContent = `Request sent. We'll check the listing and email ${f3.value.trim()} with your matched price.`; form.reset(); return; }
+    msg.className = 'msg err'; msg.textContent = PRICE_MATCH_URL ? 'Your request did not go through. Check your connection and try again.' : 'Price-match requests open when the store launches.';
+  };
+  const toggle = h('button', { class: 'pm-btn', type: 'button', 'aria-expanded': 'false', text: 'Request a price match', onclick: () => { form.hidden = !form.hidden; toggle.setAttribute('aria-expanded', String(!form.hidden)); if (!form.hidden) f1.focus(); } });
   return h('section', { class: 'cmp', 'aria-label': 'Price comparison' },
     h('div', { class: 'cmp-h' }, h('h2', { text: p.similar ? 'Compared with similar pieces' : 'Compare prices' }), h('span', { text: 'Checked ' + d })),
-    h('ul', {},
-      h('li', { class: 'us' }, h('div', {}, h('b', { text: 'Royal Furniture & Design' }), h('span', { text: p.name })), h('strong', { text: money(p.price) })),
-      rows.map(c => h('li', {}, h('div', {}, h('b', { text: c.store }), h('span', { text: c.title })), h('s', { text: money(c.price) })))),
+    list || h('p', { class: 'cmp-n', text: `We checked other stores on ${d} and didn't find this piece listed anywhere else.` }),
     save > 0 ? h('p', { class: 'cmp-f' }, `You save ${money(save)} against the lowest ${p.similar ? 'similar piece' : 'price'} we found.`) : null,
-    p.similar ? h('p', { class: 'cmp-n', text: 'We could not find this exact piece at other stores, so these are the closest matches by type and style.' }) : null);
+    p.similar && comps.length ? h('p', { class: 'cmp-n', text: 'We could not find this exact piece at other stores, so these are the closest matches by type and style.' }) : null,
+    h('div', { class: 'pm' }, ic('i-check'), h('div', {}, h('b', { text: 'Price-match guarantee' }), h('span', { text: 'Find this exact piece for less at another U.S. store? Send us the listing and we\'ll match the price.' })), toggle),
+    form);
 }
 function product(p) {
   document.title = `${p.name} | Royal Furniture & Design`;
