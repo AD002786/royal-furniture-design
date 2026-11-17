@@ -1187,8 +1187,8 @@ function compareBlock(p) {
   };
   const toggle = h('button', { class: 'pm-btn', type: 'button', 'aria-expanded': 'false', text: 'Request a price match', onclick: () => { form.hidden = !form.hidden; toggle.setAttribute('aria-expanded', String(!form.hidden)); if (!form.hidden) f1.focus(); } });
   return h('section', { class: 'cmp', 'aria-label': 'Price comparison' },
-    h('div', { class: 'cmp-h' }, h('h2', { text: p.similar ? 'Compared with similar pieces' : 'Compare prices' }), h('span', { text: 'Checked ' + d })),
-    list || h('p', { class: 'cmp-n', text: `We checked other stores on ${d} and didn't find this piece listed anywhere else.` }),
+    h('div', { class: 'cmp-h' }, h('h2', { text: p.checked ? (p.similar ? 'Compared with similar pieces' : 'Compare prices') : 'Our price promise' }), p.checked ? h('span', { text: 'Checked ' + d }) : null),
+    list || (p.checked ? h('p', { class: 'cmp-n', text: `We checked other stores on ${d} and didn't find this piece listed anywhere else.` }) : null),
     save > 0 ? h('p', { class: 'cmp-f' }, `You save ${money(save)} against the lowest ${p.similar ? 'similar piece' : 'price'} we found.`) : null,
     p.similar && comps.length ? h('p', { class: 'cmp-n', text: 'We could not find this exact piece at other stores, so these are the closest matches by type and style.' }) : null,
     h('div', { class: 'pm' }, ic('i-check'), h('div', {}, h('b', { text: 'Price-match guarantee' }), h('span', { text: 'Find this exact piece for less at another U.S. store? Send us the listing and we\'ll match the price.' })), toggle),
@@ -1236,6 +1236,8 @@ function product(p) {
       acc('Care', 'Dust with a soft, dry cloth. Blot spills right away, and keep the piece out of direct sun to protect the fabric and finish.')));
   w.append(h('div', { class: 'pdp' }, gal, info));
   // complete the look / more
+  const theSet = P.filter(x => x.sku !== p.sku && x.photo === p.photo).sort(ord);
+  if (theSet.length) app.append(h('section', { class: 'w blk' }, h('div', { class: 'bh' }, h('h2', { class: 'h2', text: 'Shop the set' }), h('span', { class: 'muted', text: `${theSet.length + 1} pieces from the ${p.name.split(' ')[0]} photo` })), h('div', { class: 'grid' }, theSet.slice(0, 8).map(card))));
   const same = P.filter(x => x.category === p.category && x.sku !== p.sku).sort(ord);
   const room = P.filter(x => x.room === p.room && x.category !== p.category && x.price != null).sort(ord);
   app.append(h('section', { class: 'w blk' }, h('div', { class: 'bh' }, h('h2', { class: 'h2', text: 'Finish the room' }), h('a', { class: 'lnk', href: '#' + p.room.toLowerCase(), text: `Shop ${RNAME[p.room].toLowerCase()}` })), h('div', { class: 'grid' }, room.slice(0, 4).map(card))));
