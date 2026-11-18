@@ -768,6 +768,15 @@ footer .bt{border-top-color:rgba(255,255,255,.14)}
 .cmp{background:#fcfaff;border-color:var(--lav-2)}
 .btn.atb[disabled],.btn[disabled]{background:var(--chalk2);color:var(--soft)}
 .facts{background:var(--lav)}
+
+/* show room photos whole: contain on a soft blurred fill of the same photo */
+.fit{position:relative;isolation:isolate}
+.fit:before{content:"";position:absolute;inset:-30px;background:var(--bg) center/cover no-repeat;filter:blur(22px) saturate(1.1) brightness(1.04);opacity:.6;z-index:-1}
+.fit img{object-fit:contain!important;position:relative}
+.pc .ph.fit img{transform:none!important}
+.main.fit{aspect-ratio:4/3}
+.main.fit img{transform-origin:center}
+.fp .th button img{object-fit:cover}
 @media (prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}.copy h1 span i{transform:none}.copy p{opacity:1}}
 </style>
 </head>
@@ -946,9 +955,12 @@ function route() {
 }
 
 /* product card */
+const isRoom = src => /img\/r\/|img\/(hero|room-|scene-)/.test(src || '');
+const fitFrame = (el, src) => { const r = isRoom(src); el.classList.toggle('fit', r); el.style.setProperty('--bg', r ? `url("${src}")` : 'none'); };
 function card(p) {
   const el = h('article', { class: 'pc' });
   const ph = h('div', { class: 'ph' }, h('img', { src: p.img, alt: '', loading: 'lazy' }));
+  fitFrame(ph, p.img);
   if (p.price == null) ph.append(h('span', { class: 'tag', text: 'Coming soon' })); else if (p.featured) ph.append(h('span', { class: 'tag new', text: 'New' }));
   if (p.price != null) { const q = h('button', { class: 'qadd', type: 'button', 'aria-label': `Add ${p.name} to bag` }, ic('i-plus'), h('span', { text: 'Add to bag' })); q.onclick = () => { addBag(p.sku, 1); q.classList.add('done'); q.lastChild.textContent = 'Added'; q.firstChild.replaceWith(ic('i-check')); setTimeout(() => { q.classList.remove('done'); q.lastChild.textContent = 'Add to bag'; q.firstChild.replaceWith(ic('i-plus')); }, 1600); }; ph.append(q); }
   el.append(ph, h('div', { class: 'meta' }, h('span', { class: 'ven', text: p.catLabel }), h('a', { class: 'n', href: '#p-' + p.sku, text: p.name }), h('span', { class: 'pr' + (p.price == null ? ' na' : ''), text: p.price == null ? 'Price coming soon' : money(p.price) }), h('span', { class: 'fin' }, h('img', { class: 'thumb', src: p.img, alt: '' }), h('span', { text: p.finish }))));
@@ -1034,12 +1046,12 @@ function home() {
   recentBlock(app);
 }
 function featured(p) {
-  const views = [{ pos: '50% 50%', z: 1 }, { pos: '35% 60%', z: 1.8 }, { pos: '62% 45%', z: 2.4 }];
-  const mimg = h('img', { src: p.img, alt: p.name, loading: 'lazy' });
-  const th = h('div', { class: 'th' }, views.map((v, i) => h('button', { 'aria-label': `View ${i + 1}`, 'aria-pressed': i === 0, onclick: () => { mimg.style.transformOrigin = v.pos; mimg.style.transform = `scale(${v.z})`; $$('button', th).forEach((b, j) => b.setAttribute('aria-pressed', j === i)); } }, h('img', { src: p.img, alt: '', style: `transform:scale(${v.z});transform-origin:${v.pos}` }))));
+  const pics = (p.gallery && p.gallery.length ? p.gallery : [p.img]).slice(0, 4);
+  const mimg = h('img', { src: pics[0], alt: p.name, loading: 'lazy' });
+  const th = h('div', { class: 'th' }, pics.map((src, i) => h('button', { 'aria-label': `Photo ${i + 1}`, 'aria-pressed': i === 0, onclick: () => { mimg.src = src; fitFrame(mimg.parentNode, src); $$('button', th).forEach((b, j) => b.setAttribute('aria-pressed', j === i)); } }, h('img', { src, alt: '' }))));
   let qty = 1; const out = h('output', { text: '1' });
   const bigm = h('div', { class: 'tr', 'aria-hidden': 'true' }); for (let k = 0; k < 4; k++) bigm.append(ic('i-spark'), h('span', { text: 'featured product' }), ic('i-spark'), h('span', { class: 'o', text: 'featured product' }));
-  return h('section', { class: 'feat' }, h('div', { class: 'bigm' }, bigm), h('div', { class: 'w', style: 'margin-top:36px' }, h('div', { class: 'fp' }, th, h('div', { class: 'mi' }, mimg),
+  return h('section', { class: 'feat' }, h('div', { class: 'bigm' }, bigm), h('div', { class: 'w', style: 'margin-top:36px' }, h('div', { class: 'fp' }, th, (() => { const mi = h('div', { class: 'mi' }, mimg); fitFrame(mi, pics[0]); return mi; })(),
     h('div', { class: 'card' }, h('span', { class: 'vt', text: p.catLabel }), h('h3', {}, h('a', { href: '#p-' + p.sku, text: p.name })), h('div', { class: 'pr', text: money(p.price) }), h('p', { class: 'ds', text: p.desc }),
       h('div', { class: 'deal' }, h('b', { text: 'Members hear about deals first' }), h('span', { text: 'Join the Royal list for early access to sales on pieces like this.' }), h('div', {}, h('button', { class: 'btn', type: 'button', text: 'Join the list', onclick: joinFocus }))),
       h('div', { class: 'sw2' }, h('i', { style: 'background:' + SW[p.color] }), h('span', {}, 'Finish: ', h('b', { text: p.finish }))),
@@ -1242,7 +1254,8 @@ function product(p) {
   const views = (p.gallery && p.gallery.length ? p.gallery : [p.img]).map((src, i, a) => ({ src, label: src === p.room_img ? 'In the room' : `Photo ${i + 1} of ${a.length}` }));
   const mimg = h('img', { src: views[0].src, alt: p.name });
   const main = h('div', { class: 'main', role: 'img', 'aria-label': p.name }, mimg, h('span', { class: 'lens', text: 'Hover to zoom' }));
-  const setView = i => { mimg.src = views[i].src; $$('button', thumbs).forEach((b, j) => b.setAttribute('aria-pressed', j === i)); };
+  fitFrame(main, views[0].src);
+  const setView = i => { mimg.src = views[i].src; fitFrame(main, views[i].src); $$('button', thumbs).forEach((b, j) => b.setAttribute('aria-pressed', j === i)); };
   const thumbs = h('div', { class: 'thumbs' }, views.map((v, i) => h('button', { 'aria-label': v.label, 'aria-pressed': i === 0, onclick: () => setView(i) }, h('img', { src: v.src, alt: '', loading: 'lazy' }))));
   main.addEventListener('mousemove', e => { const r = main.getBoundingClientRect(); main.classList.add('zoom'); mimg.style.transformOrigin = `${(e.clientX - r.left) / r.width * 100}% ${(e.clientY - r.top) / r.height * 100}%`; mimg.style.transform = 'scale(2)'; });
   main.addEventListener('mouseleave', () => { main.classList.remove('zoom'); mimg.style.transform = ''; });
