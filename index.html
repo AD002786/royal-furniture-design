@@ -777,6 +777,34 @@ footer .bt{border-top-color:rgba(255,255,255,.14)}
 .main.fit{aspect-ratio:4/3}
 .main.fit img{transform-origin:center}
 .fp .th button img{object-fit:cover}
+
+/* Black Friday */
+.slide.bf:before{background:linear-gradient(90deg,rgba(43,23,72,.88) 0%,rgba(61,34,102,.7) 42%,rgba(43,23,72,.15) 75%)}
+.bfcp h1,.bfcp h2{font-family:var(--disp);font-weight:700;font-size:clamp(48px,7vw,104px);line-height:.95;letter-spacing:-.035em;margin:10px 0 14px}
+.bfcp p{max-width:440px}
+.bfk{display:inline-block;background:#fff;color:var(--plum);font-weight:700;font-size:12px;letter-spacing:.08em;text-transform:uppercase;padding:6px 10px;border-radius:2px}
+.bft{display:flex;gap:10px;margin:0 0 26px;flex-wrap:wrap}
+.bft div{background:rgba(255,255,255,.12);box-shadow:inset 0 0 0 1px rgba(255,255,255,.28);backdrop-filter:blur(6px);padding:10px 14px;border-radius:6px;min-width:120px}
+.bft b{display:block;font-family:var(--disp);font-size:22px;font-weight:700;color:#fff}
+.bft span{font-size:13px;color:#e6dcfa}
+.bfp{margin:-2px 0 12px;font-size:14px;color:var(--plum);background:var(--lav);padding:9px 12px;border-radius:6px}
+.bfp b{color:var(--iris-d)}
+.tot.sub2{color:var(--slate);font-weight:500}
+.tot.bfl{color:var(--iris-d);font-weight:600}
+.bfn{margin:8px 0;font-size:13.5px;color:var(--plum);background:var(--lav);padding:8px 10px;border-radius:6px}
+@media (max-width:600px){.bft div{min-width:0;flex:1 1 30%;padding:8px 10px}.bft b{font-size:18px}.bft span{font-size:11.5px}}
+
+/* mobile: keep the product gallery inside the screen */
+.pdp>*,.gal,.pinfo{min-width:0}
+.thumbs button{flex:none}
+@media (max-width:900px){
+  .gal{grid-template-columns:1fr;position:static}
+  .gal .thumbs{order:2;flex-direction:row;overflow-x:auto;scrollbar-width:none;gap:8px;padding-bottom:2px;max-width:100%}
+  .gal .thumbs::-webkit-scrollbar{display:none}
+  .gal .thumbs button{width:64px;height:64px}
+  .gal .main{order:1}
+  .cmp li div span{white-space:normal}
+}
 @media (prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}.copy h1 span i{transform:none}.copy p{opacity:1}}
 </style>
 </head>
@@ -802,7 +830,7 @@ footer .bt{border-top-color:rgba(255,255,255,.14)}
   <symbol id="i-g2" viewBox="0 0 16 16"><path d="M1 1h6v6H1zM9 1h6v6H9zM1 9h6v6H1zM9 9h6v6H9z" fill="currentColor"/></symbol>
 </svg>
 
-<div class="promo" id="promo"><div class="w"><button class="ar" id="annL" type="button" aria-label="Previous message"><svg><use href="#i-l"/></svg></button><div class="msg2" id="annM" aria-live="polite"><span class="on">Welcome to Royal Furniture &amp; Design</span><span><b>Join the list</b> for member-only deals. <button type="button" data-join>Sign up</button></span><span>Parcel and freight delivery from Atlanta, GA</span></div><button class="ar" id="annR" type="button" aria-label="Next message"><svg><use href="#i-r"/></svg></button></div></div>
+<div class="promo" id="promo"><div class="w"><button class="ar" id="annL" type="button" aria-label="Previous message"><svg><use href="#i-l"/></svg></button><div class="msg2" id="annM" aria-live="polite"><span class="on"><b>Black Friday</b> Up to $300 off, ends Dec 1</span><span>Welcome to Royal Furniture &amp; Design</span><span><b>Join the list</b> for member-only deals. <button type="button" data-join>Sign up</button></span><span>Parcel and freight delivery from Atlanta, GA</span></div><button class="ar" id="annR" type="button" aria-label="Next message"><svg><use href="#i-r"/></svg></button></div></div>
 
 <header id="hdr">
   <div class="w hd">
@@ -955,6 +983,11 @@ function route() {
 }
 
 /* product card */
+/* Black Friday: tiered savings, applied automatically in the bag */
+const BF = { end: new Date('2026-12-02T05:00:00Z'), tiers: [[3000, 300], [1500, 150], [750, 75]] };
+const bfOn = () => Date.now() < BF.end.getTime();
+const bfSave = sub => bfOn() ? (BF.tiers.find(([t]) => sub >= t) || [0, 0])[1] : 0;
+const bfNext = sub => { if (!bfOn()) return null; const nx = [...BF.tiers].reverse().find(([t]) => sub < t); return nx ? { more: nx[0] - sub, save: nx[1] } : null; };
 const isRoom = src => /img\/r\/|img\/(hero|room-|scene-)/.test(src || '');
 const fitFrame = (el, src) => { const r = isRoom(src); el.classList.toggle('fit', r); el.style.setProperty('--bg', r ? `url("${src}")` : 'none'); };
 function card(p) {
@@ -982,11 +1015,14 @@ function home() {
     { img: 'img/room-dining.jpg', alt: 'Oak dining table with rattan chairs', h1: 'Made for long dinners', p: 'Light oak and woven rattan for a table that gets used every day.', cta: ['Shop dining', '#dining'], dots: SCENES[3].dots },
     { img: 'img/room-living.jpg', alt: 'Modular sectional in a sunlit living room', h1: 'Build the sofa you need', p: 'Modular pieces you can rearrange as your space changes.', cta: ['Shop sectionals', '#c-sectionals'], dots: [] }
   ];
+  if (bfOn()) SL.unshift({ bf: true, img: 'img/scene-isabel.jpg', alt: 'Boucle sofas and a sculpted coffee table in a bright living room', h1: 'Black Friday', p: 'Up to $300 off your order. Savings apply automatically in your bag.', cta: ['Shop the sale', '#shop'], dots: [] });
   const DUR = 7000;
   const slides = h('section', { class: 'slides', 'aria-roledescription': 'carousel', 'aria-label': 'Featured rooms', style: `--dur:${DUR / 1000}s` });
   SL.forEach((s, i) => {
     const sl = h('div', { class: 'slide', role: 'group', 'aria-roledescription': 'slide', 'aria-label': `${i + 1} of ${SL.length}` }, h('img', { src: s.img, alt: s.alt, loading: i ? 'lazy' : null, fetchpriority: i ? null : 'high' }),
-      h('div', { class: 'cp' }, h(i === 0 ? 'h1' : 'h2', { text: s.h1, style: i ? 'font-family:var(--disp);font-weight:500;font-size:clamp(42px,5.4vw,78px);line-height:1.04;letter-spacing:-.025em;margin:0 0 16px' : null }), h('p', { text: s.p }), h('a', { class: 'btn light', href: s.cta[1], text: s.cta[0] })));
+      s.bf ? h('div', { class: 'cp bfcp' }, h('span', { class: 'bfk', text: 'Ends Dec 1' }), h(i === 0 ? 'h1' : 'h2', { text: s.h1 }), h('p', { text: s.p }), h('div', { class: 'bft' }, BF.tiers.slice().reverse().map(([t, v]) => h('div', {}, h('b', { text: `$${v} off` }), h('span', { text: `orders $${t.toLocaleString('en-US')}+` })))), h('a', { class: 'btn iris', href: s.cta[1], text: s.cta[0] }))
+        : h('div', { class: 'cp' }, h(i === 0 ? 'h1' : 'h2', { text: s.h1, style: i ? 'font-family:var(--disp);font-weight:500;font-size:clamp(42px,5.4vw,78px);line-height:1.04;letter-spacing:-.025em;margin:0 0 16px' : null }), h('p', { text: s.p }), h('a', { class: 'btn light', href: s.cta[1], text: s.cta[0] })));
+    if (s.bf) sl.classList.add('bf');
     s.dots.forEach(d => { const p = bySku(d.sku); if (p) sl.append(h('button', { class: 'dot', style: `left:${d.x}%;top:${d.y}%`, 'aria-label': `View ${p.name}`, 'aria-expanded': 'false', onclick: e => { e.stopPropagation(); togglePop(e.currentTarget, p, slides); pause(true); } })); });
     slides.append(sl);
   });
@@ -1005,7 +1041,7 @@ function home() {
   pp.onclick = () => pause(!paused);
   slides.classList.toggle('paused', paused); go(0); if (paused) pp.replaceChildren(ic('i-play'));
   // benefits ticker
-  const BEN = [['i-truck', 'Parcel and freight delivery'], ['i-sofa', '230+ pieces in stock'], ['i-spark', 'New arrivals each season'], ['i-pin', 'Locally owned in Atlanta'], ['i-box', 'White-glove setup available']];
+  const BEN = [['i-truck', 'Parcel and freight delivery'], ['i-sofa', 'Price-match guarantee'], ['i-spark', 'New arrivals each season'], ['i-pin', 'Locally owned in Atlanta'], ['i-box', 'White-glove setup available']];
   const tr = h('div', { class: 'tr', 'aria-hidden': 'true' }); [...BEN, ...BEN, ...BEN, ...BEN].forEach(([i, t]) => tr.append(h('span', {}, ic(i), t)));
   app.append(h('div', { class: 'ticker' }, h('p', { class: 'sr', text: BEN.map(b => b[1]).join('. ') }), tr));
   // most purchased with thumbnail tabs
@@ -1273,6 +1309,7 @@ function product(p) {
     h('div', { class: 'bc', text: p.catLabel }), h('h1', { text: p.name }),
     h('div', { class: 'prow' }, h('span', { class: 'pr' + (p.price == null ? ' na' : ''), text: p.price == null ? 'Price coming soon' : money(p.price) }), p.pack > 1 ? h('span', { class: 'muted', text: `for a set of ${p.pack}` }) : null, h('span', { class: 'id', text: 'Item ' + p.sku })),
     p.price != null && p.beat && p.comps && p.comps.length && !p.similar ? h('div', { class: 'beat' }, ic('i-check'), `${money(Math.floor(lowComp(p) - p.price))} less than ${p.comps.slice().sort((a, b) => a.price - b.price)[0].store}`) : null,
+    p.price != null && bfOn() ? h('div', { class: 'bfp' }, h('b', { text: 'Black Friday' }), ` Save $${(BF.tiers.find(([t]) => p.price >= t) || BF.tiers[BF.tiers.length - 1])[1]} on orders $${(BF.tiers.find(([t]) => p.price >= t) || BF.tiers[BF.tiers.length - 1])[0].toLocaleString('en-US')}+. Applied in your bag.`) : null,
     p.price != null ? h('div', { class: 'stock' }, h('i'), freight ? 'Ships by freight from our warehouse' : 'Ships boxed from our warehouse') : null,
     h('div', { class: 'fin2' }, h('div', { class: 'k' }, h('span', { text: 'Finish: ' }), p.finish), h('span', { class: 'chipx' }, h('i', { class: 'sw', style: 'background:' + SW[p.color] }), p.color)),
     h('p', { class: 'pdesc', text: p.desc }),
@@ -1321,7 +1358,10 @@ function drawBag() {
   const ups = P.filter(p => rooms.has(p.room) && !inBag.has(p.sku) && p.price != null && p.price < 600).sort(ord).slice(0, 2);
   if (ups.length) its.append(h('div', { class: 'up' }, h('h5', { text: 'Goes well with your bag' }), ups.map(p => h('div', { class: 'r' }, h('img', { src: p.img, alt: '' }), h('div', {}, h('b', { text: p.name }), h('span', { text: money(p.price) })), h('button', { type: 'button', text: 'Add', onclick: () => addBag(p.sku, 1, true) })))));
   const sub = items.reduce((a, c) => a + c.p.price * c.qty, 0);
-  ft.append(h('div', { class: 'tot' }, h('span', { text: 'Subtotal' }), h('span', { text: money(sub) })), h('div', { class: 'muted', style: 'font-size:13.5px;margin-top:4px', text: 'Delivery and tax are added at checkout.' }), h('button', { class: 'btn', type: 'button', text: 'Check out', onclick: () => info('checkout') }));
+  const save = bfSave(sub), nx = bfNext(sub);
+  if (save) ft.append(h('div', { class: 'tot sub2' }, h('span', { text: 'Items' }), h('span', { text: money(sub) })), h('div', { class: 'tot bfl' }, h('span', { text: 'Black Friday savings' }), h('span', { text: '−' + money(save) })));
+  if (nx) ft.append(h('div', { class: 'bfn' }, `Add ${money(Math.ceil(nx.more))} more to save ${money(nx.save)}.`));
+  ft.append(h('div', { class: 'tot' }, h('span', { text: save ? 'Subtotal after savings' : 'Subtotal' }), h('span', { text: money(sub - save) })), h('div', { class: 'muted', style: 'font-size:13.5px;margin-top:4px', text: 'Delivery and tax are added at checkout.' }), h('button', { class: 'btn', type: 'button', text: 'Check out', onclick: () => info('checkout') }));
 }
 $('#bagB').onclick = () => ov('#bag', true); $('#bagX').onclick = () => ov('#bag', false);
 
