@@ -729,6 +729,45 @@ header{background:#fff;border-bottom:1px solid var(--hair)}
 .pm-form .btn{justify-self:start}
 .pm-form .msg{margin:0;font-size:13px}
 .pm-form .msg.ok{color:#2e7d4f}.pm-form .msg.err{color:#b3261e}
+
+/* ---- color pass: plum + soft tints, product photos stay the hero ---- */
+:root{--plum:#2b1748;--plum-2:#3d2266;--lav:#efe8fb;--lav-2:#e3d7f7;--blush:#f7e9e4;--sage:#e5ece1;--sand:#f3ece2;--sky:#e4ecf5}
+.promo{background:linear-gradient(90deg,var(--plum),var(--plum-2) 50%,var(--plum))}
+.promo .ar{color:#cdbff0}
+.promo b,.promo .msg2 b{color:#fff}
+.circ .c img{background:var(--lav);padding:0;box-shadow:0 0 0 5px var(--lav)}
+.circ:nth-child(5n+2) .c img{background:var(--blush);box-shadow:0 0 0 5px var(--blush)}
+.circ:nth-child(5n+3) .c img{background:var(--sage);box-shadow:0 0 0 5px var(--sage)}
+.circ:nth-child(5n+4) .c img{background:var(--sand);box-shadow:0 0 0 5px var(--sand)}
+.circ:nth-child(5n) .c img{background:var(--sky);box-shadow:0 0 0 5px var(--sky)}
+.circ:hover .c:after{inset:-7px;box-shadow:0 0 0 2px var(--iris)}
+.ticker{background:var(--lav)}
+.ticker span{color:var(--plum)}
+.ticker svg{color:var(--iris)}
+.chip[aria-pressed=true]{background:var(--iris);color:#fff}
+.chip:hover{box-shadow:inset 0 0 0 1.5px var(--iris)}
+.bigm,.feat{background:linear-gradient(180deg,var(--lav) 0%,#f6f2fc 100%)}
+.bigm .o{-webkit-text-stroke-color:var(--iris)}
+.bigm .tr{color:var(--plum)}
+.fp .th button[aria-pressed=true]{box-shadow:0 0 0 2px var(--iris)}
+.btn.atb,.fp .card .btn:not(.light):not(.ghost){background:var(--iris)}
+.btn.atb:hover,.fp .card .btn:not(.light):not(.ghost):hover{background:var(--iris-d)}
+.bundle{background:var(--blush)}
+.bundle .pick{background:#fff}
+.tile .btn:hover{background:var(--iris)}
+.tile:after{background:linear-gradient(to top,rgba(43,23,72,.72),transparent 58%)}
+.news{background:linear-gradient(120deg,var(--plum) 0%,var(--plum-2) 55%,#5f2eb5 100%)}
+.news:before{background:radial-gradient(circle,rgba(201,180,255,.35),transparent 70%)}
+.news p{color:#ddd3f2}
+footer{background:var(--plum);color:#d3c8ea}
+footer a,footer .lk{color:#d3c8ea}
+footer .bt{border-top-color:rgba(255,255,255,.14)}
+.pc .pr{color:var(--ink)}
+.pc .ven{color:var(--iris-d)}
+.badge,.pc .b{background:var(--iris)}
+.cmp{background:#fcfaff;border-color:var(--lav-2)}
+.btn.atb[disabled],.btn[disabled]{background:var(--chalk2);color:var(--soft)}
+.facts{background:var(--lav)}
 @media (prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}.copy h1 span i{transform:none}.copy p{opacity:1}}
 </style>
 </head>
@@ -954,7 +993,7 @@ function home() {
   pp.onclick = () => pause(!paused);
   slides.classList.toggle('paused', paused); go(0); if (paused) pp.replaceChildren(ic('i-play'));
   // benefits ticker
-  const BEN = [['i-truck', 'Parcel and freight delivery'], ['i-sofa', '100 hand-picked pieces'], ['i-spark', 'New arrivals each season'], ['i-pin', 'Locally owned in Atlanta'], ['i-box', 'White-glove setup available']];
+  const BEN = [['i-truck', 'Parcel and freight delivery'], ['i-sofa', '230+ pieces in stock'], ['i-spark', 'New arrivals each season'], ['i-pin', 'Locally owned in Atlanta'], ['i-box', 'White-glove setup available']];
   const tr = h('div', { class: 'tr', 'aria-hidden': 'true' }); [...BEN, ...BEN, ...BEN, ...BEN].forEach(([i, t]) => tr.append(h('span', {}, ic(i), t)));
   app.append(h('div', { class: 'ticker' }, h('p', { class: 'sr', text: BEN.map(b => b[1]).join('. ') }), tr));
   // most purchased with thumbnail tabs
