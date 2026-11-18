@@ -1199,15 +1199,14 @@ function product(p) {
   recent = [p.sku, ...recent.filter(s => s !== p.sku)].slice(0, 9); persist();
   const app = $('#app'), w = h('div', { class: 'w' }); app.append(w);
   w.append(h('nav', { class: 'crumbs', 'aria-label': 'Breadcrumb' }, h('a', { href: '#', text: 'Home' }), h('span', { text: '/' }), h('a', { href: '#' + p.room.toLowerCase(), text: RNAME[p.room] }), h('span', { text: '/' }), h('a', { href: '#c-' + p.cs, text: p.catLabel }), h('span', { text: '/' }), h('span', { style: 'color:var(--ink)', text: p.name })));
-  // gallery: full scene plus two closer crops of the same photo
-  const views = [{ pos: '50% 50%', z: 1, label: 'Full room' }, { pos: '35% 60%', z: 1.8, label: 'Closer look' }, { pos: '60% 45%', z: 2.4, label: 'Detail' }];
-  const mimg = h('img', { src: p.img, alt: p.name });
+  // gallery: product photos, then the catalog room photo
+  const views = (p.gallery && p.gallery.length ? p.gallery : [p.img]).map((src, i, a) => ({ src, label: src === p.room_img ? 'In the room' : `Photo ${i + 1} of ${a.length}` }));
+  const mimg = h('img', { src: views[0].src, alt: p.name });
   const main = h('div', { class: 'main', role: 'img', 'aria-label': p.name }, mimg, h('span', { class: 'lens', text: 'Hover to zoom' }));
-  let vz = 1, vpos = '50% 50%';
-  const setView = i => { vz = views[i].z; vpos = views[i].pos; mimg.style.transformOrigin = vpos; mimg.style.transform = `scale(${vz})`; $$('button', thumbs).forEach((b, j) => b.setAttribute('aria-pressed', j === i)); };
-  const thumbs = h('div', { class: 'thumbs' }, views.map((v, i) => h('button', { 'aria-label': v.label, 'aria-pressed': i === 0, onclick: () => setView(i) }, h('img', { src: p.img, alt: '', style: `object-position:${v.pos};transform:scale(${v.z});transform-origin:${v.pos}` }))));
-  main.addEventListener('mousemove', e => { const r = main.getBoundingClientRect(); main.classList.add('zoom'); mimg.style.transformOrigin = `${(e.clientX - r.left) / r.width * 100}% ${(e.clientY - r.top) / r.height * 100}%`; mimg.style.transform = `scale(${Math.max(2, vz)})`; });
-  main.addEventListener('mouseleave', () => { main.classList.remove('zoom'); mimg.style.transformOrigin = vpos; mimg.style.transform = `scale(${vz})`; });
+  const setView = i => { mimg.src = views[i].src; $$('button', thumbs).forEach((b, j) => b.setAttribute('aria-pressed', j === i)); };
+  const thumbs = h('div', { class: 'thumbs' }, views.map((v, i) => h('button', { 'aria-label': v.label, 'aria-pressed': i === 0, onclick: () => setView(i) }, h('img', { src: v.src, alt: '', loading: 'lazy' }))));
+  main.addEventListener('mousemove', e => { const r = main.getBoundingClientRect(); main.classList.add('zoom'); mimg.style.transformOrigin = `${(e.clientX - r.left) / r.width * 100}% ${(e.clientY - r.top) / r.height * 100}%`; mimg.style.transform = 'scale(2)'; });
+  main.addEventListener('mouseleave', () => { main.classList.remove('zoom'); mimg.style.transform = ''; });
   const gal = h('div', { class: 'gal' }, thumbs, main);
   // info
   let qty = 1; const out = h('output', { text: '1' });

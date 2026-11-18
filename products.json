@@ -40,7 +40,12 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "4c177ec4ed"
+  "photo": "4c177ec4ed",
+  "room_img": "img/LV04610.jpg",
+  "gallery": [
+   "img/LV04610.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV04235",
@@ -60,7 +65,7 @@
   "rank": 2,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV04235.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04235_1_1.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -82,7 +87,18 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "b42333f08b"
+  "photo": "b42333f08b",
+  "room_img": "img/LV04235.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04235_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04235_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04235_1_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04235_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04235_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04235_dim.jpg",
+   "img/LV04235.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV02541",
@@ -102,7 +118,7 @@
   "rank": 3,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV02541.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv02541_1.jpg",
   "color": "Gray",
   "comps": [
    {
@@ -129,7 +145,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "dc6292d82d"
+  "photo": "dc6292d82d",
+  "room_img": "img/LV02541.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv02541_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv02541_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv02541_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv02541_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv02541_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv02541_5_1.jpg",
+   "img/LV02541.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03010",
@@ -149,7 +176,7 @@
   "rank": 4,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03010.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03010_17.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -176,7 +203,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "cca4852e3a"
+  "photo": "cca4852e3a",
+  "room_img": "img/LV03010.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03010_17.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03010_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03010_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03010_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03010_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03010_4_1.jpg",
+   "img/LV03010.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03180",
@@ -219,7 +257,12 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "1778bdbb4e"
+  "photo": "1778bdbb4e",
+  "room_img": "img/LV03180.jpg",
+  "gallery": [
+   "img/LV03180.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV03160",
@@ -243,7 +286,12 @@
   "img": "img/LV03160.jpg",
   "color": "Gray",
   "checked": "2026-11-16",
-  "photo": "8a4a4e9642"
+  "photo": "8a4a4e9642",
+  "room_img": "img/LV03160.jpg",
+  "gallery": [
+   "img/LV03160.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV02680",
@@ -263,7 +311,7 @@
   "rank": 7,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV02680.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/L/V/LV02680-sectional-1.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -290,7 +338,16 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "8dd9a2ea51"
+  "photo": "8dd9a2ea51",
+  "room_img": "img/LV02680.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV02680-sectional-1.jpg",
+   "https://greatfurnituredeal.com/cdn/shop/files/lv02680_6_1_700x700.jpg",
+   "https://www.ambfurniture.com/cdn/shop/files/lv02680_3_1.jpg",
+   "https://images.thdstatic.com/productImages/ef12d864-3811-4755-a16e-506f3c39501b/svn/beige-acme-furniture-sofas-couches-lv02680-c3_600.jpg",
+   "img/LV02680.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "54590",
@@ -311,7 +368,7 @@
   "rank": 8,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/54590.jpg",
+  "img": "https://www.dynamichomedecor.com/mm5/Images/acme1/54590_B.jpg",
   "color": "Gray",
   "comps": [
    {
@@ -333,7 +390,16 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "c03f4c1c50"
+  "photo": "c03f4c1c50",
+  "room_img": "img/54590.jpg",
+  "gallery": [
+   "https://www.dynamichomedecor.com/mm5/Images/acme1/54590_B.jpg",
+   "https://www.dynamichomedecor.com/mm5/Images/acme1/54590_RS.jpg",
+   "https://www.bradleyhomefurnishings.com/cdn/shop/products/54590-b4.jpg",
+   "https://www.dallasdesignerfurniture.com/images/Acme54590OlwenSectionalMochaConsole.jpg",
+   "img/54590.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV04650",
@@ -354,7 +420,7 @@
   "rank": 9,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04650.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04650.jpg",
   "color": "Warm Tones",
   "comps": [
    {
@@ -376,7 +442,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "1c94b5264c"
+  "photo": "1c94b5264c",
+  "room_img": "img/LV04650.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04650.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04650_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04650_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04650_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04650_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04650_5.jpg",
+   "img/LV04650.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04280",
@@ -393,7 +470,7 @@
   "rank": 10,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04280.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04280.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -415,7 +492,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "78d80713d5"
+  "photo": "78d80713d5",
+  "room_img": "img/LV04280.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04280.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04280_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04280_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04280_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04280_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04280_4.jpg",
+   "img/LV04280.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "AC03142",
@@ -435,7 +523,7 @@
   "rank": 11,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/AC03142.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/a/c/ac03142_5.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -457,7 +545,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "5d27b8819d"
+  "photo": "5d27b8819d",
+  "room_img": "img/AC03142.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/a/c/ac03142_5.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac03142_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac03142_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac03142_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac03142_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac03142_dim.jpg",
+   "img/AC03142.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "AC02582",
@@ -478,7 +577,7 @@
   "rank": 12,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/AC02582.jpg",
+  "img": "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-AC02582-2.jpg",
   "color": "Warm Tones",
   "comps": [
    {
@@ -500,7 +599,13 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "51c2489cf7"
+  "photo": "51c2489cf7",
+  "room_img": "img/AC02582.jpg",
+  "gallery": [
+   "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-AC02582-2.jpg",
+   "img/AC02582.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV03190",
@@ -521,7 +626,7 @@
   "rank": 13,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03190.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/L/V/LV03190-sectional-2.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -533,7 +638,15 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "585b98e4b1"
+  "photo": "585b98e4b1",
+  "room_img": "img/LV03190.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV03190-sectional-2.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV03190-sectional-3.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV03190-sectional-7.jpg",
+   "img/LV03190.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV03945",
@@ -553,7 +666,7 @@
   "rank": 14,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV03945.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03945.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -575,7 +688,17 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "846b70814a"
+  "photo": "846b70814a",
+  "room_img": "img/LV03945.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03945.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03945_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03945_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03945_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03945_3.jpg",
+   "img/LV03945.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03185",
@@ -617,7 +740,12 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "f5f66046dc"
+  "photo": "f5f66046dc",
+  "room_img": "img/LV03185.jpg",
+  "gallery": [
+   "img/LV03185.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV01929",
@@ -636,7 +764,7 @@
   "rank": 16,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV01929.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv01929.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -658,7 +786,18 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "8dd9a2ea51"
+  "photo": "8dd9a2ea51",
+  "room_img": "img/LV01929.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv01929.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01929_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01929_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01929_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01929_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01929_dim.jpg",
+   "img/LV01929.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03150",
@@ -677,7 +816,7 @@
   "rank": 17,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03150.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03150.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -699,7 +838,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "0c17961652"
+  "photo": "0c17961652",
+  "room_img": "img/LV03150.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03150.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03150_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03150_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03150_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03150_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03150_4.jpg",
+   "img/LV03150.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03370",
@@ -719,7 +869,7 @@
   "rank": 18,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03370.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03370_13.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -741,7 +891,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "d30586c700"
+  "photo": "d30586c700",
+  "room_img": "img/LV03370.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03370_13.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03370_8_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03370_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03370_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03370_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03370_5_1.jpg",
+   "img/LV03370.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04292",
@@ -758,7 +919,7 @@
   "rank": 19,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV04292.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04292_5_1.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -780,7 +941,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "78d80713d5"
+  "photo": "78d80713d5",
+  "room_img": "img/LV04292.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04292_5_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04292_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04292_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04292_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04292_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04292_4_1.jpg",
+   "img/LV04292.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD00660Q",
@@ -799,7 +971,7 @@
   "rank": 20,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD00660Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd00660q_4.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -821,7 +993,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "9b151850fa"
+  "photo": "9b151850fa",
+  "room_img": "img/BD00660Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd00660q_4.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00660q_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00660q_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00660q_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00660q_life.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00660q_dim.jpg",
+   "img/BD00660Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD04152Q",
@@ -864,7 +1047,12 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "78734fa5f6"
+  "photo": "78734fa5f6",
+  "room_img": "img/BD04152Q.jpg",
+  "gallery": [
+   "img/BD04152Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "BD02317Q",
@@ -885,7 +1073,7 @@
   "rank": 22,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD02317Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd02317q.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -907,7 +1095,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "80d93420b6"
+  "photo": "80d93420b6",
+  "room_img": "img/BD02317Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd02317q.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02317q_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02317q_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02317q_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02317q_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02317q_4_1.jpg",
+   "img/BD02317Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD03792Q",
@@ -928,7 +1127,7 @@
   "rank": 23,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD03792Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd03792q.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -955,7 +1154,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "25a18b7d31"
+  "photo": "25a18b7d31",
+  "room_img": "img/BD03792Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd03792q.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03792q_life.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03792q_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03792q_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03792q_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03792q_4.jpg",
+   "img/BD03792Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "27230Q",
@@ -976,7 +1186,7 @@
   "rank": 24,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/27230Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/7/27230q.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -998,7 +1208,14 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "bfbd3d1fee"
+  "photo": "bfbd3d1fee",
+  "room_img": "img/27230Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/7/27230q.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27230q_dim.jpg",
+   "img/27230Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD02470Q",
@@ -1018,7 +1235,7 @@
   "rank": 25,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD02470Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd02470q_10.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -1045,7 +1262,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "663bff8f81"
+  "photo": "663bff8f81",
+  "room_img": "img/BD02470Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd02470q_10.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02470q_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02470q_2_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02470q_3_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02470q_4_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02470q_5_2.jpg",
+   "img/BD02470Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "24200Q",
@@ -1066,7 +1294,7 @@
   "rank": 26,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/24200Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/4/24200q_3.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -1078,7 +1306,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "0e5e0f5287"
+  "photo": "0e5e0f5287",
+  "room_img": "img/24200Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/4/24200q_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24200q_24853_24854_24855_24856.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24200q.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24200q_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24200q_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24200q_dim.jpg",
+   "img/24200Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD04602Q",
@@ -1115,7 +1354,12 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "67c6133360"
+  "photo": "67c6133360",
+  "room_img": "img/BD04602Q.jpg",
+  "gallery": [
+   "img/BD04602Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "BD03122Q",
@@ -1136,7 +1380,7 @@
   "rank": 28,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD03122Q.jpg",
+  "img": "https://cdn.shopify.com/s/files/1/0968/7524/9980/files/bd03122q.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -1158,7 +1402,17 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "61c9c9972a"
+  "photo": "61c9c9972a",
+  "room_img": "img/BD03122Q.jpg",
+  "gallery": [
+   "https://cdn.shopify.com/s/files/1/0968/7524/9980/files/bd03122q.jpg",
+   "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-BD03122Q-2.jpg",
+   "https://www.furniturepick.com/media/catalog/product/B/D/BD03122Q-bed-6.jpg",
+   "https://www.furniturecart.com/media/catalog/product/B/D/BD03122Q-bed-2.jpg",
+   "https://www.furniturecart.com/media/catalog/product/B/D/BD03122Q-bed-4.jpg",
+   "img/BD03122Q.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "BD04212Q",
@@ -1195,7 +1449,12 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "df93b2573f"
+  "photo": "df93b2573f",
+  "room_img": "img/BD04212Q.jpg",
+  "gallery": [
+   "img/BD04212Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV03865",
@@ -1215,7 +1474,7 @@
   "rank": 30,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV03865.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03865.jpg",
   "color": "Gray",
   "comps": [
    {
@@ -1237,7 +1496,18 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "fdc404563e"
+  "photo": "fdc404563e",
+  "room_img": "img/LV03865.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03865.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03865_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03865_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03865_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03865_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03865_life.jpg",
+   "img/LV03865.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD00242Q",
@@ -1258,7 +1528,7 @@
   "rank": 31,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD00242Q.jpg",
+  "img": "https://www.bedroomfurniturediscounts.com/media/catalog/product/b/d/bd00242q_1.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -1280,7 +1550,16 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "a935fce91b"
+  "photo": "a935fce91b",
+  "room_img": "img/BD00242Q.jpg",
+  "gallery": [
+   "https://www.bedroomfurniturediscounts.com/media/catalog/product/b/d/bd00242q_1.jpg",
+   "https://www.furniturecart.com/media/catalog/product/B/D/BD00242Q-bed-str-4.jpg",
+   "https://www.furniturecart.com/media/catalog/product/B/D/BD00242Q-bed-str-5.jpg",
+   "https://www.dallasdesignerfurniture.com/images/AcmeSliverfluffBedroomSetBD00242Q.jpg",
+   "img/BD00242Q.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "BD01425Q",
@@ -1300,7 +1579,7 @@
   "rank": 32,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD01425Q.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/B/D/BD01425Q-bed-1.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -1322,7 +1601,15 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "b50f67fef5"
+  "photo": "b50f67fef5",
+  "room_img": "img/BD01425Q.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/B/D/BD01425Q-bed-1.jpg",
+   "https://www.furniturepick.com/media/catalog/product/B/D/BD01425Q-bed-3.jpg",
+   "https://www.furniturepick.com/media/catalog/product/B/D/BD01425Q-28453-br-set-1.jpg",
+   "img/BD01425Q.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "24853",
@@ -1343,7 +1630,7 @@
   "rank": 33,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/24853.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/4/24853.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -1355,7 +1642,15 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "0e5e0f5287"
+  "photo": "0e5e0f5287",
+  "room_img": "img/24853.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/4/24853.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24853_20.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24853_dim.jpg",
+   "img/24853.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD04603",
@@ -1396,7 +1691,12 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "67c6133360"
+  "photo": "67c6133360",
+  "room_img": "img/BD04603.jpg",
+  "gallery": [
+   "img/BD04603.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV00444",
@@ -1417,7 +1717,7 @@
   "rank": 35,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV00444.jpg",
+  "img": "https://www.bradleyhomefurnishings.com/cdn/shop/products/lv00444_3453cbd2-8ff6-45d9-a4b8-7795c177ff88.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -1434,7 +1734,13 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "b24c793770"
+  "photo": "b24c793770",
+  "room_img": "img/LV00444.jpg",
+  "gallery": [
+   "https://www.bradleyhomefurnishings.com/cdn/shop/products/lv00444_3453cbd2-8ff6-45d9-a4b8-7795c177ff88.jpg",
+   "img/LV00444.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "AC02585",
@@ -1454,7 +1760,7 @@
   "rank": 36,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/AC02585.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/a/c/ac02585_4.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -1471,7 +1777,17 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "9bbbf4658f"
+  "photo": "9bbbf4658f",
+  "room_img": "img/AC02585.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/a/c/ac02585_4.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac02585_life_2.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac02585_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac02585_2_2.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac02585_3.jpg",
+   "img/AC02585.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04540",
@@ -1491,7 +1807,7 @@
   "rank": 37,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04540.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04540.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -1513,7 +1829,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "f5f66046dc"
+  "photo": "f5f66046dc",
+  "room_img": "img/LV04540.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04540.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04540_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04540_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04540_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04540_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04540_4.jpg",
+   "img/LV04540.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04930",
@@ -1550,7 +1877,12 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "b42333f08b"
+  "photo": "b42333f08b",
+  "room_img": "img/LV04930.jpg",
+  "gallery": [
+   "img/LV04930.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "OF00055",
@@ -1571,7 +1903,7 @@
   "rank": 39,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/OF00055.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/O/F/OF00055-desk-1.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -1593,7 +1925,16 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "8e798b43d2"
+  "photo": "8e798b43d2",
+  "room_img": "img/OF00055.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/O/F/OF00055-desk-1.jpg",
+   "https://static.homelivingfurniture.com/data/vendors/1/items/319469/big/of00055-1.e.jpg",
+   "https://www.comfyco.com/pics3/extras/lg/ac-of00055-5-lg.jpg",
+   "https://www.comfyco.com/pics3/extras/lg/ac-of00055-3-lg.jpg",
+   "img/OF00055.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "BD01778Q",
@@ -1613,7 +1954,7 @@
   "rank": 40,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD01778Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd01778q_6.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -1635,7 +1976,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "8811210924"
+  "photo": "8811210924",
+  "room_img": "img/BD01778Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd01778q_6.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd01778q_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd01778q_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd01778q_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd01778q_4.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd01778q_dim.jpg",
+   "img/BD01778Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "83145",
@@ -1655,7 +2007,7 @@
   "rank": 41,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/83145.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/318143/big/83145.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -1667,7 +2019,14 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "9046cccd8f"
+  "photo": "9046cccd8f",
+  "room_img": "img/83145.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/318143/big/83145.jpg",
+   "https://static.homelivingfurniture.com/data/vendors/1/items/318143/big/83145_b.jpg",
+   "img/83145.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "37959",
@@ -1687,7 +2046,7 @@
   "rank": 42,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/37959.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/7/37959_1.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -1709,7 +2068,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "884953ce51"
+  "photo": "884953ce51",
+  "room_img": "img/37959.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/7/37959_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37959_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37959_2.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37959_3.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37959_4.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37959_5.jpg",
+   "img/37959.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03880",
@@ -1729,7 +2099,7 @@
   "rank": 43,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03880.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03880.jpg",
   "color": "Gray",
   "comps": [
    {
@@ -1751,7 +2121,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "25bfcd94f9"
+  "photo": "25bfcd94f9",
+  "room_img": "img/LV03880.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03880.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03880_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03880_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03880_6.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03880_7.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03880_5.jpg",
+   "img/LV03880.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04410",
@@ -1771,7 +2152,7 @@
   "rank": 44,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04410.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04410.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -1793,7 +2174,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "868de9c29d"
+  "photo": "868de9c29d",
+  "room_img": "img/LV04410.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04410.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04410_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04410_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04410_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04410_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04410_5.jpg",
+   "img/LV04410.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD00967Q",
@@ -1813,7 +2205,7 @@
   "rank": 45,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD00967Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd00967q_8.jpg",
   "color": "Gray",
   "comps": [
    {
@@ -1835,7 +2227,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "473a4f22c3"
+  "photo": "473a4f22c3",
+  "room_img": "img/BD00967Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd00967q_8.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00967q_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00967q_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00967q_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00967q_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00967q_life.jpg",
+   "img/BD00967Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "96556",
@@ -1857,7 +2260,7 @@
   "rank": 46,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/96556.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/9/6/96556_1.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -1879,7 +2282,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "16eeec9217"
+  "photo": "16eeec9217",
+  "room_img": "img/96556.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/9/6/96556_1.jpg",
+   "https://acmecorp.com/media/catalog/product/9/6/96556_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/9/6/96556_2.jpg",
+   "https://acmecorp.com/media/catalog/product/9/6/96556_3.jpg",
+   "https://acmecorp.com/media/catalog/product/9/6/96556_4.jpg",
+   "https://acmecorp.com/media/catalog/product/9/6/96556_5.jpg",
+   "img/96556.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "55920",
@@ -1899,7 +2313,7 @@
   "rank": 47,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/55920.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/320095/big/55920.jpg",
   "color": "Black",
   "comps": [
    {
@@ -1916,7 +2330,16 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "c499468df6"
+  "photo": "c499468df6",
+  "room_img": "img/55920.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/320095/big/55920.jpg",
+   "https://static.homelivingfurniture.com/data/vendors/1/items/320095/big/55920_a.jpg",
+   "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-55920-S-2.jpg",
+   "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-55920-S-8.jpg",
+   "img/55920.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV01774",
@@ -1936,7 +2359,7 @@
   "rank": 48,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV01774.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv01774.jpg",
   "color": "Blue & Green",
   "comps": [
    {
@@ -1958,7 +2381,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "3640eaa116"
+  "photo": "3640eaa116",
+  "room_img": "img/LV01774.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv01774.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01774_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01774_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01774_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01774_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01774_5.jpg",
+   "img/LV01774.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD00661",
@@ -1977,7 +2411,7 @@
   "rank": 49,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD00661.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd00661_5.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -1999,7 +2433,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "9b151850fa"
+  "photo": "9b151850fa",
+  "room_img": "img/BD00661.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd00661_5.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00661_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00661_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00661_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00661_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00661_life_1.jpg",
+   "img/BD00661.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02371",
@@ -2020,7 +2465,7 @@
   "rank": 50,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/DN02371.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02371__1.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -2042,7 +2487,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "5a8506319d"
+  "photo": "5a8506319d",
+  "room_img": "img/DN02371.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02371__1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02371_8_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02371_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02371_2_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02371_3_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02371_4_2.jpg",
+   "img/DN02371.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02309",
@@ -2063,7 +2519,7 @@
   "rank": 51,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/DN02309.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02309_9.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -2085,7 +2541,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "6c9d906b7e"
+  "photo": "6c9d906b7e",
+  "room_img": "img/DN02309.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02309_9.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02309_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02309_2_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02309_3_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02309_4_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02309_5_2.jpg",
+   "img/DN02309.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV00142",
@@ -2106,7 +2573,7 @@
   "rank": 52,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV00142.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv00142_4.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -2128,7 +2595,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "3e1d64a9df"
+  "photo": "3e1d64a9df",
+  "room_img": "img/LV00142.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv00142_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00142_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00142_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00142_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00142_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00142_dim.jpg",
+   "img/LV00142.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04682",
@@ -2149,7 +2627,7 @@
   "rank": 53,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04682.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04682_7.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -2171,7 +2649,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "501f44dc79"
+  "photo": "501f44dc79",
+  "room_img": "img/LV04682.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04682_7.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04682_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04682_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04682_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04682_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04682_4_1.jpg",
+   "img/LV04682.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03158",
@@ -2192,7 +2681,7 @@
   "rank": 54,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV03158.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03158_2.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -2219,7 +2708,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "6406a27cf4"
+  "photo": "6406a27cf4",
+  "room_img": "img/LV03158.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03158_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03158_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03158_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03158_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03158_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03158_4.jpg",
+   "img/LV03158.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV00230",
@@ -2240,7 +2740,7 @@
   "rank": 55,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV00230.jpg",
+  "img": "https://www.furniturecart.com/media/catalog/product/L/V/LV00230-chair-1.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -2262,7 +2762,14 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "29fce90eed"
+  "photo": "29fce90eed",
+  "room_img": "img/LV00230.jpg",
+  "gallery": [
+   "https://www.furniturecart.com/media/catalog/product/L/V/LV00230-chair-1.jpg",
+   "https://www.furniturecart.com/media/catalog/product/L/V/LV00230-chair-2.jpg",
+   "img/LV00230.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV04322",
@@ -2281,7 +2788,7 @@
   "rank": 56,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV04322.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04322.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -2298,7 +2805,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "846b70814a"
+  "photo": "846b70814a",
+  "room_img": "img/LV04322.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04322.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04322_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04322_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04322_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04322_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04322_4.jpg",
+   "img/LV04322.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "55427",
@@ -2317,7 +2835,7 @@
   "rank": 57,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/55427.jpg",
+  "img": "https://www.furniturecart.com/media/catalog/product/5/5/55427-recliner-1.jpg",
   "color": "Black",
   "comps": [
    {
@@ -2329,7 +2847,15 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "cc889fe9fb"
+  "photo": "cc889fe9fb",
+  "room_img": "img/55427.jpg",
+  "gallery": [
+   "https://www.furniturecart.com/media/catalog/product/5/5/55427-recliner-1.jpg",
+   "https://static.homelivingfurniture.com/data/vendors/1/items/318700/big/55427_5.jpg",
+   "https://cdn.rencdn.com/acme/high/55427_4.jpg",
+   "img/55427.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "55447",
@@ -2350,7 +2876,7 @@
   "rank": 58,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/55447.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/5/5/55447_5.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -2372,7 +2898,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "ac8aedae4d"
+  "photo": "ac8aedae4d",
+  "room_img": "img/55447.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/5/5/55447_5.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55447.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55447_1.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55447_2.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55447_3.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55447_4.jpg",
+   "img/55447.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04802",
@@ -2393,7 +2930,7 @@
   "rank": 59,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV04802.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/L/V/LV04802-chair-1.jpg",
   "color": "Warm Tones",
   "comps": [
    {
@@ -2415,7 +2952,15 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "f29e3d6bba"
+  "photo": "f29e3d6bba",
+  "room_img": "img/LV04802.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV04802-chair-1.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV04802-chair-6.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV04802-chair-4.jpg",
+   "img/LV04802.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "59664",
@@ -2434,7 +2979,7 @@
   "rank": 60,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/59664.jpg",
+  "img": "https://www.discountlivingrooms.com/media/catalog/product/5/9/59664.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -2456,7 +3001,13 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "413ed418bc"
+  "photo": "413ed418bc",
+  "room_img": "img/59664.jpg",
+  "gallery": [
+   "https://www.discountlivingrooms.com/media/catalog/product/5/9/59664.jpg",
+   "img/59664.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "55922",
@@ -2476,7 +3027,7 @@
   "rank": 61,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/55922.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/320097/big/55922.jpg",
   "color": "Black",
   "comps": [
    {
@@ -2493,7 +3044,15 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "c499468df6"
+  "photo": "c499468df6",
+  "room_img": "img/55922.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/320097/big/55922.jpg",
+   "https://homeeleganceusa.com/cdn/shop/files/55922_a_6b8005ed-6a17-4639-a9d2-49bb08039dc2.jpg",
+   "https://homeeleganceusa.com/cdn/shop/files/55922_s.jpg",
+   "img/55922.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "DN00089",
@@ -2514,7 +3073,7 @@
   "rank": 62,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/DN00089.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn00089.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -2541,7 +3100,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "4988f1a071"
+  "photo": "4988f1a071",
+  "room_img": "img/DN00089.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn00089.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn00089_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn00089_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn00089_3.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn00089_4.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn00089_5.jpg",
+   "img/DN00089.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD02320",
@@ -2562,7 +3132,7 @@
   "rank": 63,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD02320.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd02320_5.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -2584,7 +3154,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "80d93420b6"
+  "photo": "80d93420b6",
+  "room_img": "img/BD02320.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd02320_5.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02320_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02320_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02320_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02320_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02320_4.jpg",
+   "img/BD02320.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD03795",
@@ -2605,7 +3186,7 @@
   "rank": 64,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD03795.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd03795.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -2627,7 +3208,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "25a18b7d31"
+  "photo": "25a18b7d31",
+  "room_img": "img/BD03795.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd03795.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03795_life.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03795_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03795_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03795_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03795_4.jpg",
+   "img/BD03795.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "27235",
@@ -2648,7 +3240,7 @@
   "rank": 65,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/27235.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/7/27235.jpeg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -2670,7 +3262,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "bfbd3d1fee"
+  "photo": "bfbd3d1fee",
+  "room_img": "img/27235.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/7/27235.jpeg",
+   "https://acmecorp.com/media/catalog/product/2/7/27235_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27235_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27235_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27235_4.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27235_life.jpeg",
+   "img/27235.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "71725",
@@ -2689,7 +3292,7 @@
   "rank": 66,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/71725.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/7/1/71725_60172.jpg",
   "color": "Gray",
   "comps": [
    {
@@ -2711,7 +3314,14 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "31c3860138"
+  "photo": "31c3860138",
+  "room_img": "img/71725.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/7/1/71725_60172.jpg",
+   "https://acmecorp.com/media/catalog/product/7/1/71725_dim.jpg",
+   "img/71725.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02875",
@@ -2732,7 +3342,7 @@
   "rank": 67,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/DN02875.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02875_5.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -2749,7 +3359,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "1743908e8b"
+  "photo": "1743908e8b",
+  "room_img": "img/DN02875.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02875_5.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02875_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02875_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02875_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02875_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02875_4_1.jpg",
+   "img/DN02875.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02390",
@@ -2770,7 +3391,7 @@
   "rank": 68,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/DN02390.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02390.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -2787,7 +3408,17 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "5088757a5e"
+  "photo": "5088757a5e",
+  "room_img": "img/DN02390.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02390.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02390_life.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02390_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02390_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02390_dim_1.jpg",
+   "img/DN02390.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02157",
@@ -2807,7 +3438,7 @@
   "rank": 69,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/DN02157.jpg",
+  "img": "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-DN02157-2.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -2829,7 +3460,15 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "929f06c0c3"
+  "photo": "929f06c0c3",
+  "room_img": "img/DN02157.jpg",
+  "gallery": [
+   "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-DN02157-2.jpg",
+   "https://www.furniturepick.com/media/catalog/product/D/N/DN02157-table-4.jpg",
+   "https://www.furniturecart.com/media/catalog/product/D/N/DN02157-DN02128-set-1.jpg",
+   "img/DN02157.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "DN01449",
@@ -2850,7 +3489,7 @@
   "rank": 70,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/DN01449.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn01449_6.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -2872,7 +3511,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "9349234b36"
+  "photo": "9349234b36",
+  "room_img": "img/DN01449.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn01449_6.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn01449_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn01449_2_4.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn01449_3_3.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn01449_life_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn01449_dim_1.jpg",
+   "img/DN01449.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV00312",
@@ -2893,7 +3543,7 @@
   "rank": 71,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV00312.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/L/V/LV00312-tv-stand-1.jpg",
   "color": "Black",
   "comps": [
    {
@@ -2915,7 +3565,16 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "e1d6adf4e1"
+  "photo": "e1d6adf4e1",
+  "room_img": "img/LV00312.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV00312-tv-stand-1.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV00312-tv-stand-2.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV00312-tv-stand-4.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV00312-tv-stand-5.jpg",
+   "img/LV00312.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "30605",
@@ -2934,7 +3593,7 @@
   "rank": 72,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/30605.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/0/30605_1.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -2951,7 +3610,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "01bcccd1dd"
+  "photo": "01bcccd1dd",
+  "room_img": "img/30605.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/0/30605_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/0/30605_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/0/30605_2.jpg",
+   "https://acmecorp.com/media/catalog/product/3/0/30605_3.jpg",
+   "https://acmecorp.com/media/catalog/product/3/0/30605_4.jpg",
+   "https://acmecorp.com/media/catalog/product/3/0/30605_5.jpg",
+   "img/30605.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02878",
@@ -2972,7 +3642,7 @@
   "rank": 73,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/DN02878.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02878_4.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -2994,7 +3664,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "1743908e8b"
+  "photo": "1743908e8b",
+  "room_img": "img/DN02878.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02878_4.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02878_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02878_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02878_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02878_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02878_dim.jpg",
+   "img/DN02878.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "37965",
@@ -3026,7 +3707,12 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "884953ce51"
+  "photo": "884953ce51",
+  "room_img": "img/37965.jpg",
+  "gallery": [
+   "img/37965.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "84853",
@@ -3046,7 +3732,7 @@
   "rank": 75,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/84853.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/8/4/84853.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -3063,7 +3749,15 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "a299d3f887"
+  "photo": "a299d3f887",
+  "room_img": "img/84853.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/8/4/84853.jpg",
+   "https://acmecorp.com/media/catalog/product/8/4/84853_20.jpg",
+   "https://acmecorp.com/media/catalog/product/8/4/84853_dim.jpg",
+   "img/84853.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "AC00508",
@@ -3084,7 +3778,7 @@
   "rank": 76,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/AC00508.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/a/c/ac00508_11.jpg",
   "color": "Warm Tones",
   "comps": [
    {
@@ -3106,7 +3800,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "3cda4b19d7"
+  "photo": "3cda4b19d7",
+  "room_img": "img/AC00508.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/a/c/ac00508_11.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac00508_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac00508_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac00508_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac00508_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac00508_5_1.jpg",
+   "img/AC00508.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "92615",
@@ -3125,7 +3830,7 @@
   "rank": 77,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/92615.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/9/2/92615.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -3147,7 +3852,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "5a977e88b9"
+  "photo": "5a977e88b9",
+  "room_img": "img/92615.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/9/2/92615.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92615_1.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92615_2.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92615_3.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92615_4.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92615_life.jpg",
+   "img/92615.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "83072",
@@ -3169,7 +3885,7 @@
   "rank": 78,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/83072.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/318095/big/83072.jpg",
   "color": "Black",
   "comps": [
    {
@@ -3186,7 +3902,13 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "01d9a75469"
+  "photo": "01d9a75469",
+  "room_img": "img/83072.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/318095/big/83072.jpg",
+   "img/83072.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "93125",
@@ -3206,7 +3928,7 @@
   "rank": 79,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/93125.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/9/3/93125.jpg",
   "color": "Black",
   "comps": [
    {
@@ -3228,7 +3950,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "a449fed228"
+  "photo": "a449fed228",
+  "room_img": "img/93125.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/9/3/93125.jpg",
+   "https://acmecorp.com/media/catalog/product/9/3/93125_1.jpg",
+   "https://acmecorp.com/media/catalog/product/9/3/93125_2.jpg",
+   "https://acmecorp.com/media/catalog/product/9/3/93125_3.jpg",
+   "https://acmecorp.com/media/catalog/product/9/3/93125_4.jpg",
+   "https://acmecorp.com/media/catalog/product/9/3/93125_5.jpg",
+   "img/93125.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "93132",
@@ -3248,7 +3981,7 @@
   "rank": 80,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/93132.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/9/3/93132_a.jpg",
   "color": "Black",
   "comps": [
    {
@@ -3270,7 +4003,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "3e427eaee4"
+  "photo": "3e427eaee4",
+  "room_img": "img/93132.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/9/3/93132_a.jpg",
+   "https://acmecorp.com/media/catalog/product/9/3/93132_afe.jpg",
+   "https://acmecorp.com/media/catalog/product/9/3/93132_fe.jpg",
+   "https://acmecorp.com/media/catalog/product/9/3/93132_av.jpg",
+   "https://acmecorp.com/media/catalog/product/9/3/93132_f.jpg",
+   "https://acmecorp.com/media/catalog/product/9/3/93132_l.jpg",
+   "img/93132.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "84882",
@@ -3312,7 +4056,12 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "bf8e9e924c"
+  "photo": "bf8e9e924c",
+  "room_img": "img/84882.jpg",
+  "gallery": [
+   "img/84882.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "72942",
@@ -3332,10 +4081,19 @@
   "rank": 82,
   "pack": 2,
   "ship": "Parcel",
-  "img": "img/72942.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/7/2/72942.jpg",
   "color": "Beige & Natural",
   "checked": "2026-11-16",
-  "photo": "b00c428071"
+  "photo": "b00c428071",
+  "room_img": "img/72942.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/7/2/72942.jpg",
+   "https://acmecorp.com/media/catalog/product/7/2/72942_life.jpg",
+   "https://acmecorp.com/media/catalog/product/7/2/72942_1.jpg",
+   "https://acmecorp.com/media/catalog/product/7/2/72942_2.jpg",
+   "img/72942.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "37145",
@@ -3354,7 +4112,7 @@
   "rank": 83,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/37145.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/7/37145_1_1.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -3376,7 +4134,16 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "f6b5852d33"
+  "photo": "f6b5852d33",
+  "room_img": "img/37145.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/7/37145_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37145_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37145_life.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37145_dim.jpg",
+   "img/37145.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "38150",
@@ -3395,7 +4162,7 @@
   "rank": 84,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/38150.jpg",
+  "img": "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-38150-2.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -3417,7 +4184,16 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "91f90fe0e3"
+  "photo": "91f90fe0e3",
+  "room_img": "img/38150.jpg",
+  "gallery": [
+   "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-38150-2.jpg",
+   "https://www.furniturecart.com/media/catalog/product/3/8/38150-bed-3.jpg",
+   "https://www.decorhomecenter.com/cdn/shop/files/38150_3__36954.1748518976.1280.1280.jpg",
+   "https://www.decorhomecenter.com/cdn/shop/files/38150_life__68606.1748518976.1280.1280.jpg",
+   "img/38150.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "92568",
@@ -3436,10 +4212,18 @@
   "rank": 85,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/92568.jpg",
+  "img": "https://www.bradleyhomefurnishings.com/cdn/shop/products/92568.jpg",
   "color": "Warm Tones",
   "checked": "2026-11-16",
-  "photo": "d348b6f70c"
+  "photo": "d348b6f70c",
+  "room_img": "img/92568.jpg",
+  "gallery": [
+   "https://www.bradleyhomefurnishings.com/cdn/shop/products/92568.jpg",
+   "https://www.furniturepick.com/media/catalog/product/9/2/92568-chair-chocolate-1.jpg",
+   "https://www.furniturepick.com/media/catalog/product/9/2/92568-chair-chocolate-3.jpg",
+   "img/92568.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "37370",
@@ -3458,7 +4242,7 @@
   "rank": 86,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/37370.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/7/37370.jpg",
   "color": "Gray",
   "comps": [
    {
@@ -3480,7 +4264,16 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "edd4c9ea06"
+  "photo": "edd4c9ea06",
+  "room_img": "img/37370.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/7/37370.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37370_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37370_2.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37370_3.jpg",
+   "img/37370.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "37445",
@@ -3499,7 +4292,7 @@
   "rank": 87,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/37445.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/7/37445_2.jpg",
   "color": "Gray",
   "comps": [
    {
@@ -3526,7 +4319,15 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "48ab31d723"
+  "photo": "48ab31d723",
+  "room_img": "img/37445.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/7/37445_2.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37445_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37445_dim.jpg",
+   "img/37445.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "96260",
@@ -3545,7 +4346,7 @@
   "rank": 88,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/96260.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/9/6/96260-stool-clear-1.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -3567,7 +4368,13 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "a454f9339f"
+  "photo": "a454f9339f",
+  "room_img": "img/96260.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/9/6/96260-stool-clear-1.jpg",
+   "img/96260.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "30607",
@@ -3586,7 +4393,7 @@
   "rank": 89,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/30607.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/0/30607.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -3608,7 +4415,15 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "01bcccd1dd"
+  "photo": "01bcccd1dd",
+  "room_img": "img/30607.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/0/30607.jpg",
+   "https://acmecorp.com/media/catalog/product/3/0/30607_.jpg",
+   "https://acmecorp.com/media/catalog/product/3/0/30607_dim.jpg",
+   "img/30607.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN03256",
@@ -3628,7 +4443,7 @@
   "rank": 90,
   "pack": 2,
   "ship": "Parcel",
-  "img": "img/DN03256.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn03256_1.jpg",
   "color": "Gray",
   "comps": [
    {
@@ -3650,7 +4465,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "7f4b80d8b3"
+  "photo": "7f4b80d8b3",
+  "room_img": "img/DN03256.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn03256_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn03256_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn03256_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn03256_3.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn03256_4.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn03256_5.jpg",
+   "img/DN03256.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02716",
@@ -3670,7 +4496,7 @@
   "rank": 91,
   "pack": 2,
   "ship": "Parcel",
-  "img": "img/DN02716.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02716_5.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -3692,7 +4518,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "58b23f9063"
+  "photo": "58b23f9063",
+  "room_img": "img/DN02716.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02716_5.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02655_dn02716_life.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02716_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02716_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02716_3.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02716_4.jpg",
+   "img/DN02716.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03227",
@@ -3733,7 +4570,12 @@
   "similar": true,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "6fc227078c"
+  "photo": "6fc227078c",
+  "room_img": "img/LV03227.jpg",
+  "gallery": [
+   "img/LV03227.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "92569",
@@ -3752,7 +4594,7 @@
   "rank": 93,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/92569.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/321464/big/92569_a.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -3774,7 +4616,13 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "c395c4725c"
+  "photo": "c395c4725c",
+  "room_img": "img/92569.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/321464/big/92569_a.jpg",
+   "img/92569.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "92416",
@@ -3793,7 +4641,7 @@
   "rank": 94,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/92416.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/9/2/92416.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -3815,7 +4663,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "fe1517cf20"
+  "photo": "fe1517cf20",
+  "room_img": "img/92416.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/9/2/92416.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92416_1.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92416_2.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92416_3.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92416_4.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92416_dim.jpg",
+   "img/92416.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN01445",
@@ -3836,7 +4695,7 @@
   "rank": 95,
   "pack": 2,
   "ship": "Parcel",
-  "img": "img/DN01445.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/D/N/DN01445-chair-4.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -3853,7 +4712,14 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "726300c57f"
+  "photo": "726300c57f",
+  "room_img": "img/DN01445.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/D/N/DN01445-chair-4.jpg",
+   "https://www.furniturepick.com/media/catalog/product/D/N/DN01445-chair-3.jpg",
+   "img/DN01445.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV03207",
@@ -3873,7 +4739,7 @@
   "rank": 96,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV03207.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03207_3.jpg",
   "color": "Cream & White",
   "comps": [
    {
@@ -3895,7 +4761,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "16cd36f435"
+  "photo": "16cd36f435",
+  "room_img": "img/LV03207.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03207_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03207_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03207_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03207_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03207_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03207_4.jpg",
+   "img/LV03207.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "97169",
@@ -3912,7 +4789,7 @@
   "rank": 97,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/97169.jpg",
+  "img": "https://www.comfyco.com/pics3/lg/ac97169-lg.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -3934,7 +4811,15 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "4248067c8a"
+  "photo": "4248067c8a",
+  "room_img": "img/97169.jpg",
+  "gallery": [
+   "https://www.comfyco.com/pics3/lg/ac97169-lg.jpg",
+   "https://www.furniturepick.com/media/catalog/product/9/7/97169-jewelry-armoire-1.jpg",
+   "https://images.thdstatic.com/productImages/a9d46bd6-60c2-4276-a4ae-5c2e6a174b71/svn/gold-acme-furniture-jewelry-armoires-97169-64_600.jpg",
+   "img/97169.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "AC01167",
@@ -3951,7 +4836,7 @@
   "rank": 98,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/AC01167.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/a/c/ac01167_5.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -3973,7 +4858,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": true,
-  "photo": "c6ecafd72a"
+  "photo": "c6ecafd72a",
+  "room_img": "img/AC01167.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/a/c/ac01167_5.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac01167_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac01167_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac01167_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac01167_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac01167_dim.jpg",
+   "img/AC01167.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "24267",
@@ -3990,7 +4886,7 @@
   "rank": 99,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/24267.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/4/24267.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -4012,7 +4908,17 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "f71ed72410"
+  "photo": "f71ed72410",
+  "room_img": "img/24267.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/4/24267.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24267_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24267_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24267_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24267_4.jpg",
+   "img/24267.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "39080",
@@ -4031,7 +4937,7 @@
   "rank": 100,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/39080.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/9/39080.jpg",
   "color": "Black",
   "comps": [
    {
@@ -4053,7 +4959,18 @@
   "similar": false,
   "checked": "2026-11-16",
   "beat": false,
-  "photo": "6d6dff528a"
+  "photo": "6d6dff528a",
+  "room_img": "img/39080.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/9/39080.jpg",
+   "https://acmecorp.com/media/catalog/product/3/9/39080_.jpg",
+   "https://acmecorp.com/media/catalog/product/3/9/39080_39083_2.jpg",
+   "https://acmecorp.com/media/catalog/product/3/9/39080_39083_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/9/39080_39083.jpg",
+   "https://acmecorp.com/media/catalog/product/3/9/39080_dim.jpg",
+   "img/39080.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04611",
@@ -4076,7 +4993,12 @@
   "img": "img/LV04610.jpg",
   "color": "Beige & Natural",
   "set": "LV04610",
-  "photo": "4c177ec4ed"
+  "photo": "4c177ec4ed",
+  "room_img": "img/LV04610.jpg",
+  "gallery": [
+   "img/LV04610.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV04612",
@@ -4099,7 +5021,12 @@
   "img": "img/LV04610.jpg",
   "color": "Beige & Natural",
   "set": "LV04610",
-  "photo": "4c177ec4ed"
+  "photo": "4c177ec4ed",
+  "room_img": "img/LV04610.jpg",
+  "gallery": [
+   "img/LV04610.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV04613",
@@ -4121,7 +5048,12 @@
   "img": "img/LV04610.jpg",
   "color": "Beige & Natural",
   "set": "LV04610",
-  "photo": "4c177ec4ed"
+  "photo": "4c177ec4ed",
+  "room_img": "img/LV04610.jpg",
+  "gallery": [
+   "img/LV04610.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV04931",
@@ -4143,7 +5075,12 @@
   "img": "img/LV04235.jpg",
   "color": "Beige & Natural",
   "set": "LV04235",
-  "photo": "b42333f08b"
+  "photo": "b42333f08b",
+  "room_img": "img/LV04235.jpg",
+  "gallery": [
+   "img/LV04235.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV02543",
@@ -4163,10 +5100,21 @@
   "rank": 105,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04235.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv02543.jpg",
   "color": "Beige & Natural",
   "set": "LV04235",
-  "photo": "b42333f08b"
+  "photo": "b42333f08b",
+  "room_img": "img/LV04235.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv02543.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv02543_life_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv02543_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv02543_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv02543_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv02543_4_1.jpg",
+   "img/LV04235.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04236",
@@ -4183,10 +5131,20 @@
   "rank": 106,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV04235.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04236_4.jpg",
   "color": "Beige & Natural",
   "set": "LV04235",
-  "photo": "b42333f08b"
+  "photo": "b42333f08b",
+  "room_img": "img/LV04235.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04236_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04236_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04236_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04236_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04236_3_1.jpg",
+   "img/LV04235.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03011",
@@ -4205,10 +5163,20 @@
   "rank": 107,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV03010.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03011_3.jpg",
   "color": "Beige & Natural",
   "set": "LV03010",
-  "photo": "cca4852e3a"
+  "photo": "cca4852e3a",
+  "room_img": "img/LV03010.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03011_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03011_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03011_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03011_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03011_dim.jpg",
+   "img/LV03010.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04290",
@@ -4225,10 +5193,21 @@
   "rank": 108,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04280.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04290_8.jpg",
   "color": "Beige & Natural",
   "set": "LV04280",
-  "photo": "78d80713d5"
+  "photo": "78d80713d5",
+  "room_img": "img/LV04280.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04290_8.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04290_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04290_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04290_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04290_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04290_4_1.jpg",
+   "img/LV04280.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03930",
@@ -4245,10 +5224,21 @@
   "rank": 109,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV04280.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03930.jpg",
   "color": "Beige & Natural",
   "set": "LV04280",
-  "photo": "78d80713d5"
+  "photo": "78d80713d5",
+  "room_img": "img/LV04280.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03930.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03930_5.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03930_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03930_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03930_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03930_4.jpg",
+   "img/LV04280.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV55150",
@@ -4267,10 +5257,16 @@
   "rank": 110,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/AC03142.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/L/V/LV55150-chair-1.jpg",
   "color": "Beige & Natural",
   "set": "AC03142",
-  "photo": "5d27b8819d"
+  "photo": "5d27b8819d",
+  "room_img": "img/AC03142.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV55150-chair-1.jpg",
+   "img/AC03142.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV55151",
@@ -4292,7 +5288,12 @@
   "img": "img/AC03142.jpg",
   "color": "Beige & Natural",
   "set": "AC03142",
-  "photo": "5d27b8819d"
+  "photo": "5d27b8819d",
+  "room_img": "img/AC03142.jpg",
+  "gallery": [
+   "img/AC03142.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV55152",
@@ -4312,7 +5313,12 @@
   "img": "img/AC03142.jpg",
   "color": "Beige & Natural",
   "set": "AC03142",
-  "photo": "5d27b8819d"
+  "photo": "5d27b8819d",
+  "room_img": "img/AC03142.jpg",
+  "gallery": [
+   "img/AC03142.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "OF02586",
@@ -4332,10 +5338,21 @@
   "rank": 113,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/AC02582.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/o/f/of02586.jpg",
   "color": "Warm Tones",
   "set": "AC02582",
-  "photo": "51c2489cf7"
+  "photo": "51c2489cf7",
+  "room_img": "img/AC02582.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/o/f/of02586.jpg",
+   "https://acmecorp.com/media/catalog/product/o/f/of02586_life.jpg",
+   "https://acmecorp.com/media/catalog/product/o/f/of02586_1.jpg",
+   "https://acmecorp.com/media/catalog/product/o/f/of02586_2.jpg",
+   "https://acmecorp.com/media/catalog/product/o/f/of02586_3.jpg",
+   "https://acmecorp.com/media/catalog/product/o/f/of02586_4.jpg",
+   "img/AC02582.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "AC02587",
@@ -4354,10 +5371,16 @@
   "rank": 114,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/AC02582.jpg",
+  "img": "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-AC02587-2.jpg",
   "color": "Warm Tones",
   "set": "AC02582",
-  "photo": "51c2489cf7"
+  "photo": "51c2489cf7",
+  "room_img": "img/AC02582.jpg",
+  "gallery": [
+   "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-AC02587-2.jpg",
+   "img/AC02582.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV04320",
@@ -4374,10 +5397,21 @@
   "rank": 115,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03945.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04320.jpg",
   "color": "Cream & White",
   "set": "LV03945",
-  "photo": "846b70814a"
+  "photo": "846b70814a",
+  "room_img": "img/LV03945.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04320.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04320_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04320_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04320_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04320_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04320_4.jpg",
+   "img/LV03945.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03946",
@@ -4396,10 +5430,20 @@
   "rank": 116,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV03945.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03946.jpg",
   "color": "Cream & White",
   "set": "LV03945",
-  "photo": "846b70814a"
+  "photo": "846b70814a",
+  "room_img": "img/LV03945.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03946.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03946_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03946_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03946_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03946_3.jpg",
+   "img/LV03945.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03947",
@@ -4418,10 +5462,21 @@
   "rank": 117,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV03945.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03947.jpg",
   "color": "Cream & White",
   "set": "LV03945",
-  "photo": "846b70814a"
+  "photo": "846b70814a",
+  "room_img": "img/LV03945.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03947.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03947_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03947_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03947_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03947_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03947_4.jpg",
+   "img/LV03945.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04542",
@@ -4440,10 +5495,21 @@
   "rank": 118,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03185.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04542.jpg",
   "color": "Brown & Wood",
   "set": "LV03185",
-  "photo": "f5f66046dc"
+  "photo": "f5f66046dc",
+  "room_img": "img/LV03185.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04542.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04542_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04542_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04542_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04542_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04542_4.jpg",
+   "img/LV03185.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03151",
@@ -4462,10 +5528,21 @@
   "rank": 119,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03150.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03151.jpg",
   "color": "Brown & Wood",
   "set": "LV03150",
-  "photo": "0c17961652"
+  "photo": "0c17961652",
+  "room_img": "img/LV03150.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03151.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03151_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03151_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03151_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03151_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03151_4.jpg",
+   "img/LV03150.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03152",
@@ -4484,10 +5561,21 @@
   "rank": 120,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03150.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03152.jpg",
   "color": "Brown & Wood",
   "set": "LV03150",
-  "photo": "0c17961652"
+  "photo": "0c17961652",
+  "room_img": "img/LV03150.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03152.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03152_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03152_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03152_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03152_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03152_5.jpg",
+   "img/LV03150.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03990",
@@ -4510,7 +5598,12 @@
   "img": "img/LV03370.jpg",
   "color": "Brown & Wood",
   "set": "LV03370",
-  "photo": "d30586c700"
+  "photo": "d30586c700",
+  "room_img": "img/LV03370.jpg",
+  "gallery": [
+   "img/LV03370.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV03991",
@@ -4533,7 +5626,12 @@
   "img": "img/LV03370.jpg",
   "color": "Brown & Wood",
   "set": "LV03370",
-  "photo": "d30586c700"
+  "photo": "d30586c700",
+  "room_img": "img/LV03370.jpg",
+  "gallery": [
+   "img/LV03370.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV03992",
@@ -4556,7 +5654,12 @@
   "img": "img/LV03370.jpg",
   "color": "Brown & Wood",
   "set": "LV03370",
-  "photo": "d30586c700"
+  "photo": "d30586c700",
+  "room_img": "img/LV03370.jpg",
+  "gallery": [
+   "img/LV03370.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV03993",
@@ -4579,7 +5682,12 @@
   "img": "img/LV03370.jpg",
   "color": "Brown & Wood",
   "set": "LV03370",
-  "photo": "d30586c700"
+  "photo": "d30586c700",
+  "room_img": "img/LV03370.jpg",
+  "gallery": [
+   "img/LV03370.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV03994",
@@ -4601,7 +5709,12 @@
   "img": "img/LV03370.jpg",
   "color": "Brown & Wood",
   "set": "LV03370",
-  "photo": "d30586c700"
+  "photo": "d30586c700",
+  "room_img": "img/LV03370.jpg",
+  "gallery": [
+   "img/LV03370.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "BD00662",
@@ -4618,10 +5731,20 @@
   "rank": 126,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD00660Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd00662_2.jpg",
   "color": "Beige & Natural",
   "set": "BD00660Q",
-  "photo": "9b151850fa"
+  "photo": "9b151850fa",
+  "room_img": "img/BD00660Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd00662_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00662_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00662_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00662_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00662_dim.jpg",
+   "img/BD00660Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD00663",
@@ -4638,10 +5761,20 @@
   "rank": 127,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD00660Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd00663_4.jpg",
   "color": "Beige & Natural",
   "set": "BD00660Q",
-  "photo": "9b151850fa"
+  "photo": "9b151850fa",
+  "room_img": "img/BD00660Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd00663_4.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00663_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00663_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00663_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00663_life_1.jpg",
+   "img/BD00660Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD00664",
@@ -4658,10 +5791,21 @@
   "rank": 128,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD00660Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd00664.jpg",
   "color": "Beige & Natural",
   "set": "BD00660Q",
-  "photo": "9b151850fa"
+  "photo": "9b151850fa",
+  "room_img": "img/BD00660Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd00664.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00664_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00664_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00664_3_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00664_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00664_dim.jpg",
+   "img/BD00660Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD04154",
@@ -4683,7 +5827,12 @@
   "img": "img/BD04152Q.jpg",
   "color": "Gray",
   "set": "BD04152Q",
-  "photo": "78734fa5f6"
+  "photo": "78734fa5f6",
+  "room_img": "img/BD04152Q.jpg",
+  "gallery": [
+   "img/BD04152Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "BD04155",
@@ -4705,7 +5854,12 @@
   "img": "img/BD04152Q.jpg",
   "color": "Gray",
   "set": "BD04152Q",
-  "photo": "78734fa5f6"
+  "photo": "78734fa5f6",
+  "room_img": "img/BD04152Q.jpg",
+  "gallery": [
+   "img/BD04152Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "BD04156",
@@ -4727,7 +5881,12 @@
   "img": "img/BD04152Q.jpg",
   "color": "Gray",
   "set": "BD04152Q",
-  "photo": "78734fa5f6"
+  "photo": "78734fa5f6",
+  "room_img": "img/BD04152Q.jpg",
+  "gallery": [
+   "img/BD04152Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "BD04157",
@@ -4749,7 +5908,12 @@
   "img": "img/BD04152Q.jpg",
   "color": "Gray",
   "set": "BD04152Q",
-  "photo": "78734fa5f6"
+  "photo": "78734fa5f6",
+  "room_img": "img/BD04152Q.jpg",
+  "gallery": [
+   "img/BD04152Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "BD02318",
@@ -4766,10 +5930,21 @@
   "rank": 133,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD02317Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd02318_6.jpg",
   "color": "Cream & White",
   "set": "BD02317Q",
-  "photo": "80d93420b6"
+  "photo": "80d93420b6",
+  "room_img": "img/BD02317Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd02318_6.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02318_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02318_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02318_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02318_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02318_4.jpg",
+   "img/BD02317Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD02319",
@@ -4786,10 +5961,19 @@
   "rank": 134,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD02317Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd02319_2.jpg",
   "color": "Cream & White",
   "set": "BD02317Q",
-  "photo": "80d93420b6"
+  "photo": "80d93420b6",
+  "room_img": "img/BD02317Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd02319_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02319_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02319_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02319_dim.jpg",
+   "img/BD02317Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD02321",
@@ -4806,10 +5990,21 @@
   "rank": 135,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD02317Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd02321_5.jpg",
   "color": "Cream & White",
   "set": "BD02317Q",
-  "photo": "80d93420b6"
+  "photo": "80d93420b6",
+  "room_img": "img/BD02317Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd02321_5.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02321_life.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02321_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02321_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02321_4.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd02321_2_1.jpg",
+   "img/BD02317Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD03793",
@@ -4826,10 +6021,21 @@
   "rank": 136,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD03792Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd03793.jpg",
   "color": "Beige & Natural",
   "set": "BD03792Q",
-  "photo": "25a18b7d31"
+  "photo": "25a18b7d31",
+  "room_img": "img/BD03792Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd03793.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03793_life.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03793_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03793_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03793_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03793_4.jpg",
+   "img/BD03792Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD03794",
@@ -4846,10 +6052,21 @@
   "rank": 137,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD03792Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd03794.jpg",
   "color": "Beige & Natural",
   "set": "BD03792Q",
-  "photo": "25a18b7d31"
+  "photo": "25a18b7d31",
+  "room_img": "img/BD03792Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd03794.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03794_life.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03794_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03794_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03794_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03794_dim.jpg",
+   "img/BD03792Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD03796",
@@ -4866,10 +6083,21 @@
   "rank": 138,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD03792Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd03796.jpg",
   "color": "Beige & Natural",
   "set": "BD03792Q",
-  "photo": "25a18b7d31"
+  "photo": "25a18b7d31",
+  "room_img": "img/BD03792Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd03796.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03796_life.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03796_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03796_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03796_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd03796_4.jpg",
+   "img/BD03792Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "27233",
@@ -4886,10 +6114,18 @@
   "rank": 139,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/27230Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/7/27233.jpg",
   "color": "Beige & Natural",
   "set": "27230Q",
-  "photo": "bfbd3d1fee"
+  "photo": "bfbd3d1fee",
+  "room_img": "img/27230Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/7/27233.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27233_20.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27233_dim.jpg",
+   "img/27230Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "27234",
@@ -4908,10 +6144,21 @@
   "rank": 140,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/27230Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/7/27234_1.jpg",
   "color": "Beige & Natural",
   "set": "27230Q",
-  "photo": "bfbd3d1fee"
+  "photo": "bfbd3d1fee",
+  "room_img": "img/27230Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/7/27234_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27234_life.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27234_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27234_20.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27234_21.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27234_dim.jpg",
+   "img/27230Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "27236",
@@ -4928,10 +6175,21 @@
   "rank": 141,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/27230Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/7/27236_1.jpg",
   "color": "Beige & Natural",
   "set": "27230Q",
-  "photo": "bfbd3d1fee"
+  "photo": "bfbd3d1fee",
+  "room_img": "img/27230Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/7/27236_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27236_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27236_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27236_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27236_4.jpg",
+   "https://acmecorp.com/media/catalog/product/2/7/27236_life.jpeg",
+   "img/27230Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "21683",
@@ -4948,10 +6206,19 @@
   "rank": 142,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD02470Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/1/21683_1.jpg",
   "color": "Cream & White",
   "set": "BD02470Q",
-  "photo": "663bff8f81"
+  "photo": "663bff8f81",
+  "room_img": "img/BD02470Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/1/21683_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21683_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21683_life.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21683_dim.jpg",
+   "img/BD02470Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "21684",
@@ -4968,10 +6235,20 @@
   "rank": 143,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD02470Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/1/21684_2.jpg",
   "color": "Cream & White",
   "set": "BD02470Q",
-  "photo": "663bff8f81"
+  "photo": "663bff8f81",
+  "room_img": "img/BD02470Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/1/21684_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21684_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21684_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21684_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21684_dim.jpg",
+   "img/BD02470Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "21685",
@@ -4988,10 +6265,21 @@
   "rank": 144,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD02470Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/1/21685_1.jpg",
   "color": "Cream & White",
   "set": "BD02470Q",
-  "photo": "663bff8f81"
+  "photo": "663bff8f81",
+  "room_img": "img/BD02470Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/1/21685_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21685_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21685_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21685_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21685_life.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21685_dim.jpg",
+   "img/BD02470Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "21686",
@@ -5008,10 +6296,21 @@
   "rank": 145,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD02470Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/1/21686_4.jpg",
   "color": "Cream & White",
   "set": "BD02470Q",
-  "photo": "663bff8f81"
+  "photo": "663bff8f81",
+  "room_img": "img/BD02470Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/1/21686_4.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21686_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21686_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21686_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21686_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/1/21686_life_1.jpg",
+   "img/BD02470Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "24854",
@@ -5030,10 +6329,19 @@
   "rank": 146,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/24200Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/4/24854_24855.jpg",
   "color": "Brown & Wood",
   "set": "24200Q",
-  "photo": "0e5e0f5287"
+  "photo": "0e5e0f5287",
+  "room_img": "img/24200Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/4/24854_24855.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24854_20.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24854_21.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24854_dim.jpg",
+   "img/24200Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "24855",
@@ -5052,10 +6360,18 @@
   "rank": 147,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/24200Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/4/24855.jpg",
   "color": "Brown & Wood",
   "set": "24200Q",
-  "photo": "0e5e0f5287"
+  "photo": "0e5e0f5287",
+  "room_img": "img/24200Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/4/24855.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24855_20.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24855_dim.jpg",
+   "img/24200Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "24856",
@@ -5074,10 +6390,18 @@
   "rank": 148,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/24200Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/4/24856.jpg",
   "color": "Brown & Wood",
   "set": "24200Q",
-  "photo": "0e5e0f5287"
+  "photo": "0e5e0f5287",
+  "room_img": "img/24200Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/4/24856.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24856_20.jpg",
+   "https://acmecorp.com/media/catalog/product/2/4/24856_dim.jpg",
+   "img/24200Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD04604",
@@ -5097,7 +6421,12 @@
   "img": "img/BD04602Q.jpg",
   "color": "Beige & Natural",
   "set": "BD04602Q",
-  "photo": "67c6133360"
+  "photo": "67c6133360",
+  "room_img": "img/BD04602Q.jpg",
+  "gallery": [
+   "img/BD04602Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "BD04605",
@@ -5117,7 +6446,12 @@
   "img": "img/BD04602Q.jpg",
   "color": "Beige & Natural",
   "set": "BD04602Q",
-  "photo": "67c6133360"
+  "photo": "67c6133360",
+  "room_img": "img/BD04602Q.jpg",
+  "gallery": [
+   "img/BD04602Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "BD04606",
@@ -5137,7 +6471,12 @@
   "img": "img/BD04602Q.jpg",
   "color": "Beige & Natural",
   "set": "BD04602Q",
-  "photo": "67c6133360"
+  "photo": "67c6133360",
+  "room_img": "img/BD04602Q.jpg",
+  "gallery": [
+   "img/BD04602Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "BD04607",
@@ -5157,7 +6496,12 @@
   "img": "img/BD04602Q.jpg",
   "color": "Beige & Natural",
   "set": "BD04602Q",
-  "photo": "67c6133360"
+  "photo": "67c6133360",
+  "room_img": "img/BD04602Q.jpg",
+  "gallery": [
+   "img/BD04602Q.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV01710",
@@ -5176,10 +6520,17 @@
   "rank": 153,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03865.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/cache/1/image/650x650/9df78eab33525d08d6e5fb8d27136e95/L/V/LV01710-sofa-1.jpg",
   "color": "Gray",
   "set": "LV03865",
-  "photo": "fdc404563e"
+  "photo": "fdc404563e",
+  "room_img": "img/LV03865.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/cache/1/image/650x650/9df78eab33525d08d6e5fb8d27136e95/L/V/LV01710-sofa-1.jpg",
+   "https://www.bradleyhomefurnishings.com/cdn/shop/files/lv01710_6.jpg",
+   "img/LV03865.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV01711",
@@ -5198,10 +6549,21 @@
   "rank": 154,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03865.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv01711_4.jpg",
   "color": "Gray",
   "set": "LV03865",
-  "photo": "fdc404563e"
+  "photo": "fdc404563e",
+  "room_img": "img/LV03865.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv01711_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01711_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01711_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01711_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01711_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv01711_life_1.jpg",
+   "img/LV03865.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03866",
@@ -5218,10 +6580,21 @@
   "rank": 155,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV03865.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03866.jpg",
   "color": "Gray",
   "set": "LV03865",
-  "photo": "fdc404563e"
+  "photo": "fdc404563e",
+  "room_img": "img/LV03865.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03866.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03866_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03866_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03866_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03866_5.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03866_life.jpg",
+   "img/LV03865.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD00243",
@@ -5238,10 +6611,21 @@
   "rank": 156,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD00242Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd00243.jpg",
   "color": "Beige & Natural",
   "set": "BD00242Q",
-  "photo": "a935fce91b"
+  "photo": "a935fce91b",
+  "room_img": "img/BD00242Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd00243.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00243_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00243_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00243_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00243_4.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00243_life.jpg",
+   "img/BD00242Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD00245",
@@ -5260,10 +6644,20 @@
   "rank": 157,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD00242Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd00245.jpg",
   "color": "Beige & Natural",
   "set": "BD00242Q",
-  "photo": "a935fce91b"
+  "photo": "a935fce91b",
+  "room_img": "img/BD00242Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd00245.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00245_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00245_life.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00245_20.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00245_dim.jpg",
+   "img/BD00242Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD00246",
@@ -5280,10 +6674,21 @@
   "rank": 158,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD00242Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/b/d/bd00246.jpg",
   "color": "Beige & Natural",
   "set": "BD00242Q",
-  "photo": "a935fce91b"
+  "photo": "a935fce91b",
+  "room_img": "img/BD00242Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/b/d/bd00246.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00246_1.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00246_2.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00246_3.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00246_life.jpg",
+   "https://acmecorp.com/media/catalog/product/b/d/bd00246_dim.jpg",
+   "img/BD00242Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "BD00247",
@@ -5300,10 +6705,18 @@
   "rank": 159,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD00242Q.jpg",
+  "img": "https://www.dynamichomedecor.com/mm5/Images/acme1/BD00247_A.jpg",
   "color": "Beige & Natural",
   "set": "BD00242Q",
-  "photo": "a935fce91b"
+  "photo": "a935fce91b",
+  "room_img": "img/BD00242Q.jpg",
+  "gallery": [
+   "https://www.dynamichomedecor.com/mm5/Images/acme1/BD00247_A.jpg",
+   "https://www.furniturepick.com/media/catalog/product/B/D/BD00247-chest-2.jpg",
+   "https://www.furniturepick.com/media/catalog/product/B/D/BD00247-chest-4.jpg",
+   "img/BD00242Q.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "28453",
@@ -5320,10 +6733,21 @@
   "rank": 160,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD01425Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/8/28453.jpg",
   "color": "Cream & White",
   "set": "BD01425Q",
-  "photo": "b50f67fef5"
+  "photo": "b50f67fef5",
+  "room_img": "img/BD01425Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/8/28453.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28453_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28453_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28453_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28453_4.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28453_life.jpg",
+   "img/BD01425Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "28454",
@@ -5340,10 +6764,20 @@
   "rank": 161,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD01425Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/8/28454.jpg",
   "color": "Cream & White",
   "set": "BD01425Q",
-  "photo": "b50f67fef5"
+  "photo": "b50f67fef5",
+  "room_img": "img/BD01425Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/8/28454.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28454_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28454_life.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28454_20.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28454_dim.jpg",
+   "img/BD01425Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "28455",
@@ -5360,10 +6794,20 @@
   "rank": 162,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD01425Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/8/28455.jpg",
   "color": "Cream & White",
   "set": "BD01425Q",
-  "photo": "b50f67fef5"
+  "photo": "b50f67fef5",
+  "room_img": "img/BD01425Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/8/28455.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28455_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28455_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28455_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28455_life.jpg",
+   "img/BD01425Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "28456",
@@ -5380,10 +6824,17 @@
   "rank": 163,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD01425Q.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/317130/big/28456.jpg",
   "color": "Cream & White",
   "set": "BD01425Q",
-  "photo": "b50f67fef5"
+  "photo": "b50f67fef5",
+  "room_img": "img/BD01425Q.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/317130/big/28456.jpg",
+   "https://images.thdstatic.com/productImages/372d3950-92df-4f10-8f89-50a691e398c0/svn/white-finish-acme-furniture-accent-cabinets-28456-77_600.jpg",
+   "img/BD01425Q.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV00443",
@@ -5403,10 +6854,16 @@
   "rank": 164,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV00444.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/322309/big/lv00443.jpg",
   "color": "Brown & Wood",
   "set": "LV00444",
-  "photo": "b24c793770"
+  "photo": "b24c793770",
+  "room_img": "img/LV00444.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/322309/big/lv00443.jpg",
+   "img/LV00444.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "AC02584",
@@ -5426,10 +6883,21 @@
   "rank": 165,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/AC02585.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/a/c/ac02584_6.jpg",
   "color": "Beige & Natural",
   "set": "AC02585",
-  "photo": "9bbbf4658f"
+  "photo": "9bbbf4658f",
+  "room_img": "img/AC02585.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/a/c/ac02584_6.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac02584_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac02584_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac02584_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac02584_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac02584_4_1.jpg",
+   "img/AC02585.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "28043",
@@ -5448,10 +6916,21 @@
   "rank": 166,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD01778Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/8/28043.jpg",
   "color": "Beige & Natural",
   "set": "BD01778Q",
-  "photo": "8811210924"
+  "photo": "8811210924",
+  "room_img": "img/BD01778Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/8/28043.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28043_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28043_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28043_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28043_4.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28043_life_1.jpg",
+   "img/BD01778Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "28044",
@@ -5470,10 +6949,21 @@
   "rank": 167,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD01778Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/8/28044.jpg",
   "color": "Beige & Natural",
   "set": "BD01778Q",
-  "photo": "8811210924"
+  "photo": "8811210924",
+  "room_img": "img/BD01778Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/8/28044.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28044_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28044_dd.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28044_life.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28044_20.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28044_dim.jpg",
+   "img/BD01778Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "28045",
@@ -5492,10 +6982,21 @@
   "rank": 168,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD01778Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/8/28045.jpg",
   "color": "Beige & Natural",
   "set": "BD01778Q",
-  "photo": "8811210924"
+  "photo": "8811210924",
+  "room_img": "img/BD01778Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/8/28045.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28045_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28045_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28045_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28045_life.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28045_dim.jpg",
+   "img/BD01778Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "28046",
@@ -5514,10 +7015,21 @@
   "rank": 169,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/BD01778Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/8/28046.jpg",
   "color": "Beige & Natural",
   "set": "BD01778Q",
-  "photo": "8811210924"
+  "photo": "8811210924",
+  "room_img": "img/BD01778Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/8/28046.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28046_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28046_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28046_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28046_life.jpg",
+   "https://acmecorp.com/media/catalog/product/2/8/28046_dim.jpg",
+   "img/BD01778Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV00830",
@@ -5537,10 +7049,19 @@
   "rank": 170,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/83145.jpg",
+  "img": "https://www.comfyco.com/pics3/lg/ac-lv00830-lg.jpg",
   "color": "Cream & White",
   "set": "83145",
-  "photo": "9046cccd8f"
+  "photo": "9046cccd8f",
+  "room_img": "img/83145.jpg",
+  "gallery": [
+   "https://www.comfyco.com/pics3/lg/ac-lv00830-lg.jpg",
+   "https://caviani.com/cdn/shop/files/lv00830_3.webp",
+   "https://www.comfyco.com/pics3/extras/lg/ac-lv00830-4-lg.jpg",
+   "https://www.comfyco.com/pics3/extras/lg/ac-lv00830-3-lg.jpg",
+   "img/83145.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "37955",
@@ -5557,10 +7078,19 @@
   "rank": 171,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/37959.jpg",
+  "img": "https://images.thdstatic.com/productImages/df3e732d-ec4e-494d-9665-785d62a2b4ca/svn/gunmetal-finish-acme-furniture-dressers-37955-64_600.jpg",
   "color": "Brown & Wood",
   "set": "37959",
-  "photo": "884953ce51"
+  "photo": "884953ce51",
+  "room_img": "img/37959.jpg",
+  "gallery": [
+   "https://images.thdstatic.com/productImages/df3e732d-ec4e-494d-9665-785d62a2b4ca/svn/gunmetal-finish-acme-furniture-dressers-37955-64_600.jpg",
+   "https://images.thdstatic.com/productImages/6b0fb294-496b-4afb-8dab-705e88ccf38f/svn/gunmetal-finish-acme-furniture-dressers-37955-31_600.jpg",
+   "https://images.thdstatic.com/productImages/f0ae90cc-2f9a-4a9c-9ac2-e11972b01c15/svn/gunmetal-finish-acme-furniture-dressers-37955-44_600.jpg",
+   "https://images.thdstatic.com/productImages/e1e4fd44-f93e-4aab-b9a1-57cb8de0ddeb/svn/gunmetal-finish-acme-furniture-dressers-37955-4f_600.jpg",
+   "img/37959.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "37957",
@@ -5577,10 +7107,20 @@
   "rank": 172,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/37959.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/7/37957.jpg",
   "color": "Brown & Wood",
   "set": "37959",
-  "photo": "884953ce51"
+  "photo": "884953ce51",
+  "room_img": "img/37959.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/7/37957.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37957_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37957_2.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37957_3.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37957_life.jpg",
+   "img/37959.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "37958",
@@ -5597,10 +7137,17 @@
   "rank": 173,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/37959.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/3/7/37958-mirror-1.jpg",
   "color": "Brown & Wood",
   "set": "37959",
-  "photo": "884953ce51"
+  "photo": "884953ce51",
+  "room_img": "img/37959.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/3/7/37958-mirror-1.jpg",
+   "https://www.furniturepick.com/media/catalog/product/3/7/37958-mirror-2.jpg",
+   "img/37959.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV04411",
@@ -5620,10 +7167,21 @@
   "rank": 174,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04410.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04411_1_1.jpg",
   "color": "Beige & Natural",
   "set": "LV04410",
-  "photo": "868de9c29d"
+  "photo": "868de9c29d",
+  "room_img": "img/LV04410.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04411_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04411_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04411_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04411_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04411_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04411_4.jpg",
+   "img/LV04410.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04412",
@@ -5646,7 +7204,12 @@
   "img": "img/LV04410.jpg",
   "color": "Beige & Natural",
   "set": "LV04410",
-  "photo": "868de9c29d"
+  "photo": "868de9c29d",
+  "room_img": "img/LV04410.jpg",
+  "gallery": [
+   "img/LV04410.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV04413",
@@ -5666,10 +7229,21 @@
   "rank": 176,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04410.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04413.jpg",
   "color": "Beige & Natural",
   "set": "LV04410",
-  "photo": "868de9c29d"
+  "photo": "868de9c29d",
+  "room_img": "img/LV04410.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04413.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04413_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04413_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04413_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04413_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04413_5.jpg",
+   "img/LV04410.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04414",
@@ -5689,10 +7263,21 @@
   "rank": 177,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04410.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04414_11_1.jpg",
   "color": "Beige & Natural",
   "set": "LV04410",
-  "photo": "868de9c29d"
+  "photo": "868de9c29d",
+  "room_img": "img/LV04410.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04414_11_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04414_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04414_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04414_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04414_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04414_5_1.jpg",
+   "img/LV04410.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04415",
@@ -5713,10 +7298,21 @@
   "rank": 178,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04410.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04415.jpg",
   "color": "Beige & Natural",
   "set": "LV04410",
-  "photo": "868de9c29d"
+  "photo": "868de9c29d",
+  "room_img": "img/LV04410.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04415.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04415_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04415_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04415_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04415_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04415_5.jpg",
+   "img/LV04410.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04416",
@@ -5736,10 +7332,21 @@
   "rank": 179,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04410.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04416.jpg",
   "color": "Beige & Natural",
   "set": "LV04410",
-  "photo": "868de9c29d"
+  "photo": "868de9c29d",
+  "room_img": "img/LV04410.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04416.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04416_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04416_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04416_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04416_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04416_life.jpg",
+   "img/LV04410.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "26153",
@@ -5756,10 +7363,21 @@
   "rank": 180,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/BD00967Q.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/2/6/26153.jpg",
   "color": "Gray",
   "set": "BD00967Q",
-  "photo": "473a4f22c3"
+  "photo": "473a4f22c3",
+  "room_img": "img/BD00967Q.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/2/6/26153.jpg",
+   "https://acmecorp.com/media/catalog/product/2/6/26153_1.jpg",
+   "https://acmecorp.com/media/catalog/product/2/6/26153_2.jpg",
+   "https://acmecorp.com/media/catalog/product/2/6/26153_3.jpg",
+   "https://acmecorp.com/media/catalog/product/2/6/26153_4.jpg",
+   "https://acmecorp.com/media/catalog/product/2/6/26153_5.jpg",
+   "img/BD00967Q.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "70425",
@@ -5778,10 +7396,18 @@
   "rank": 181,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/96556.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/313925/big/70425.jpg",
   "color": "Brown & Wood",
   "set": "96556",
-  "photo": "16eeec9217"
+  "photo": "16eeec9217",
+  "room_img": "img/96556.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/313925/big/70425.jpg",
+   "https://www.furniturecart.com/media/catalog/product/7/0/70425-rnd-bar-table-1.jpg",
+   "https://www.furniturepick.com/media/catalog/product/7/0/70425-rnd-bar-table-2.jpg",
+   "img/96556.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "96555",
@@ -5802,10 +7428,21 @@
   "rank": 182,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/96556.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/9/6/96555_1.jpg",
   "color": "Brown & Wood",
   "set": "96556",
-  "photo": "16eeec9217"
+  "photo": "16eeec9217",
+  "room_img": "img/96556.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/9/6/96555_1.jpg",
+   "https://acmecorp.com/media/catalog/product/9/6/96555_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/9/6/96555_2.jpg",
+   "https://acmecorp.com/media/catalog/product/9/6/96555_3.jpg",
+   "https://acmecorp.com/media/catalog/product/9/6/96555_4.jpg",
+   "https://acmecorp.com/media/catalog/product/9/6/96555_5.jpg",
+   "img/96556.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "55921",
@@ -5824,10 +7461,17 @@
   "rank": 183,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/55920.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/320096/big/55921.jpg",
   "color": "Black",
   "set": "55920",
-  "photo": "c499468df6"
+  "photo": "c499468df6",
+  "room_img": "img/55920.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/320096/big/55921.jpg",
+   "https://static.homelivingfurniture.com/data/vendors/1/items/320096/big/55921_a.jpg",
+   "img/55920.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV01775",
@@ -5846,10 +7490,18 @@
   "rank": 184,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV01774.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/L/V/LV01775-loveseat-1.jpg",
   "color": "Blue & Green",
   "set": "LV01774",
-  "photo": "3640eaa116"
+  "photo": "3640eaa116",
+  "room_img": "img/LV01774.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV01775-loveseat-1.jpg",
+   "https://www.canalesfurniture.com/cdn/shop/files/LV01775-1.jpg",
+   "https://www.canalesfurniture.com/cdn/shop/files/lv01775_4_11a9a0b9-491d-4d26-94dc-9c897386b4da.jpg",
+   "img/LV01774.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "DN02372",
@@ -5868,10 +7520,21 @@
   "rank": 185,
   "pack": 2,
   "ship": "Freight",
-  "img": "img/DN02371.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02372_1_2.jpg",
   "color": "Brown & Wood",
   "set": "DN02371",
-  "photo": "5a8506319d"
+  "photo": "5a8506319d",
+  "room_img": "img/DN02371.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02372_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02372_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02372_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02372_3.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02372_4.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02372_life_2.jpg",
+   "img/DN02371.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02373",
@@ -5890,10 +7553,21 @@
   "rank": 186,
   "pack": 2,
   "ship": "Freight",
-  "img": "img/DN02371.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02373.jpg",
   "color": "Brown & Wood",
   "set": "DN02371",
-  "photo": "5a8506319d"
+  "photo": "5a8506319d",
+  "room_img": "img/DN02371.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02373.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02373_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02373_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02373_3.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02373_4.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02373_life_2.jpg",
+   "img/DN02371.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02374",
@@ -5912,10 +7586,21 @@
   "rank": 187,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/DN02371.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02374.jpg",
   "color": "Brown & Wood",
   "set": "DN02371",
-  "photo": "5a8506319d"
+  "photo": "5a8506319d",
+  "room_img": "img/DN02371.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02374.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02374_life_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02374_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02374_2_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02374_3_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02374_dim.jpg",
+   "img/DN02371.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02310",
@@ -5934,10 +7619,21 @@
   "rank": 188,
   "pack": 2,
   "ship": "Parcel",
-  "img": "img/DN02309.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02310.jpg",
   "color": "Cream & White",
   "set": "DN02309",
-  "photo": "6c9d906b7e"
+  "photo": "6c9d906b7e",
+  "room_img": "img/DN02309.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02310.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02310_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02310_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02310_3.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02310_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02310_life_1.jpg",
+   "img/DN02309.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02311",
@@ -5956,10 +7652,21 @@
   "rank": 189,
   "pack": 2,
   "ship": "Parcel",
-  "img": "img/DN02309.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02311.jpg",
   "color": "Cream & White",
   "set": "DN02309",
-  "photo": "6c9d906b7e"
+  "photo": "6c9d906b7e",
+  "room_img": "img/DN02309.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02311.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02311_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02311_2_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02311_3_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02311_4_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02311_life_2.jpg",
+   "img/DN02309.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV00141",
@@ -5978,10 +7685,20 @@
   "rank": 190,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV00142.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv00141.jpg",
   "color": "Brown & Wood",
   "set": "LV00142",
-  "photo": "3e1d64a9df"
+  "photo": "3e1d64a9df",
+  "room_img": "img/LV00142.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv00141.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00141_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00141_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00141_9.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00141_dim.jpg",
+   "img/LV00142.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04680",
@@ -6001,10 +7718,21 @@
   "rank": 191,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04682.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04680_7.jpg",
   "color": "Beige & Natural",
   "set": "LV04682",
-  "photo": "501f44dc79"
+  "photo": "501f44dc79",
+  "room_img": "img/LV04682.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04680_7.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04680_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04680_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04680_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04680_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04680_4_1.jpg",
+   "img/LV04682.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04681",
@@ -6024,10 +7752,21 @@
   "rank": 192,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04682.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv04681_7.jpg",
   "color": "Beige & Natural",
   "set": "LV04682",
-  "photo": "501f44dc79"
+  "photo": "501f44dc79",
+  "room_img": "img/LV04682.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv04681_7.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04681_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04681_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04681_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04681_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv04681_4_1.jpg",
+   "img/LV04682.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV00229",
@@ -6046,10 +7785,21 @@
   "rank": 193,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV00230.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv00229_3.jpg",
   "color": "Cream & White",
   "set": "LV00230",
-  "photo": "29fce90eed"
+  "photo": "29fce90eed",
+  "room_img": "img/LV00230.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv00229_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00229_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00229_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00229_3_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00229_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00229_life_1.jpg",
+   "img/LV00230.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "55425",
@@ -6066,10 +7816,19 @@
   "rank": 194,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/55427.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/318698/big/55425.jpg",
   "color": "Black",
   "set": "55427",
-  "photo": "cc889fe9fb"
+  "photo": "cc889fe9fb",
+  "room_img": "img/55427.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/318698/big/55425.jpg",
+   "https://www.furniturecart.com/media/catalog/product/5/5/55425-sofa-4.jpg",
+   "https://www.furniturecart.com/media/catalog/product/5/5/55425-sofa-2.jpg",
+   "https://www.furniturepick.com/media/catalog/product/5/5/55425-55426-lr-set-1.jpg",
+   "img/55427.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "55426",
@@ -6086,10 +7845,18 @@
   "rank": 195,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/55427.jpg",
+  "img": "https://greatfurnituredeal.com/cdn/shop/products/55426_6_700x700.jpg",
   "color": "Black",
   "set": "55427",
-  "photo": "cc889fe9fb"
+  "photo": "cc889fe9fb",
+  "room_img": "img/55427.jpg",
+  "gallery": [
+   "https://greatfurnituredeal.com/cdn/shop/products/55426_6_700x700.jpg",
+   "https://cdn.shopify.com/s/files/1/0740/2287/9488/files/55426_p196594_294077.jpg",
+   "https://cdn.shopify.com/s/files/1/0740/2287/9488/files/55426_p196594_294079.jpg",
+   "img/55427.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "81110",
@@ -6109,7 +7876,12 @@
   "img": "img/55427.jpg",
   "color": "Black",
   "set": "55427",
-  "photo": "cc889fe9fb"
+  "photo": "cc889fe9fb",
+  "room_img": "img/55427.jpg",
+  "gallery": [
+   "img/55427.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "55445",
@@ -6128,10 +7900,21 @@
   "rank": 197,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/55447.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/5/5/55445.jpg",
   "color": "Brown & Wood",
   "set": "55447",
-  "photo": "ac8aedae4d"
+  "photo": "ac8aedae4d",
+  "room_img": "img/55447.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/5/5/55445.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55445_55446_55447.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55445_1.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55445_2.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55445_3.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55445_4.jpg",
+   "img/55447.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "55446",
@@ -6150,10 +7933,21 @@
   "rank": 198,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/55447.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/5/5/55446.jpg",
   "color": "Brown & Wood",
   "set": "55447",
-  "photo": "ac8aedae4d"
+  "photo": "ac8aedae4d",
+  "room_img": "img/55447.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/5/5/55446.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55446_1.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55446_2.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55446_3.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55446_4.jpg",
+   "https://acmecorp.com/media/catalog/product/5/5/55446_6.jpg",
+   "img/55447.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV04490",
@@ -6172,10 +7966,19 @@
   "rank": 199,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04802.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/L/V/LV04490-sofa-1.jpg",
   "color": "Warm Tones",
   "set": "LV04802",
-  "photo": "f29e3d6bba"
+  "photo": "f29e3d6bba",
+  "room_img": "img/LV04802.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV04490-sofa-1.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV04490-sofa-5.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV04490-sofa-4.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV04490-sofa-3.jpg",
+   "img/LV04802.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV04492",
@@ -6194,10 +7997,18 @@
   "rank": 200,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV04802.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/L/V/LV04492-chair-5.jpg",
   "color": "Warm Tones",
   "set": "LV04802",
-  "photo": "f29e3d6bba"
+  "photo": "f29e3d6bba",
+  "room_img": "img/LV04802.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV04492-chair-5.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV04492-chair-2.jpg",
+   "https://www.furniturepick.com/media/catalog/product/L/V/LV04492-chair-3.jpg",
+   "img/LV04802.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "60170",
@@ -6214,10 +8025,21 @@
   "rank": 201,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/71725.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/6/0/60170_1.jpg",
   "color": "Gray",
   "set": "71725",
-  "photo": "31c3860138"
+  "photo": "31c3860138",
+  "room_img": "img/71725.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/6/0/60170_1.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60170_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60170_2.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60170_3.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60170_life.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60170_dim_1.jpg",
+   "img/71725.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "60172",
@@ -6234,10 +8056,21 @@
   "rank": 202,
   "pack": 2,
   "ship": "Freight",
-  "img": "img/71725.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/6/0/60172_5.jpg",
   "color": "Gray",
   "set": "71725",
-  "photo": "31c3860138"
+  "photo": "31c3860138",
+  "room_img": "img/71725.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/6/0/60172_5.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60172_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60172_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60172_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60172_4_1.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60172_life_1.jpg",
+   "img/71725.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "60173",
@@ -6254,10 +8087,21 @@
   "rank": 203,
   "pack": 2,
   "ship": "Freight",
-  "img": "img/71725.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/6/0/60173.jpg",
   "color": "Gray",
   "set": "71725",
-  "photo": "31c3860138"
+  "photo": "31c3860138",
+  "room_img": "img/71725.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/6/0/60173.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60173_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60173_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60173_4.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60173_5.jpg",
+   "https://acmecorp.com/media/catalog/product/6/0/60173_6.jpg",
+   "img/71725.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "60174",
@@ -6274,10 +8118,18 @@
   "rank": 204,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/71725.jpg",
+  "img": "https://homeeleganceusa.com/cdn/shop/files/60174_7bbfdf85-eb65-43a2-ae4a-84ecdc268ac3.jpg",
   "color": "Gray",
   "set": "71725",
-  "photo": "31c3860138"
+  "photo": "31c3860138",
+  "room_img": "img/71725.jpg",
+  "gallery": [
+   "https://homeeleganceusa.com/cdn/shop/files/60174_7bbfdf85-eb65-43a2-ae4a-84ecdc268ac3.jpg",
+   "https://www.furniturecart.com/media/catalog/product/6/0/60174-server-2.jpg",
+   "https://cdn.rencdn.com/acme/high/60174_20.jpg",
+   "img/71725.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "DN02876",
@@ -6296,10 +8148,21 @@
   "rank": 205,
   "pack": 2,
   "ship": "Freight",
-  "img": "img/DN02875.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02876_5.jpg",
   "color": "Beige & Natural",
   "set": "DN02875",
-  "photo": "1743908e8b"
+  "photo": "1743908e8b",
+  "room_img": "img/DN02875.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02876_5.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02876_life_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02876_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02876_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02876_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02876_4_1.jpg",
+   "img/DN02875.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN02128",
@@ -6318,10 +8181,21 @@
   "rank": 206,
   "pack": 2,
   "ship": "Freight",
-  "img": "img/DN02157.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn02128.jpg",
   "color": "Beige & Natural",
   "set": "DN02157",
-  "photo": "929f06c0c3"
+  "photo": "929f06c0c3",
+  "room_img": "img/DN02157.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn02128.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02128_life.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02128_1.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02128_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02128_3.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn02128_4.jpg",
+   "img/DN02157.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "DN01450",
@@ -6340,10 +8214,21 @@
   "rank": 207,
   "pack": 2,
   "ship": "Freight",
-  "img": "img/DN01449.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/d/n/dn01450_8.jpg",
   "color": "Beige & Natural",
   "set": "DN01449",
-  "photo": "9349234b36"
+  "photo": "9349234b36",
+  "room_img": "img/DN01449.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/d/n/dn01450_8.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn01450_1_2.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn01450_2_4.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn01450_3_4.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn01450_4_4.jpg",
+   "https://acmecorp.com/media/catalog/product/d/n/dn01450_5_3.jpg",
+   "img/DN01449.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV00318",
@@ -6360,10 +8245,17 @@
   "rank": 208,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV00312.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv00318.jpg",
   "color": "Black",
   "set": "LV00312",
-  "photo": "e1d6adf4e1"
+  "photo": "e1d6adf4e1",
+  "room_img": "img/LV00312.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv00318.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv00318_dim.jpg",
+   "img/LV00312.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "30598",
@@ -6380,10 +8272,16 @@
   "rank": 209,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/30605.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/0/30598.jpg",
   "color": "Cream & White",
   "set": "30605",
-  "photo": "01bcccd1dd"
+  "photo": "01bcccd1dd",
+  "room_img": "img/30605.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/0/30598.jpg",
+   "img/30605.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "30600",
@@ -6400,10 +8298,16 @@
   "rank": 210,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/30605.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/0/30600.jpg",
   "color": "Cream & White",
   "set": "30605",
-  "photo": "01bcccd1dd"
+  "photo": "01bcccd1dd",
+  "room_img": "img/30605.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/0/30600.jpg",
+   "img/30605.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "30601",
@@ -6420,10 +8324,18 @@
   "rank": 211,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/30605.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/0/30601_1.jpg",
   "color": "Cream & White",
   "set": "30605",
-  "photo": "01bcccd1dd"
+  "photo": "01bcccd1dd",
+  "room_img": "img/30605.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/0/30601_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/0/30601_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/0/30601_life.jpg",
+   "img/30605.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "30602",
@@ -6440,10 +8352,16 @@
   "rank": 212,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/30605.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/0/30602.jpg",
   "color": "Cream & White",
   "set": "30605",
-  "photo": "01bcccd1dd"
+  "photo": "01bcccd1dd",
+  "room_img": "img/30605.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/0/30602.jpg",
+   "img/30605.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "54850",
@@ -6462,10 +8380,19 @@
   "rank": 213,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/84853.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/318679/big/54850.jpg",
   "color": "Brown & Wood",
   "set": "84853",
-  "photo": "a299d3f887"
+  "photo": "a299d3f887",
+  "room_img": "img/84853.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/318679/big/54850.jpg",
+   "https://www.dynamichomedecor.com/mm5/Images/acme1/54850_A.jpg",
+   "https://www.comfyco.com/pics3/extras/lg/ac54850-2-lg.jpg",
+   "https://www.dallasdesignerfurniture.com/images/Acme54850NiameyCherryLivingRoomSet.jpg",
+   "img/84853.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "54851",
@@ -6484,10 +8411,17 @@
   "rank": 214,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/84853.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/5/4/54851.jpg",
   "color": "Brown & Wood",
   "set": "84853",
-  "photo": "a299d3f887"
+  "photo": "a299d3f887",
+  "room_img": "img/84853.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/5/4/54851.jpg",
+   "https://acmecorp.com/media/catalog/product/5/4/54851_dim.jpg",
+   "img/84853.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "54852",
@@ -6506,10 +8440,16 @@
   "rank": 215,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/84853.jpg",
+  "img": "https://www.bradleyhomefurnishings.com/cdn/shop/products/54852_42723c60-b499-404c-810e-02d118e06492.jpg",
   "color": "Brown & Wood",
   "set": "84853",
-  "photo": "a299d3f887"
+  "photo": "a299d3f887",
+  "room_img": "img/84853.jpg",
+  "gallery": [
+   "https://www.bradleyhomefurnishings.com/cdn/shop/products/54852_42723c60-b499-404c-810e-02d118e06492.jpg",
+   "img/84853.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "84850",
@@ -6528,10 +8468,17 @@
   "rank": 216,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/84853.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/318686/big/84850_a.jpg",
   "color": "Brown & Wood",
   "set": "84853",
-  "photo": "a299d3f887"
+  "photo": "a299d3f887",
+  "room_img": "img/84853.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/318686/big/84850_a.jpg",
+   "https://www.comfyco.com/pics3/lg/ac84850-lg.jpg",
+   "img/84853.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "84852",
@@ -6550,10 +8497,16 @@
   "rank": 217,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/84853.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/318687/big/84852.jpg",
   "color": "Brown & Wood",
   "set": "84853",
-  "photo": "a299d3f887"
+  "photo": "a299d3f887",
+  "room_img": "img/84853.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/318687/big/84852.jpg",
+   "img/84853.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "53072",
@@ -6572,10 +8525,21 @@
   "rank": 218,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/83072.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/5/3/53072.jpg",
   "color": "Black",
   "set": "83072",
-  "photo": "01d9a75469"
+  "photo": "01d9a75469",
+  "room_img": "img/83072.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/5/3/53072.jpg",
+   "https://acmecorp.com/media/catalog/product/5/3/53072_1.jpg",
+   "https://acmecorp.com/media/catalog/product/5/3/53072_2.jpg",
+   "https://acmecorp.com/media/catalog/product/5/3/53072_3.jpg",
+   "https://acmecorp.com/media/catalog/product/5/3/53072_4.jpg",
+   "https://acmecorp.com/media/catalog/product/5/3/53072_5.jpg",
+   "img/83072.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "55070",
@@ -6594,10 +8558,19 @@
   "rank": 219,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/84882.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/319612/big/55070.jpg",
   "color": "Brown & Wood",
   "set": "84882",
-  "photo": "bf8e9e924c"
+  "photo": "bf8e9e924c",
+  "room_img": "img/84882.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/319612/big/55070.jpg",
+   "https://static.homelivingfurniture.com/data/vendors/1/items/319612/big/55070_a.jpg",
+   "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-55070-7.jpg",
+   "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-55070-10.jpg",
+   "img/84882.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "37152",
@@ -6614,10 +8587,21 @@
   "rank": 220,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/37145.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/7/37152_1_1.jpg",
   "color": "Cream & White",
   "set": "37145",
-  "photo": "f6b5852d33"
+  "photo": "f6b5852d33",
+  "room_img": "img/37145.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/7/37152_1_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37152_2_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37152_3_1.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37152_4.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37152_5.jpg",
+   "https://acmecorp.com/media/catalog/product/3/7/37152_life.jpg",
+   "img/37145.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "38155",
@@ -6634,10 +8618,16 @@
   "rank": 221,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/38150.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/3/8/38155_l.jpg",
   "color": "Cream & White",
   "set": "38150",
-  "photo": "91f90fe0e3"
+  "photo": "91f90fe0e3",
+  "room_img": "img/38150.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/3/8/38155_l.jpg",
+   "img/38150.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "92424",
@@ -6654,10 +8644,21 @@
   "rank": 222,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/92568.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/9/2/92424.jpg",
   "color": "Warm Tones",
   "set": "92568",
-  "photo": "d348b6f70c"
+  "photo": "d348b6f70c",
+  "room_img": "img/92568.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/9/2/92424.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92424_1.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92424_2.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92424_3.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92424_4.jpg",
+   "https://acmecorp.com/media/catalog/product/9/2/92424_dim.jpg",
+   "img/92568.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03700",
@@ -6676,10 +8677,21 @@
   "rank": 223,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03227.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03700.jpg",
   "color": "Black",
   "set": "LV03227",
-  "photo": "6fc227078c"
+  "photo": "6fc227078c",
+  "room_img": "img/LV03227.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03700.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03700_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03700_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03700_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03700_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03700_4.jpg",
+   "img/LV03227.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03701",
@@ -6698,10 +8710,21 @@
   "rank": 224,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03227.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03701.jpg",
   "color": "Black",
   "set": "LV03227",
-  "photo": "6fc227078c"
+  "photo": "6fc227078c",
+  "room_img": "img/LV03227.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03701.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03701_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03701_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03701_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03701_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03701_4.jpg",
+   "img/LV03227.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03702",
@@ -6720,10 +8743,21 @@
   "rank": 225,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/LV03227.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03702.jpg",
   "color": "Black",
   "set": "LV03227",
-  "photo": "6fc227078c"
+  "photo": "6fc227078c",
+  "room_img": "img/LV03227.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03702.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03702_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03702_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03702_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03702_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03702_4.jpg",
+   "img/LV03227.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03225",
@@ -6743,7 +8777,12 @@
   "img": "img/LV03227.jpg",
   "color": "Black",
   "set": "LV03227",
-  "photo": "6fc227078c"
+  "photo": "6fc227078c",
+  "room_img": "img/LV03227.jpg",
+  "gallery": [
+   "img/LV03227.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "LV03226",
@@ -6763,7 +8802,12 @@
   "img": "img/LV03227.jpg",
   "color": "Black",
   "set": "LV03227",
-  "photo": "6fc227078c"
+  "photo": "6fc227078c",
+  "room_img": "img/LV03227.jpg",
+  "gallery": [
+   "img/LV03227.jpg"
+  ],
+  "imgsrc": "catalog"
  },
  {
   "sku": "DN01444",
@@ -6782,10 +8826,16 @@
   "rank": 228,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/DN01445.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/D/N/DN01444-table-1.jpg",
   "color": "Cream & White",
   "set": "DN01445",
-  "photo": "726300c57f"
+  "photo": "726300c57f",
+  "room_img": "img/DN01445.jpg",
+  "gallery": [
+   "https://www.furniturepick.com/media/catalog/product/D/N/DN01444-table-1.jpg",
+   "img/DN01445.jpg"
+  ],
+  "imgsrc": "retail"
  },
  {
   "sku": "LV03205",
@@ -6804,10 +8854,21 @@
   "rank": 229,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV03207.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03205.jpg",
   "color": "Cream & White",
   "set": "LV03207",
-  "photo": "16cd36f435"
+  "photo": "16cd36f435",
+  "room_img": "img/LV03207.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03205.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03205_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03205_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03205_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03205_4.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03205_3.jpg",
+   "img/LV03207.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "LV03206",
@@ -6826,10 +8887,21 @@
   "rank": 230,
   "pack": 1,
   "ship": "Parcel",
-  "img": "img/LV03207.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/l/v/lv03206.jpg",
   "color": "Cream & White",
   "set": "LV03207",
-  "photo": "16cd36f435"
+  "photo": "16cd36f435",
+  "room_img": "img/LV03207.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/l/v/lv03206.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03206_life.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03206_1.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03206_2.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03206_3.jpg",
+   "https://acmecorp.com/media/catalog/product/l/v/lv03206_4.jpg",
+   "img/LV03207.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "AC00959",
@@ -6846,10 +8918,19 @@
   "rank": 231,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/AC01167.jpg",
+  "img": "https://acmecorp.com/media/catalog/product/a/c/ac00959.jpg",
   "color": "Brown & Wood",
   "set": "AC01167",
-  "photo": "c6ecafd72a"
+  "photo": "c6ecafd72a",
+  "room_img": "img/AC01167.jpg",
+  "gallery": [
+   "https://acmecorp.com/media/catalog/product/a/c/ac00959.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac00959_1.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac00959_2.jpg",
+   "https://acmecorp.com/media/catalog/product/a/c/ac00959_3.jpg",
+   "img/AC01167.jpg"
+  ],
+  "imgsrc": "acme"
  },
  {
   "sku": "24266",
@@ -6866,9 +8947,18 @@
   "rank": 232,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/24267.jpg",
+  "img": "https://static.homelivingfurniture.com/data/vendors/1/items/317826/big/24266.jpg",
   "color": "Brown & Wood",
   "set": "24267",
-  "photo": "f71ed72410"
+  "photo": "f71ed72410",
+  "room_img": "img/24267.jpg",
+  "gallery": [
+   "https://static.homelivingfurniture.com/data/vendors/1/items/317826/big/24266.jpg",
+   "https://www.furniturepick.com/media/catalog/product/2/4/24266-chest-2.jpg",
+   "https://www.furniturepick.com/media/catalog/product/2/4/24266-chest-3.jpg",
+   "https://www.furniturepick.com/media/catalog/product/2/4/24266-chest-4.jpg",
+   "img/24267.jpg"
+  ],
+  "imgsrc": "retail"
  }
 ]
