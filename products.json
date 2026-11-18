@@ -342,8 +342,6 @@
   "room_img": "img/LV02680.jpg",
   "gallery": [
    "https://www.furniturepick.com/media/catalog/product/L/V/LV02680-sectional-1.jpg",
-   "https://greatfurnituredeal.com/cdn/shop/files/lv02680_6_1_700x700.jpg",
-   "https://www.ambfurniture.com/cdn/shop/files/lv02680_3_1.jpg",
    "https://images.thdstatic.com/productImages/ef12d864-3811-4755-a16e-506f3c39501b/svn/beige-acme-furniture-sofas-couches-lv02680-c3_600.jpg",
    "img/LV02680.jpg"
   ],
@@ -1380,7 +1378,7 @@
   "rank": 28,
   "pack": 1,
   "ship": "Freight",
-  "img": "https://cdn.shopify.com/s/files/1/0968/7524/9980/files/bd03122q.jpg",
+  "img": "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-BD03122Q-2.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -1405,7 +1403,6 @@
   "photo": "61c9c9972a",
   "room_img": "img/BD03122Q.jpg",
   "gallery": [
-   "https://cdn.shopify.com/s/files/1/0968/7524/9980/files/bd03122q.jpg",
    "https://www.homecinemacenter.com/v/vspfiles/photos/Acme-BD03122Q-2.jpg",
    "https://www.furniturepick.com/media/catalog/product/B/D/BD03122Q-bed-6.jpg",
    "https://www.furniturecart.com/media/catalog/product/B/D/BD03122Q-bed-2.jpg",
@@ -1528,7 +1525,7 @@
   "rank": 31,
   "pack": 1,
   "ship": "Freight",
-  "img": "https://www.bedroomfurniturediscounts.com/media/catalog/product/b/d/bd00242q_1.jpg",
+  "img": "https://www.furniturecart.com/media/catalog/product/B/D/BD00242Q-bed-str-4.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -1553,7 +1550,6 @@
   "photo": "a935fce91b",
   "room_img": "img/BD00242Q.jpg",
   "gallery": [
-   "https://www.bedroomfurniturediscounts.com/media/catalog/product/b/d/bd00242q_1.jpg",
    "https://www.furniturecart.com/media/catalog/product/B/D/BD00242Q-bed-str-4.jpg",
    "https://www.furniturecart.com/media/catalog/product/B/D/BD00242Q-bed-str-5.jpg",
    "https://www.dallasdesignerfurniture.com/images/AcmeSliverfluffBedroomSetBD00242Q.jpg",
@@ -1717,7 +1713,7 @@
   "rank": 35,
   "pack": 1,
   "ship": "Parcel",
-  "img": "https://www.bradleyhomefurnishings.com/cdn/shop/products/lv00444_3453cbd2-8ff6-45d9-a4b8-7795c177ff88.jpg",
+  "img": "img/LV00444.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -1737,10 +1733,9 @@
   "photo": "b24c793770",
   "room_img": "img/LV00444.jpg",
   "gallery": [
-   "https://www.bradleyhomefurnishings.com/cdn/shop/products/lv00444_3453cbd2-8ff6-45d9-a4b8-7795c177ff88.jpg",
    "img/LV00444.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "catalog"
  },
  {
   "sku": "AC02585",
@@ -2979,7 +2974,7 @@
   "rank": 60,
   "pack": 1,
   "ship": "Parcel",
-  "img": "https://www.discountlivingrooms.com/media/catalog/product/5/9/59664.jpg",
+  "img": "img/59664.jpg",
   "color": "Brown & Wood",
   "comps": [
    {
@@ -3004,10 +2999,9 @@
   "photo": "413ed418bc",
   "room_img": "img/59664.jpg",
   "gallery": [
-   "https://www.discountlivingrooms.com/media/catalog/product/5/9/59664.jpg",
    "img/59664.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "catalog"
  },
  {
   "sku": "55922",
@@ -3048,8 +3042,6 @@
   "room_img": "img/55922.jpg",
   "gallery": [
    "https://static.homelivingfurniture.com/data/vendors/1/items/320097/big/55922.jpg",
-   "https://homeeleganceusa.com/cdn/shop/files/55922_a_6b8005ed-6a17-4639-a9d2-49bb08039dc2.jpg",
-   "https://homeeleganceusa.com/cdn/shop/files/55922_s.jpg",
    "img/55922.jpg"
   ],
   "imgsrc": "retail"
@@ -4212,13 +4204,12 @@
   "rank": 85,
   "pack": 1,
   "ship": "Parcel",
-  "img": "https://www.bradleyhomefurnishings.com/cdn/shop/products/92568.jpg",
+  "img": "https://www.furniturepick.com/media/catalog/product/9/2/92568-chair-chocolate-1.jpg",
   "color": "Warm Tones",
   "checked": "2026-11-16",
   "photo": "d348b6f70c",
   "room_img": "img/92568.jpg",
   "gallery": [
-   "https://www.bradleyhomefurnishings.com/cdn/shop/products/92568.jpg",
    "https://www.furniturepick.com/media/catalog/product/9/2/92568-chair-chocolate-1.jpg",
    "https://www.furniturepick.com/media/catalog/product/9/2/92568-chair-chocolate-3.jpg",
    "img/92568.jpg"
@@ -7845,13 +7836,12 @@
   "rank": 195,
   "pack": 1,
   "ship": "Freight",
-  "img": "https://greatfurnituredeal.com/cdn/shop/products/55426_6_700x700.jpg",
+  "img": "https://cdn.shopify.com/s/files/1/0740/2287/9488/files/55426_p196594_294077.jpg",
   "color": "Black",
   "set": "55427",
   "photo": "cc889fe9fb",
   "room_img": "img/55427.jpg",
   "gallery": [
-   "https://greatfurnituredeal.com/cdn/shop/products/55426_6_700x700.jpg",
    "https://cdn.shopify.com/s/files/1/0740/2287/9488/files/55426_p196594_294077.jpg",
    "https://cdn.shopify.com/s/files/1/0740/2287/9488/files/55426_p196594_294079.jpg",
    "img/55427.jpg"
@@ -8118,13 +8108,12 @@
   "rank": 204,
   "pack": 1,
   "ship": "Freight",
-  "img": "https://homeeleganceusa.com/cdn/shop/files/60174_7bbfdf85-eb65-43a2-ae4a-84ecdc268ac3.jpg",
+  "img": "https://www.furniturecart.com/media/catalog/product/6/0/60174-server-2.jpg",
   "color": "Gray",
   "set": "71725",
   "photo": "31c3860138",
   "room_img": "img/71725.jpg",
   "gallery": [
-   "https://homeeleganceusa.com/cdn/shop/files/60174_7bbfdf85-eb65-43a2-ae4a-84ecdc268ac3.jpg",
    "https://www.furniturecart.com/media/catalog/product/6/0/60174-server-2.jpg",
    "https://cdn.rencdn.com/acme/high/60174_20.jpg",
    "img/71725.jpg"
@@ -8440,16 +8429,15 @@
   "rank": 215,
   "pack": 1,
   "ship": "Freight",
-  "img": "https://www.bradleyhomefurnishings.com/cdn/shop/products/54852_42723c60-b499-404c-810e-02d118e06492.jpg",
+  "img": "img/84853.jpg",
   "color": "Brown & Wood",
   "set": "84853",
   "photo": "a299d3f887",
   "room_img": "img/84853.jpg",
   "gallery": [
-   "https://www.bradleyhomefurnishings.com/cdn/shop/products/54852_42723c60-b499-404c-810e-02d118e06492.jpg",
    "img/84853.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "catalog"
  },
  {
   "sku": "84850",
