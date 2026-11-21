@@ -45,18 +45,19 @@
   "gallery": [
    "img/r/x32559.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV04235",
-  "name": "Isabel Coffee Table",
+  "name": "Sanat Coffee Table",
   "category": "Coffee Table",
   "catLabel": "Coffee Tables",
   "room": "Living",
   "price": 389,
-  "finish": "Beige Boucle",
+  "finish": "White",
   "dims": "35\"Dia x 15\"H",
-  "desc": "The Isabel Coffee Table in beige boucle. It has textured boucle upholstery and warm wood tones. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
+  "desc": "The Sanat Coffee Table in white. It has textured boucle upholstery and warm wood tones. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
   "features": [
    "Textured boucle upholstery",
    "Warm wood tones"
@@ -66,7 +67,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV04235_03df752b.jpg",
-  "color": "Beige & Natural",
+  "color": "Cream & White",
   "comps": [
    {
     "store": "Abode Home",
@@ -98,7 +99,8 @@
    "img/p/LV04235_0ddd3ada.jpg",
    "img/r/x33816.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "LV02541",
@@ -156,7 +158,8 @@
    "img/p/LV02541_6ad5e514.jpg",
    "img/r/x33433.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "LV03010",
@@ -214,7 +217,8 @@
    "img/p/LV03010_fc3996be.jpg",
    "img/r/x33238.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV03180",
@@ -262,7 +266,8 @@
   "gallery": [
    "img/r/x32370.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#6f8a6a"
  },
  {
   "sku": "LV03160",
@@ -291,7 +296,8 @@
   "gallery": [
    "img/r/x32371.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "LV02680",
@@ -344,7 +350,8 @@
    "img/p/LV02680_b5cc5b07.jpg",
    "img/r/x31931.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "54590",
@@ -353,9 +360,9 @@
   "catLabel": "Sectionals",
   "room": "Living",
   "price": 2779,
-  "finish": "Gray Nubuck",
+  "finish": "Mocha Nubuck",
   "dims": "",
-  "desc": "The Olwen Power Motion Sectional Sofa with USB Port in gray nubuck. It has smooth power recline, hidden storage and USB charging built in. A sectional sized for family nights and movie marathons. Delivered by freight, with white-glove setup available.",
+  "desc": "The Olwen Power Motion Sectional Sofa with USB Port in mocha nubuck. It has smooth power recline, hidden storage and USB charging built in. A sectional sized for family nights and movie marathons. Delivered by freight, with white-glove setup available.",
   "features": [
    "Smooth power recline",
    "Hidden storage",
@@ -366,7 +373,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/54590_d0c7880d.jpg",
-  "color": "Gray",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "Bradley Home Furnishings",
@@ -396,7 +403,8 @@
    "img/p/54590_32f6952c.jpg",
    "img/r/x31910.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#6b5446"
  },
  {
   "sku": "LV04650",
@@ -450,7 +458,8 @@
    "img/p/LV04650_8e5c93ec.jpg",
    "img/r/x31932.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#c2652b"
  },
  {
   "sku": "LV04280",
@@ -459,16 +468,16 @@
   "catLabel": "Sectionals",
   "room": "Living",
   "price": 1499,
-  "finish": "Beige & Maroon Tweed",
+  "finish": "Maroon & Beige Tweed",
   "dims": "",
-  "desc": "The Mardi Sectional Sofa with 3 Pillows in beige & maroon tweed. A sectional sized for family nights and movie marathons. Delivered by freight, with white-glove setup available.",
+  "desc": "The Mardi Sectional Sofa with 3 Pillows in maroon & beige tweed. A sectional sized for family nights and movie marathons. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": true,
   "rank": 10,
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/LV04280_34b59c92.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "Caviani",
@@ -497,10 +506,10 @@
    "img/p/LV04280_b8e59633.jpg",
    "img/p/LV04280_99dad52d.jpg",
    "img/p/LV04280_e013c8ad.jpg",
-   "img/p/LV04280_214b63be.jpg",
-   "img/r/x33421.jpg"
+   "img/p/LV04280_214b63be.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6e2433"
  },
  {
   "sku": "AC03142",
@@ -509,9 +518,9 @@
   "catLabel": "Accent Chairs",
   "room": "Living",
   "price": 529,
-  "finish": "Beige Or Ivory Linen",
+  "finish": "Ivory Fabric",
   "dims": "39\"W x 43\"D x 33\"H",
-  "desc": "The Naveen Swivel Chair with Pillow in beige or ivory linen. It has modular pieces you can rearrange as your space changes and a full swivel base. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
+  "desc": "The Naveen Swivel Chair with Pillow in ivory fabric. It has modular pieces you can rearrange as your space changes and a full swivel base. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
   "features": [
    "Modular pieces you can rearrange as your space changes",
    "A full swivel base"
@@ -521,7 +530,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/AC03142_2fbfb591.jpg",
-  "color": "Beige & Natural",
+  "color": "Cream & White",
   "comps": [
    {
     "store": "Living Spaces",
@@ -550,10 +559,10 @@
    "img/p/AC03142_6875fc3b.jpg",
    "img/p/AC03142_01af5ee6.jpg",
    "img/p/AC03142_f118f853.jpg",
-   "img/p/AC03142_6d256b0b.jpg",
-   "img/r/x32664.jpg"
+   "img/p/AC03142_6d256b0b.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#f1ebde"
  },
  {
   "sku": "AC02582",
@@ -562,9 +571,9 @@
   "catLabel": "Accent Chairs",
   "room": "Living",
   "price": 579,
-  "finish": "Bronze Aluminum & Oak Finish",
+  "finish": "Retro Brown Top Grain Leather",
   "dims": "27\"W x 28\"D x 35\"H",
-  "desc": "The Brancaster Accent Chair with Swivel in bronze aluminum & oak finish. It has a curved, sculptural silhouette, hidden storage and a full swivel base. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
+  "desc": "The Brancaster Accent Chair with Swivel in retro brown top grain leather. It has a curved, sculptural silhouette, hidden storage and a full swivel base. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
   "features": [
    "A curved, sculptural silhouette",
    "Hidden storage",
@@ -575,7 +584,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/AC02582_73ed3c5a.jpg",
-  "color": "Warm Tones",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "Metropolitan Furniture",
@@ -602,7 +611,8 @@
    "img/p/AC02582_73ed3c5a.jpg",
    "img/r/x43088.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#6f4e37"
  },
  {
   "sku": "LV03190",
@@ -624,7 +634,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x32391.jpg",
-  "color": "Beige & Natural",
+  "color": "Blue & Green",
   "comps": [
    {
     "store": "Mikano Furniture",
@@ -640,18 +650,19 @@
   "gallery": [
    "img/r/x32391.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#6f8a6a"
  },
  {
   "sku": "LV03945",
-  "name": "Manilla Coffee Table with Marble Top",
+  "name": "Clayten Coffee Table with Marble Top",
   "category": "Coffee Table",
   "catLabel": "Coffee Tables",
   "room": "Living",
   "price": 319,
-  "finish": "Ivory White Linen",
+  "finish": "White Engineered Marble Top & Espresso",
   "dims": "35\"Dia x 14\"H",
-  "desc": "The Manilla Coffee Table with Marble Top in ivory white linen. It has a curved, sculptural silhouette and a stone-look top. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
+  "desc": "The Clayten Coffee Table with Marble Top in white engineered marble top & espresso. It has a curved, sculptural silhouette and a stone-look top. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
   "features": [
    "A curved, sculptural silhouette",
    "A stone-look top"
@@ -661,7 +672,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV03945_12b4c3f9.jpg",
-  "color": "Cream & White",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "Bison Furniture",
@@ -692,7 +703,8 @@
    "img/p/LV03945_bef0f601.jpg",
    "img/r/x33338.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "LV03185",
@@ -701,9 +713,9 @@
   "catLabel": "Coffee Tables",
   "room": "Living",
   "price": 399,
-  "finish": "Boucle",
+  "finish": "Clear Glass Top & White Finish",
   "dims": "47\"W x 24\"D x 18\"H",
-  "desc": "The Darius Coffee Table in boucle. It has textured boucle upholstery and a curved, sculptural silhouette. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
+  "desc": "The Darius Coffee Table in clear glass top & white finish. It has textured clear glass top & white finish upholstery and a curved, sculptural silhouette. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
   "features": [
    "Textured boucle upholstery",
    "A curved, sculptural silhouette"
@@ -713,7 +725,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x33832.jpg",
-  "color": "Brown & Wood",
+  "color": "Cream & White",
   "comps": [
    {
     "store": "Best Direct Outlet",
@@ -739,18 +751,19 @@
   "gallery": [
    "img/r/x33832.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#dfe6ea"
  },
  {
   "sku": "LV01929",
-  "name": "Dayana Coffee Table",
+  "name": "Jacinda Coffee Table",
   "category": "Coffee Table",
   "catLabel": "Coffee Tables",
   "room": "Living",
   "price": 459,
-  "finish": "Beige Boucle",
+  "finish": "Weathered Gray & Oak Finish",
   "dims": "47\"W x 28\"D x 16\"H",
-  "desc": "The Dayana Coffee Table in beige boucle. It has textured boucle upholstery. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
+  "desc": "The Jacinda Coffee Table in weathered gray & oak finish. It has textured boucle upholstery. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
   "features": [
    "Textured boucle upholstery"
   ],
@@ -759,7 +772,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV01929_e620f820.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "Best Direct Outlet",
@@ -791,7 +804,8 @@
    "img/p/LV01929_5a7c6b2d.jpg",
    "img/r/x31931.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "LV03150",
@@ -843,7 +857,8 @@
    "img/p/LV03150_9eb3c888.jpg",
    "img/r/x32476.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6f4e37"
  },
  {
   "sku": "LV03370",
@@ -852,9 +867,9 @@
   "catLabel": "Sectionals",
   "room": "Living",
   "price": 1179,
-  "finish": "Top Grain Leather",
+  "finish": "Brown Top Grain Leather",
   "dims": "51\"W x 45\"D x 35\"H",
-  "desc": "The Brighton Modular Left Facing Arm Chair in top grain leather. It has leather upholstery and modular pieces you can rearrange as your space changes. A sectional sized for family nights and movie marathons. Delivered by freight, with white-glove setup available.",
+  "desc": "The Brighton Modular Left Facing Arm Chair in brown top grain leather. It has leather upholstery and modular pieces you can rearrange as your space changes. A sectional sized for family nights and movie marathons. Delivered by freight, with white-glove setup available.",
   "features": [
    "Leather upholstery",
    "Modular pieces you can rearrange as your space changes"
@@ -893,10 +908,22 @@
    "img/p/LV03370_341e3775.jpg",
    "img/p/LV03370_faf8b7de.jpg",
    "img/p/LV03370_039e6752.jpg",
-   "img/p/LV03370_a49a432a.jpg",
-   "img/r/x32686.jpg"
+   "img/p/LV03370_a49a432a.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6f4e37",
+  "opts": [
+   {
+    "sku": "LV03370",
+    "finish": "Brown Top Grain Leather",
+    "swatch": "#6f4e37"
+   },
+   {
+    "sku": "LV03990",
+    "finish": "Cream Top Grain Leather",
+    "swatch": "#efe6d2"
+   }
+  ]
  },
  {
   "sku": "LV04292",
@@ -905,16 +932,16 @@
   "catLabel": "Accent Chairs",
   "room": "Living",
   "price": 349,
-  "finish": "Beige & Maroon Tweed",
+  "finish": "Maroon Tweed",
   "dims": "35\"W x 31\"D x 27\"H",
-  "desc": "The Mardi Chair in beige & maroon tweed. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
+  "desc": "The Mardi Chair in maroon tweed. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
   "features": [],
   "featured": true,
   "rank": 19,
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV04292_1792e97a.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "Caviani",
@@ -946,7 +973,8 @@
    "img/p/LV04292_60f95288.jpg",
    "img/r/x33421.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6e2433"
  },
  {
   "sku": "BD00660Q",
@@ -955,9 +983,9 @@
   "catLabel": "Beds",
   "room": "Bedroom",
   "price": 659,
-  "finish": "Light Gray Linen, Rustic Gray & Weathered White Finish",
+  "finish": "Light Gray Linen, Rustic Gray & Weathered White",
   "dims": "88\"W x 65\"D x 62\"H",
-  "desc": "The Katia Queen Bed in light gray linen, rustic gray & weathered white finish. It has hidden storage. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
+  "desc": "The Katia Queen Bed in light gray linen, rustic gray & weathered white. It has hidden storage. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
   "features": [
    "Hidden storage"
   ],
@@ -966,7 +994,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/BD00660Q_dca6efff.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "GEG Comfort",
@@ -998,7 +1026,8 @@
    "img/p/BD00660Q_2fd2fa7b.jpg",
    "img/r/x39178.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "BD04152Q",
@@ -1046,7 +1075,8 @@
   "gallery": [
    "img/r/x39148.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "BD02317Q",
@@ -1055,9 +1085,9 @@
   "catLabel": "Beds",
   "room": "Bedroom",
   "price": 839,
-  "finish": "White Boucle & Pearl White Finish",
+  "finish": "White Boucle & Pearl White",
   "dims": "90\"W x 64\"D x 68\"H",
-  "desc": "The Tarian Queen Bed with Storage & LED in white boucle & pearl white finish. It has textured boucle upholstery, built-in LED lighting and hidden storage. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
+  "desc": "The Tarian Queen Bed with Storage & LED in white boucle & pearl white. It has textured boucle upholstery, built-in LED lighting and hidden storage. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
   "features": [
    "Textured boucle upholstery",
    "Built-in LED lighting",
@@ -1100,7 +1130,8 @@
    "img/p/BD02317Q_c220d291.jpg",
    "img/r/x39105.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "BD03792Q",
@@ -1109,9 +1140,9 @@
   "catLabel": "Beds",
   "room": "Bedroom",
   "price": 689,
-  "finish": "Light Gray Boucle & Pearl White Finish",
+  "finish": "Light Gray Boucle & Pearl White",
   "dims": "91\"L x 64\"W x 62\"H",
-  "desc": "The Laveda Queen Bed with LED in light gray boucle & pearl white finish. It has textured boucle upholstery, built-in LED lighting and hidden storage. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
+  "desc": "The Laveda Queen Bed with LED in light gray boucle & pearl white. It has textured boucle upholstery, built-in LED lighting and hidden storage. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
   "features": [
    "Textured boucle upholstery",
    "Built-in LED lighting",
@@ -1122,7 +1153,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/BD03792Q_1342b5bb.jpg",
-  "color": "Beige & Natural",
+  "color": "Gray",
   "comps": [
    {
     "store": "Caviani",
@@ -1159,7 +1190,8 @@
    "img/p/BD03792Q_0d5598e1.jpg",
    "img/r/x39104.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "27230Q",
@@ -1168,9 +1200,9 @@
   "catLabel": "Beds",
   "room": "Bedroom",
   "price": 889,
-  "finish": "Synthetic Leather & Champagne Finish",
+  "finish": "Leatherette & Champagne",
   "dims": "91\"W x 67\"D x 69\"H",
-  "desc": "The Kaitlyn Queen Bed with Storage & LED in synthetic leather & champagne finish. It has leather upholstery, built-in LED lighting and hidden storage. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
+  "desc": "The Kaitlyn Queen Bed with Storage & LED in leatherette & champagne. It has leather upholstery, built-in LED lighting and hidden storage. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
   "features": [
    "Leather upholstery",
    "Built-in LED lighting",
@@ -1209,7 +1241,8 @@
    "img/p/27230Q_b43e9384.jpg",
    "img/r/x39082.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d8c6a3"
  },
  {
   "sku": "BD02470Q",
@@ -1218,9 +1251,9 @@
   "catLabel": "Beds",
   "room": "Bedroom",
   "price": 569,
-  "finish": "White Boucle, Walnut & Oak Finish",
+  "finish": "White Boucl\u00e9 & Walnut",
   "dims": "89\"W x 66\"D x 45\"H",
-  "desc": "The Sandro Queen Bed in white boucle, walnut & oak finish. It has textured boucle upholstery and warm wood tones. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
+  "desc": "The Sandro Queen Bed in white boucl\u00e9 & walnut. It has textured boucle upholstery and warm wood tones. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
   "features": [
    "Textured boucle upholstery",
    "Warm wood tones"
@@ -1230,7 +1263,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/BD02470Q_1414a1b3.jpg",
-  "color": "Cream & White",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "Metropolitan Furniture",
@@ -1267,7 +1300,8 @@
    "img/p/BD02470Q_6942b958.jpg",
    "img/r/x39026.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "24200Q",
@@ -1276,9 +1310,9 @@
   "catLabel": "Beds",
   "room": "Bedroom",
   "price": 449,
-  "finish": "Rustic Walnut Finish",
+  "finish": "Rustic Walnut",
   "dims": "88\"W x 69\"D x 56\"H",
-  "desc": "The Elettra Queen Bed with Storage in rustic walnut finish. It has a curved, sculptural silhouette, hidden storage and warm wood tones. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
+  "desc": "The Elettra Queen Bed with Storage in rustic walnut. It has a curved, sculptural silhouette, hidden storage and warm wood tones. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
   "features": [
    "A curved, sculptural silhouette",
    "Hidden storage",
@@ -1311,7 +1345,8 @@
    "img/p/24200Q_dbc7bce9.jpg",
    "img/r/x38978.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "BD04602Q",
@@ -1332,7 +1367,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x38967.jpg",
-  "color": "Beige & Natural",
+  "color": "Black",
   "comps": [
    {
     "store": "Target",
@@ -1353,7 +1388,8 @@
   "gallery": [
    "img/r/x38967.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "BD03122Q",
@@ -1362,9 +1398,9 @@
   "catLabel": "Beds",
   "room": "Bedroom",
   "price": 1039,
-  "finish": "Upholstery Velvet",
+  "finish": "Black Velvet",
   "dims": "103\"W x 67\"D x 60\"H",
-  "desc": "The Kana Queen Bed with  Bluetooth, LED, Fireplace & TV Stand in upholstery velvet. It has plush velvet upholstery, built-in LED lighting and built-in Bluetooth speakers and a fireplace feature. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
+  "desc": "The Kana Queen Bed with  Bluetooth, LED, Fireplace & TV Stand in black velvet. It has plush velvet upholstery, built-in LED lighting and built-in Bluetooth speakers and a fireplace feature. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
   "features": [
    "Plush velvet upholstery",
    "Built-in LED lighting",
@@ -1375,7 +1411,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/BD03122Q_8a7ed004.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "comps": [
    {
     "store": "Metropolitan Furniture",
@@ -1399,10 +1435,10 @@
   "photo": "61c9c9972a",
   "room_img": "img/r/x38734.jpg",
   "gallery": [
-   "img/p/BD03122Q_8a7ed004.jpg",
-   "img/r/x38734.jpg"
+   "img/p/BD03122Q_8a7ed004.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#2a2526"
  },
  {
   "sku": "BD04212Q",
@@ -1444,7 +1480,8 @@
   "gallery": [
    "img/r/x38698.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "LV03865",
@@ -1453,9 +1490,9 @@
   "catLabel": "Coffee Tables",
   "room": "Living",
   "price": 369,
-  "finish": "Gray Velvet",
+  "finish": "Black Mirrored",
   "dims": "47\"W x 28\"D x 18\"H",
-  "desc": "The Wenona Coffee Table in gray velvet. It has plush velvet upholstery and a curved, sculptural silhouette. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
+  "desc": "The Wenona Coffee Table in black mirrored. It has plush velvet upholstery and a curved, sculptural silhouette. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
   "features": [
    "Plush velvet upholstery",
    "A curved, sculptural silhouette"
@@ -1465,7 +1502,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV03865_911b8143.jpg",
-  "color": "Gray",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "Bison Furniture",
@@ -1497,7 +1534,8 @@
    "img/p/LV03865_15440e31.jpg",
    "img/r/x33638.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cfd3d6"
  },
  {
   "sku": "BD00242Q",
@@ -1546,7 +1584,8 @@
    "img/p/BD00242Q_d0919ca5.jpg",
    "img/r/x39067.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#d8c6a3"
  },
  {
   "sku": "BD01425Q",
@@ -1555,9 +1594,9 @@
   "catLabel": "Beds",
   "room": "Bedroom",
   "price": 539,
-  "finish": "LED & White Finish",
+  "finish": "White Finish",
   "dims": "84\"W x 63\"D x 54\"H",
-  "desc": "The Haiden Queen Bed with Storage & LED in led & white finish. It has built-in LED lighting and hidden storage. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
+  "desc": "The Haiden Queen Bed with Storage & LED in white finish. It has built-in LED lighting and hidden storage. Pair it with the matching nightstands and dresser to finish the room. Delivered by freight, with white-glove setup available.",
   "features": [
    "Built-in LED lighting",
    "Hidden storage"
@@ -1593,7 +1632,8 @@
   "gallery": [
    "img/r/x39054.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#efeae0"
  },
  {
   "sku": "24853",
@@ -1634,7 +1674,8 @@
    "img/p/24853_0ec8dd6a.jpg",
    "img/r/x38978.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "BD04603",
@@ -1643,9 +1684,9 @@
   "catLabel": "Nightstands",
   "room": "Bedroom",
   "price": null,
-  "finish": "Beige Fabric & Espresso Finish",
+  "finish": "Espresso Finish",
   "dims": "24\"W x 16\"D x 24\"H",
-  "desc": "The Hosanna Nightstand in beige fabric & espresso finish. It has built-in LED lighting. Ships in a box straight to your door.",
+  "desc": "The Hosanna Nightstand in espresso finish. It has built-in LED lighting. Ships in a box straight to your door.",
   "features": [
    "Built-in LED lighting"
   ],
@@ -1654,7 +1695,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x38967.jpg",
-  "color": "Beige & Natural",
+  "color": "Black",
   "comps": [
    {
     "store": "The Classy Home",
@@ -1680,7 +1721,8 @@
   "gallery": [
    "img/r/x38967.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "LV00444",
@@ -1723,7 +1765,8 @@
   "gallery": [
    "img/r/x43428.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "AC02585",
@@ -1770,7 +1813,8 @@
    "img/p/AC02585_459537db.jpg",
    "img/r/x41841.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#b9b2a8"
  },
  {
   "sku": "LV04540",
@@ -1779,9 +1823,9 @@
   "catLabel": "Sofas",
   "room": "Living",
   "price": 959,
-  "finish": "Boucle",
+  "finish": "Beige Boucle",
   "dims": "88\"W x 35\"D x 29\"H",
-  "desc": "The Darius Sofa with 2 Pillows in boucle. It has textured boucle upholstery and a curved, sculptural silhouette. An everyday sofa with a clean profile. Delivered by freight, with white-glove setup available.",
+  "desc": "The Darius Sofa with 2 Pillows in beige boucle. It has textured beige boucle upholstery and a curved, sculptural silhouette. An everyday sofa with a clean profile. Delivered by freight, with white-glove setup available.",
   "features": [
    "Textured boucle upholstery",
    "A curved, sculptural silhouette"
@@ -1791,7 +1835,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/LV04540_9adcc5ff.jpg",
-  "color": "Brown & Wood",
+  "color": "Beige & Natural",
   "comps": [
    {
     "store": "Caviani",
@@ -1823,7 +1867,8 @@
    "img/p/LV04540_e75f4108.jpg",
    "img/r/x33832.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV04930",
@@ -1865,7 +1910,8 @@
   "gallery": [
    "img/r/x33816.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "OF00055",
@@ -1874,9 +1920,9 @@
   "catLabel": "Desks",
   "room": "Office",
   "price": 539,
-  "finish": "Natural Marble Top",
+  "finish": "Natural Marble Top & Rustic Oak Finish",
   "dims": "",
-  "desc": "The Talmar Writing Desk with Lift Top in natural marble top. It has hidden storage, a stone-look top and warm wood tones. Room for a laptop, monitor and the rest of your setup. Ships in a box straight to your door.",
+  "desc": "The Talmar Writing Desk with Lift Top in natural marble top & rustic oak finish. It has hidden storage, a stone-look top and warm wood tones. Room for a laptop, monitor and the rest of your setup. Ships in a box straight to your door.",
   "features": [
    "Hidden storage",
    "A stone-look top",
@@ -1887,7 +1933,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/OF00055_6d4e3b73.jpg",
-  "color": "Beige & Natural",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "Caviani",
@@ -1916,7 +1962,8 @@
    "img/p/OF00055_da9a90b7.jpg",
    "img/r/x42868.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#8c6a46"
  },
  {
   "sku": "BD01778Q",
@@ -1936,7 +1983,7 @@
   "rank": 40,
   "pack": 1,
   "ship": "Freight",
-  "img": "img/p/BD01778Q_a1dffea4.jpg",
+  "img": "img/r/x38805.jpg",
   "color": "Beige & Natural",
   "comps": [
    {
@@ -1961,15 +2008,10 @@
   "photo": "8811210924",
   "room_img": "img/r/x38805.jpg",
   "gallery": [
-   "img/p/BD01778Q_a1dffea4.jpg",
-   "img/p/BD01778Q_2ea115d3.jpg",
-   "img/p/BD01778Q_81981fef.jpg",
-   "img/p/BD01778Q_b3ae0526.jpg",
-   "img/p/BD01778Q_383689f1.jpg",
-   "img/p/BD01778Q_fb809e8a.jpg",
    "img/r/x38805.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "catalog",
+  "swatch": "#cdb48e"
  },
  {
   "sku": "83145",
@@ -1978,9 +2020,9 @@
   "catLabel": "Coffee Tables",
   "room": "Living",
   "price": 289,
-  "finish": "White Marble Grain Finish",
+  "finish": "Walnut Finish",
   "dims": "48\"W x 23\"D x 18\" ~ 24\"H",
-  "desc": "The Throm Coffee Table with Lift Top in white marble grain finish. It has hidden storage and a stone-look top. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
+  "desc": "The Throm Coffee Table with Lift Top in walnut finish. It has hidden storage and a stone-look top. Sized to sit in front of most sofas and sectionals. Ships in a box straight to your door.",
   "features": [
    "Hidden storage",
    "A stone-look top"
@@ -1990,7 +2032,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/83145_1ce27bb8.jpg",
-  "color": "Cream & White",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "The Classy Home",
@@ -2005,10 +2047,22 @@
   "room_img": "img/r/x44165.jpg",
   "gallery": [
    "img/p/83145_1ce27bb8.jpg",
-   "img/p/83145_33a37719.jpg",
-   "img/r/x44165.jpg"
+   "img/p/83145_33a37719.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#6b4a32",
+  "opts": [
+   {
+    "sku": "83145",
+    "finish": "Walnut Finish",
+    "swatch": "#6b4a32"
+   },
+   {
+    "sku": "LV00830",
+    "finish": "White Marble Grain Finish",
+    "swatch": "#efeae0"
+   }
+  ]
  },
  {
   "sku": "37959",
@@ -2017,9 +2071,9 @@
   "catLabel": "Accent Chairs",
   "room": "Living",
   "price": 149,
-  "finish": "Gunmetal Finish",
+  "finish": "Gray Synthetic Leather & Gunmetal Finish",
   "dims": "36\"H",
-  "desc": "The Cargo Chair in gunmetal finish. It has a curved, sculptural silhouette and hidden storage. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
+  "desc": "The Cargo Chair in gray synthetic leather & gunmetal finish. It has a curved, sculptural silhouette and hidden storage. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
   "features": [
    "A curved, sculptural silhouette",
    "Hidden storage"
@@ -2029,7 +2083,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/37959_393f2b9c.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "comps": [
    {
     "store": "Walmart",
@@ -2061,7 +2115,8 @@
    "img/p/37959_7dc2fc23.jpg",
    "img/r/x37830.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#55585d"
  },
  {
   "sku": "LV03880",
@@ -2114,7 +2169,8 @@
    "img/p/LV03880_524100f2.jpg",
    "img/r/x32242.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "LV04410",
@@ -2167,7 +2223,8 @@
    "img/p/LV04410_2fd195fa.jpg",
    "img/r/x32590.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "BD00967Q",
@@ -2220,7 +2277,8 @@
    "img/p/BD00967Q_a4bb2c33.jpg",
    "img/r/x38806.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "96556",
@@ -2229,9 +2287,9 @@
   "catLabel": "Counter & Bar Stools",
   "room": "Dining",
   "price": 529,
-  "finish": "Vintage Brown Top Grain Leather, Natural Marble Top & Aluminum",
+  "finish": "Vintage Brown Top Grain Leather & Aluminum",
   "dims": "31\" ~ 41\"H",
-  "desc": "The Brancaster Swivel Adjustable Stool in vintage brown top grain leather, natural marble top & aluminum. It has leather upholstery, a full swivel base, a stone-look top and warm wood tones. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
+  "desc": "The Brancaster Swivel Adjustable Stool in vintage brown top grain leather & aluminum. It has leather upholstery, a full swivel base, a stone-look top and warm wood tones. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
   "features": [
    "Leather upholstery",
    "A full swivel base",
@@ -2275,7 +2333,8 @@
    "img/p/96556_a06cd788.jpg",
    "img/r/x34555.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6f4e37"
  },
  {
   "sku": "55920",
@@ -2321,7 +2380,8 @@
    "img/p/55920_c5215539.jpg",
    "img/r/x33657.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#2a2526"
  },
  {
   "sku": "LV01774",
@@ -2374,7 +2434,20 @@
    "img/p/LV01774_c95be722.jpg",
    "img/r/x33637.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#3d5a87",
+  "opts": [
+   {
+    "sku": "LV01774",
+    "finish": "Blue Velvet",
+    "swatch": "#3d5a87"
+   },
+   {
+    "sku": "LV01710",
+    "finish": "Gray Velvet",
+    "swatch": "#a3a1a6"
+   }
+  ]
  },
  {
   "sku": "BD00661",
@@ -2383,9 +2456,9 @@
   "catLabel": "Nightstands",
   "room": "Bedroom",
   "price": 269,
-  "finish": "Light Gray Linen, Rustic Gray & Weathered White Finish",
+  "finish": "Rustic Gray & Weathered White Finish",
   "dims": "28\"L x 17\"W x 28\"H",
-  "desc": "The Katia Nightstand in light gray linen, rustic gray & weathered white finish. It has hidden storage. Ships in a box straight to your door.",
+  "desc": "The Katia Nightstand in rustic gray & weathered white finish. It has hidden storage. Ships in a box straight to your door.",
   "features": [
    "Hidden storage"
   ],
@@ -2394,7 +2467,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/BD00661_9d39343d.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "GEG Comfort",
@@ -2426,7 +2499,8 @@
    "img/p/BD00661_88dd4133.jpg",
    "img/r/x39178.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "DN02371",
@@ -2435,9 +2509,9 @@
   "catLabel": "Dining Tables & Sets",
   "room": "Dining",
   "price": 339,
-  "finish": "Rattan & Natural Finish",
+  "finish": "Natural",
   "dims": "33\"D x 63\"W",
-  "desc": "The Velentina Dining Table in rattan & natural finish. It has a curved, sculptural silhouette, natural rattan detailing and warm wood tones. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
+  "desc": "The Velentina Dining Table in natural. It has a curved, sculptural silhouette, natural rattan detailing and warm wood tones. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
   "features": [
    "A curved, sculptural silhouette",
    "Natural rattan detailing",
@@ -2448,7 +2522,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/DN02371_a4897ffa.jpg",
-  "color": "Brown & Wood",
+  "color": "Beige & Natural",
   "comps": [
    {
     "store": "Walmart",
@@ -2480,7 +2554,8 @@
    "img/p/DN02371_48157339.jpg",
    "img/r/x35838.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e"
  },
  {
   "sku": "DN02309",
@@ -2489,9 +2564,9 @@
   "catLabel": "Dining Tables & Sets",
   "room": "Dining",
   "price": 249,
-  "finish": "White Boucle & Walnut Finish",
+  "finish": "Walnut",
   "dims": "35\"D x 59\"W",
-  "desc": "The Casson Dining Table in white boucle & walnut finish. It has textured boucle upholstery, a curved, sculptural silhouette and warm wood tones. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
+  "desc": "The Casson Dining Table in walnut. It has textured boucle upholstery, a curved, sculptural silhouette and warm wood tones. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
   "features": [
    "Textured boucle upholstery",
    "A curved, sculptural silhouette",
@@ -2502,7 +2577,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/DN02309_a92394b8.jpg",
-  "color": "Cream & White",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "Ornate Home",
@@ -2534,7 +2609,8 @@
    "img/p/DN02309_95b797ec.jpg",
    "img/r/x35779.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "LV00142",
@@ -2556,7 +2632,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV00142_d5380332.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "comps": [
    {
     "store": "Metropolitan Furniture",
@@ -2588,7 +2664,8 @@
    "img/p/LV00142_3be99a91.jpg",
    "img/r/x43427.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#2a2526"
  },
  {
   "sku": "LV04682",
@@ -2610,7 +2687,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/LV04682_eb96d822.jpg",
-  "color": "Beige & Natural",
+  "color": "Gray",
   "comps": [
    {
     "store": "GEG Comfort",
@@ -2642,7 +2719,8 @@
    "img/p/LV04682_99f1ea8a.jpg",
    "img/r/x32094.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "LV03158",
@@ -2651,9 +2729,9 @@
   "catLabel": "Media & TV Stands",
   "room": "Living",
   "price": 699,
-  "finish": "Ceramic Top & Walnut Finish",
+  "finish": "Ceramic Top & Dark Oak",
   "dims": "71\"W x 17\"D x 18\"H",
-  "desc": "The Willene TV Stand in ceramic top & walnut finish. It has a curved, sculptural silhouette, hidden storage and a stone-look top. Keeps cables, consoles and media out of sight. Ships in a box straight to your door.",
+  "desc": "The Willene TV Stand in ceramic top & dark oak. It has a curved, sculptural silhouette, hidden storage and a stone-look top. Keeps cables, consoles and media out of sight. Ships in a box straight to your door.",
   "features": [
    "A curved, sculptural silhouette",
    "Hidden storage",
@@ -2701,7 +2779,8 @@
    "img/p/LV03158_1230d192.jpg",
    "img/r/x43417.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#b48a5a"
  },
  {
   "sku": "LV00230",
@@ -2749,7 +2828,8 @@
   "gallery": [
    "img/r/x33714.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#efeae0"
  },
  {
   "sku": "LV04322",
@@ -2769,7 +2849,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV04322_4a8fedaf.jpg",
-  "color": "Cream & White",
+  "color": "Beige & Natural",
   "comps": [
    {
     "store": "Caviani",
@@ -2796,7 +2876,8 @@
    "img/p/LV04322_7acdaddc.jpg",
    "img/r/x33338.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d8ccb6"
  },
  {
   "sku": "55427",
@@ -2816,7 +2897,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/55427_0b69d249.jpg",
-  "color": "Black",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "Metropolitan Furniture",
@@ -2834,7 +2915,8 @@
    "img/p/55427_dab37f30.jpg",
    "img/r/x32030.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "55447",
@@ -2888,7 +2970,8 @@
    "img/p/55447_ffee0db7.jpg",
    "img/r/x31954.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6f4e37"
  },
  {
   "sku": "LV04802",
@@ -2897,9 +2980,9 @@
   "catLabel": "Accent Chairs",
   "room": "Living",
   "price": 439,
-  "finish": "Red Or Gray Teddy Velvet",
+  "finish": "Gray Teddy Velvet",
   "dims": "33\"W x 35\"D x 29\"H",
-  "desc": "The Poma Chair with Swivel in red or gray teddy velvet. It has plush velvet upholstery, cozy teddy-sherpa fabric and a full swivel base. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
+  "desc": "The Poma Chair with Swivel in gray teddy velvet. It has plush velvet upholstery, cozy teddy-sherpa fabric and a full swivel base. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
   "features": [
    "Plush velvet upholstery",
    "Cozy teddy-sherpa fabric",
@@ -2910,7 +2993,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x33405.jpg",
-  "color": "Warm Tones",
+  "color": "Gray",
   "comps": [
    {
     "store": "Discount Living Rooms",
@@ -2936,7 +3019,8 @@
   "gallery": [
    "img/r/x33405.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "59664",
@@ -2945,7 +3029,7 @@
   "catLabel": "Accent Chairs",
   "room": "Living",
   "price": 819,
-  "finish": "",
+  "finish": "Antique Ebony Top Grain Leather",
   "dims": "28\"W x 30\"D x 28\"H",
   "desc": "The Accent Chair with Swivel in its standard finish. It has a full swivel base. A good extra seat for a corner, bedroom or reading nook. Ships in a box straight to your door.",
   "features": [
@@ -2956,7 +3040,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x41545.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "comps": [
    {
     "store": "At Home",
@@ -2982,7 +3066,8 @@
   "gallery": [
    "img/r/x41545.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#2e2522"
  },
  {
   "sku": "55922",
@@ -3025,7 +3110,8 @@
    "img/p/55922_6c4f23e6.jpg",
    "img/r/x33657.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#2a2526"
  },
  {
   "sku": "DN00089",
@@ -3034,9 +3120,9 @@
   "catLabel": "Dining Tables & Sets",
   "room": "Dining",
   "price": 619,
-  "finish": "Beige Fabric, Marble Top & Rustic Oak Finish",
+  "finish": "Beige Fabric, Natural Marble Top & Rustic Oak",
   "dims": "",
-  "desc": "The Wandella 4-Pc Pack Counter Height Set with USB Port in beige fabric, marble top & rustic oak finish. It has a stone-look top, warm wood tones and USB charging built in. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
+  "desc": "The Wandella 4-Pc Pack Counter Height Set with USB Port in beige fabric, natural marble top & rustic oak. It has a stone-look top, warm wood tones and USB charging built in. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
   "features": [
    "A stone-look top",
    "Warm wood tones",
@@ -3047,7 +3133,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/DN00089_408467bb.jpg",
-  "color": "Beige & Natural",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "GEG Comfort",
@@ -3084,7 +3170,8 @@
    "img/p/DN00089_93119154.jpg",
    "img/r/x34758.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#8c6a46"
  },
  {
   "sku": "BD02320",
@@ -3093,9 +3180,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 589,
-  "finish": "White Boucle & Pearl White Finish",
+  "finish": "Pearl White",
   "dims": "64\"W x 18\"D x 41\"H",
-  "desc": "The Tarian Dresser in white boucle & pearl white finish. It has textured boucle upholstery, built-in LED lighting and hidden storage. Delivered by freight, with white-glove setup available.",
+  "desc": "The Tarian Dresser in pearl white. It has textured boucle upholstery, built-in LED lighting and hidden storage. Delivered by freight, with white-glove setup available.",
   "features": [
    "Textured boucle upholstery",
    "Built-in LED lighting",
@@ -3138,7 +3225,8 @@
    "img/p/BD02320_723501b2.jpg",
    "img/r/x39105.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "BD03795",
@@ -3147,9 +3235,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 599,
-  "finish": "Light Gray Boucle & Pearl White Finish",
+  "finish": "Pearl White",
   "dims": "63\"W x 18\"D x 38\"H",
-  "desc": "The Laveda Dresser in light gray boucle & pearl white finish. It has textured boucle upholstery, built-in LED lighting and hidden storage. Delivered by freight, with white-glove setup available.",
+  "desc": "The Laveda Dresser in pearl white. It has textured boucle upholstery, built-in LED lighting and hidden storage. Delivered by freight, with white-glove setup available.",
   "features": [
    "Textured boucle upholstery",
    "Built-in LED lighting",
@@ -3160,7 +3248,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/BD03795_a47033a0.jpg",
-  "color": "Beige & Natural",
+  "color": "Cream & White",
   "comps": [
    {
     "store": "GEG Comfort",
@@ -3192,7 +3280,8 @@
    "img/p/BD03795_72fe73fc.jpg",
    "img/r/x39104.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "27235",
@@ -3201,9 +3290,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 679,
-  "finish": "Synthetic Leather & Champagne Finish",
+  "finish": "Champagne",
   "dims": "66\"W x 18\"D x 39\"H",
-  "desc": "The Kaitlyn Dresser in synthetic leather & champagne finish. It has leather upholstery, built-in LED lighting and hidden storage. Delivered by freight, with white-glove setup available.",
+  "desc": "The Kaitlyn Dresser in champagne. It has leather upholstery, built-in LED lighting and hidden storage. Delivered by freight, with white-glove setup available.",
   "features": [
    "Leather upholstery",
    "Built-in LED lighting",
@@ -3246,7 +3335,8 @@
    "img/p/27235_abdc8dc4.jpg",
    "img/r/x39082.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d8c6a3"
  },
  {
   "sku": "71725",
@@ -3255,9 +3345,9 @@
   "catLabel": "Dining Tables & Sets",
   "room": "Dining",
   "price": 339,
-  "finish": "Fabric & Reclaimed Gray Finish",
+  "finish": "Reclaimed Gray",
   "dims": "47\"Dia",
-  "desc": "The Gabrian Round Dining Table in fabric & reclaimed gray finish. It has a curved, sculptural silhouette. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
+  "desc": "The Gabrian Round Dining Table in reclaimed gray. It has a curved, sculptural silhouette. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
   "features": [
    "A curved, sculptural silhouette"
   ],
@@ -3294,7 +3384,8 @@
    "img/p/71725_2f64bf25.jpg",
    "img/r/x36777.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "DN02875",
@@ -3303,9 +3394,9 @@
   "catLabel": "Dining Tables & Sets",
   "room": "Dining",
   "price": 789,
-  "finish": "Natural Marble Top & Oak Finish",
+  "finish": "Natural Marble Top & Oak",
   "dims": "52\"Dia",
-  "desc": "The Qwin Round Dining Table in natural marble top & oak finish. It has a curved, sculptural silhouette, a stone-look top and warm wood tones. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
+  "desc": "The Qwin Round Dining Table in natural marble top & oak. It has a curved, sculptural silhouette, a stone-look top and warm wood tones. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
   "features": [
    "A curved, sculptural silhouette",
    "A stone-look top",
@@ -3316,7 +3407,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/DN02875_d42d948e.jpg",
-  "color": "Beige & Natural",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "Furniture Pick",
@@ -3343,7 +3434,8 @@
    "img/p/DN02875_9311f5ae.jpg",
    "img/r/x36166.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e"
  },
  {
   "sku": "DN02390",
@@ -3352,9 +3444,9 @@
   "catLabel": "Dining Tables & Sets",
   "room": "Dining",
   "price": 579,
-  "finish": "Natural Marble Top & Oak Finish",
+  "finish": "Natural Marble Top & Oak",
   "dims": "48\"Dia",
-  "desc": "The Kala Round Dining Table in natural marble top & oak finish. It has a curved, sculptural silhouette, a stone-look top and warm wood tones. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
+  "desc": "The Kala Round Dining Table in natural marble top & oak. It has a curved, sculptural silhouette, a stone-look top and warm wood tones. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
   "features": [
    "A curved, sculptural silhouette",
    "A stone-look top",
@@ -3365,7 +3457,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/DN02390_a6b8d4be.jpg",
-  "color": "Beige & Natural",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "Dining Rooms Outlet",
@@ -3391,7 +3483,8 @@
    "img/p/DN02390_f1dbbbd5.jpg",
    "img/r/x36167.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e"
  },
  {
   "sku": "DN02157",
@@ -3400,9 +3493,9 @@
   "catLabel": "Dining Tables & Sets",
   "room": "Dining",
   "price": 289,
-  "finish": "Beige Boucle, Engineered Stone Top & Walnut Finish",
+  "finish": "Engineered Stone Top & Walnut Finish",
   "dims": "40\"D x 72\"W",
-  "desc": "The Hettie Dining Table in beige boucle, engineered stone top & walnut finish. It has textured boucle upholstery and a stone-look top. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
+  "desc": "The Hettie Dining Table in engineered stone top & walnut finish. It has textured boucle upholstery and a stone-look top. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
   "features": [
    "Textured boucle upholstery",
    "A stone-look top"
@@ -3412,7 +3505,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/DN02157_c6e9af40.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "Jordan Home Furniture",
@@ -3439,7 +3532,8 @@
    "img/p/DN02157_c6e9af40.jpg",
    "img/r/x36144.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "DN01449",
@@ -3448,9 +3542,9 @@
   "catLabel": "Dining Tables & Sets",
   "room": "Dining",
   "price": 489,
-  "finish": "Beige Linen, Natural Marble Top & Rustic Oak Finish",
+  "finish": "Natural Marble & Rustic Oak",
   "dims": "52\"Dia",
-  "desc": "The Karsen Round Dining Table in beige linen, natural marble top & rustic oak finish. It has a curved, sculptural silhouette, a stone-look top and warm wood tones. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
+  "desc": "The Karsen Round Dining Table in natural marble & rustic oak. It has a curved, sculptural silhouette, a stone-look top and warm wood tones. Seats the whole table for weeknight dinners and holidays. Delivered by freight, with white-glove setup available.",
   "features": [
    "A curved, sculptural silhouette",
    "A stone-look top",
@@ -3461,7 +3555,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/DN01449_4df3219f.jpg",
-  "color": "Beige & Natural",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "Euroclassic Furniture",
@@ -3493,7 +3587,8 @@
    "img/p/DN01449_a2832b1b.jpg",
    "img/r/x36103.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#8c6a46"
  },
  {
   "sku": "LV00312",
@@ -3515,7 +3610,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x43300.jpg",
-  "color": "Black",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "Metropolitan Furniture",
@@ -3541,7 +3636,8 @@
   "gallery": [
    "img/r/x43300.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#cfd3d6"
  },
  {
   "sku": "30605",
@@ -3550,9 +3646,9 @@
   "catLabel": "Desks",
   "room": "Office",
   "price": 759,
-  "finish": "White Finish",
+  "finish": "White",
   "dims": "52\"W x 24\"D x 31\"H",
-  "desc": "The Lacey Writing Desk in white finish. It has hidden storage. Room for a laptop, monitor and the rest of your setup. Ships in a box straight to your door.",
+  "desc": "The Lacey Writing Desk in white. It has hidden storage. Room for a laptop, monitor and the rest of your setup. Ships in a box straight to your door.",
   "features": [
    "Hidden storage"
   ],
@@ -3585,10 +3681,10 @@
    "img/p/30605_e5022a23.jpg",
    "img/p/30605_8209cae0.jpg",
    "img/p/30605_bf160f8c.jpg",
-   "img/p/30605_d7bb2626.jpg",
-   "img/r/x38444.jpg"
+   "img/p/30605_d7bb2626.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "DN02878",
@@ -3597,9 +3693,9 @@
   "catLabel": "Storage",
   "room": "Dining",
   "price": 1059,
-  "finish": "Natural Marble Top & Oak Finish",
+  "finish": "Natural Marble Top & Oak",
   "dims": "71\"W x 18\"D x 36\"H",
-  "desc": "The Qwin Server in natural marble top & oak finish. It has a curved, sculptural silhouette, a stone-look top and warm wood tones. Delivered by freight, with white-glove setup available.",
+  "desc": "The Qwin Server in natural marble top & oak. It has a curved, sculptural silhouette, a stone-look top and warm wood tones. Delivered by freight, with white-glove setup available.",
   "features": [
    "A curved, sculptural silhouette",
    "A stone-look top",
@@ -3610,7 +3706,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/DN02878_ea008ec7.jpg",
-  "color": "Beige & Natural",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "Wayfair",
@@ -3642,7 +3738,8 @@
    "img/p/DN02878_7d737acb.jpg",
    "img/r/x36166.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e"
  },
  {
   "sku": "37965",
@@ -3663,7 +3760,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x37830.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "comps": [
    {
     "store": "Home Living Furniture",
@@ -3679,7 +3776,8 @@
   "gallery": [
    "img/r/x37830.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#55585d"
  },
  {
   "sku": "84853",
@@ -3688,9 +3786,9 @@
   "catLabel": "Console Tables",
   "room": "Living",
   "price": 289,
-  "finish": "Fabric & Walnut Finish",
+  "finish": "Walnut Finish",
   "dims": "52\"W x 18\"D x 28\"H",
-  "desc": "The Niamey Sofa Table in fabric & walnut finish. It has a curved, sculptural silhouette and warm wood tones. Ships in a box straight to your door.",
+  "desc": "The Niamey Sofa Table in walnut finish. It has a curved, sculptural silhouette and warm wood tones. Ships in a box straight to your door.",
   "features": [
    "A curved, sculptural silhouette",
    "Warm wood tones"
@@ -3724,7 +3822,8 @@
    "img/p/84853_42d86ac4.jpg",
    "img/r/x33797.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "AC00508",
@@ -3778,7 +3877,8 @@
    "img/p/AC00508_80e0d203.jpg",
    "img/r/x40480.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cfd3d6"
  },
  {
   "sku": "92615",
@@ -3787,9 +3887,9 @@
   "catLabel": "Desks",
   "room": "Office",
   "price": 179,
-  "finish": "White Engineered Stone Top & Chrome Finish",
+  "finish": "White Printed Faux Marble Top & Chrome Finish",
   "dims": "42\"W x 19\"D x 31\"H",
-  "desc": "The Tigress Writing Desk in white engineered stone top & chrome finish. It has a stone-look top. Room for a laptop, monitor and the rest of your setup. Ships in a box straight to your door.",
+  "desc": "The Tigress Writing Desk in white printed faux marble top & chrome finish. It has a stone-look top. Room for a laptop, monitor and the rest of your setup. Ships in a box straight to your door.",
   "features": [
    "A stone-look top"
   ],
@@ -3830,7 +3930,8 @@
    "img/p/92615_48f92064.jpg",
    "img/r/x42857.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "83072",
@@ -3839,9 +3940,9 @@
   "catLabel": "Side Tables",
   "room": "Living",
   "price": 549,
-  "finish": "Espresso Top Grain Leather Match & Walnut Finish",
+  "finish": "Marble Top & Walnut Finish",
   "dims": "30\"W x 30\"D x 25\"H",
-  "desc": "The Forsythia End Table with Marble Top in espresso top grain leather match & walnut finish. It has leather upholstery, a curved, sculptural silhouette, a stone-look top and warm wood tones. Ships in a box straight to your door.",
+  "desc": "The Forsythia End Table with Marble Top in marble top & walnut finish. It has leather upholstery, a curved, sculptural silhouette, a stone-look top and warm wood tones. Ships in a box straight to your door.",
   "features": [
    "Leather upholstery",
    "A curved, sculptural silhouette",
@@ -3853,7 +3954,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/83072_ee268fb8.jpg",
-  "color": "Black",
+  "color": "Brown & Wood",
   "comps": [
    {
     "store": "familydiscountfurniturepr.com",
@@ -3872,10 +3973,10 @@
   "photo": "01d9a75469",
   "room_img": "img/r/x34113.jpg",
   "gallery": [
-   "img/p/83072_ee268fb8.jpg",
-   "img/r/x34113.jpg"
+   "img/p/83072_ee268fb8.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "93125",
@@ -3896,7 +3997,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/93125_38a40c37.jpg",
-  "color": "Black",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "Wayfair",
@@ -3928,7 +4029,8 @@
    "img/p/93125_59128f81.jpg",
    "img/r/x42592.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "93132",
@@ -3937,9 +4039,9 @@
   "catLabel": "Desks",
   "room": "Office",
   "price": 289,
-  "finish": "Black Finish",
+  "finish": "Black",
   "dims": "",
-  "desc": "The Canzi Gaming Table with USB Port in black finish. It has USB charging built in and a gamer-ready layout. Room for a laptop, monitor and the rest of your setup. Ships in a box straight to your door.",
+  "desc": "The Canzi Gaming Table with USB Port in black. It has USB charging built in and a gamer-ready layout. Room for a laptop, monitor and the rest of your setup. Ships in a box straight to your door.",
   "features": [
    "USB charging built in",
    "A gamer-ready layout"
@@ -3981,7 +4083,8 @@
    "img/p/93132_46a50d69.jpg",
    "img/r/x42607.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#2a2526"
  },
  {
   "sku": "84882",
@@ -3990,9 +4093,9 @@
   "catLabel": "Side Tables",
   "room": "Living",
   "price": 379,
-  "finish": "Merlot Top Grain Leather",
+  "finish": "Merlot Top Grain Leather & Aluminum",
   "dims": "20\"Dia x 21\"H",
-  "desc": "The Orsin End Table in merlot top grain leather. It has leather upholstery and a curved, sculptural silhouette. Ships in a box straight to your door.",
+  "desc": "The Orsin End Table in merlot top grain leather & aluminum. It has leather upholstery and a curved, sculptural silhouette. Ships in a box straight to your door.",
   "features": [
    "Leather upholstery",
    "A curved, sculptural silhouette"
@@ -4002,7 +4105,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x32776.jpg",
-  "color": "Brown & Wood",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "Home Depot",
@@ -4028,18 +4131,19 @@
   "gallery": [
    "img/r/x32776.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#6e2433"
  },
  {
   "sku": "72942",
-  "name": "Wandella Counter Height Chair",
+  "name": "Yelena Counter Height Chair",
   "category": "Counter/Bar Stool",
   "catLabel": "Counter & Bar Stools",
   "room": "Dining",
   "price": 359,
-  "finish": "Beige Fabric, Marble Top & Rustic Oak Finish",
+  "finish": "Fabric & Weathered Espresso Finish",
   "dims": "40\"H",
-  "desc": "The Wandella Counter Height Chair in beige fabric, marble top & rustic oak finish. It has a stone-look top and warm wood tones. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
+  "desc": "The Yelena Counter Height Chair in fabric & weathered espresso finish. It has a stone-look top and warm wood tones. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
   "features": [
    "A stone-look top",
    "Warm wood tones"
@@ -4049,7 +4153,7 @@
   "pack": 2,
   "ship": "Parcel",
   "img": "img/p/72942_57bb6ef0.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "checked": "2026-11-16",
   "photo": "b00c428071",
   "room_img": "img/r/x34752.jpg",
@@ -4060,7 +4164,8 @@
    "img/p/72942_1aa617eb.jpg",
    "img/r/x34752.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "37145",
@@ -4069,9 +4174,9 @@
   "catLabel": "Kids & Bunk Beds",
   "room": "Bedroom",
   "price": 749,
-  "finish": "White Finish",
+  "finish": "White",
   "dims": "",
-  "desc": "The Freya Twin Loft Bed with Bookcase Ladder in white finish. It has hidden storage. Saves floor space in shared or smaller kids rooms. Delivered by freight, with white-glove setup available.",
+  "desc": "The Freya Twin Loft Bed with Bookcase Ladder in white. It has hidden storage. Saves floor space in shared or smaller kids rooms. Delivered by freight, with white-glove setup available.",
   "features": [
    "Hidden storage"
   ],
@@ -4110,7 +4215,8 @@
    "img/p/37145_3f4ad08d.jpg",
    "img/r/x38120.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "38150",
@@ -4159,7 +4265,8 @@
    "img/p/38150_caec5ffc.jpg",
    "img/r/x37973.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#efeae0"
  },
  {
   "sku": "92568",
@@ -4168,9 +4275,9 @@
   "catLabel": "Office Chairs",
   "room": "Office",
   "price": 849,
-  "finish": "Gold Aluminum & Top Grain Leather",
+  "finish": "Chocolate Top Grain Leather & Gold Aluminum",
   "dims": "22\"W x 26\"D x 35\" ~ 38\"H",
-  "desc": "The Danton Office Chair in gold aluminum & top grain leather. It has leather upholstery. Ships in a box straight to your door.",
+  "desc": "The Danton Office Chair in chocolate top grain leather & gold aluminum. It has leather upholstery. Ships in a box straight to your door.",
   "features": [
    "Leather upholstery"
   ],
@@ -4179,14 +4286,15 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x42914.jpg",
-  "color": "Warm Tones",
+  "color": "Brown & Wood",
   "checked": "2026-11-16",
   "photo": "d348b6f70c",
   "room_img": "img/r/x42914.jpg",
   "gallery": [
    "img/r/x42914.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#c8a24a"
  },
  {
   "sku": "37370",
@@ -4195,9 +4303,9 @@
   "catLabel": "Kids & Bunk Beds",
   "room": "Bedroom",
   "price": 909,
-  "finish": "Gray, White Or Espresso Finish",
+  "finish": "White",
   "dims": "",
-  "desc": "The Allentown Twin/Twin Bunk Bed with Storage Ladder & Trundle in gray, white or espresso finish. It has hidden storage. Saves floor space in shared or smaller kids rooms. Delivered by freight, with white-glove setup available.",
+  "desc": "The Allentown Twin/Twin Bunk Bed with Storage Ladder & Trundle in white. It has hidden storage. Saves floor space in shared or smaller kids rooms. Delivered by freight, with white-glove setup available.",
   "features": [
    "Hidden storage"
   ],
@@ -4206,7 +4314,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/37370_7489579e.jpg",
-  "color": "Gray",
+  "color": "Cream & White",
   "comps": [
    {
     "store": "Walmart",
@@ -4236,7 +4344,51 @@
    "img/p/37370_8fe2fa86.jpg",
    "img/r/x38078.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0",
+  "opts": [
+   {
+    "sku": "37370",
+    "finish": "White",
+    "swatch": "#efeae0"
+   },
+   {
+    "sku": "10170W",
+    "finish": "Espresso",
+    "swatch": "#3b2a22"
+   },
+   {
+    "sku": "37870",
+    "finish": "Gray",
+    "swatch": "#a3a1a6"
+   }
+  ],
+  "vx": {
+   "10170W": {
+    "finish": "Espresso",
+    "swatch": "#3b2a22",
+    "color": "Black",
+    "price": 919,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/1/0/10170w.jpg",
+     "https://acmecorp.com/media/catalog/product/1/0/10170w_1.jpg",
+     "https://acmecorp.com/media/catalog/product/1/0/10170_dim.jpg",
+     "https://acmecorp.com/media/catalog/product/1/0/10170w_dim.jpg"
+    ]
+   },
+   "37870": {
+    "finish": "Gray",
+    "swatch": "#a3a1a6",
+    "color": "Gray",
+    "price": 959,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/3/7/37870_1.jpg",
+     "https://acmecorp.com/media/catalog/product/3/7/37870_1_1.jpg",
+     "https://acmecorp.com/media/catalog/product/3/7/37870_2.jpg",
+     "https://acmecorp.com/media/catalog/product/3/7/37870_3.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "37445",
@@ -4245,9 +4397,9 @@
   "catLabel": "Kids & Bunk Beds",
   "room": "Bedroom",
   "price": 1109,
-  "finish": "Gray Finish",
+  "finish": "Gray",
   "dims": "",
-  "desc": "The Jason II Twin Loft Bed with Storage Ladder in gray finish. It has hidden storage. Saves floor space in shared or smaller kids rooms. Delivered by freight, with white-glove setup available.",
+  "desc": "The Jason II Twin Loft Bed with Storage Ladder in gray. It has hidden storage. Saves floor space in shared or smaller kids rooms. Delivered by freight, with white-glove setup available.",
   "features": [
    "Hidden storage"
   ],
@@ -4290,7 +4442,36 @@
    "img/p/37445_a5a382c9.jpg",
    "img/r/x38058.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6",
+  "opts": [
+   {
+    "sku": "37445",
+    "finish": "Gray",
+    "swatch": "#a3a1a6"
+   },
+   {
+    "sku": "37455",
+    "finish": "Navy Blue",
+    "swatch": "#2d3f63"
+   }
+  ],
+  "vx": {
+   "37455": {
+    "finish": "Navy Blue",
+    "swatch": "#2d3f63",
+    "color": "Blue & Green",
+    "price": 1059,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/3/7/37455_a.jpg",
+     "https://acmecorp.com/media/catalog/product/3/7/37455_afe.jpg",
+     "https://acmecorp.com/media/catalog/product/3/7/37455_s.jpg",
+     "https://acmecorp.com/media/catalog/product/3/7/37455_f.jpg",
+     "https://acmecorp.com/media/catalog/product/3/7/37455_l.jpg",
+     "https://acmecorp.com/media/catalog/product/3/7/37455_draw.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "96260",
@@ -4299,7 +4480,7 @@
   "catLabel": "Counter & Bar Stools",
   "room": "Dining",
   "price": 119,
-  "finish": "",
+  "finish": "Clear & Chrome Finish",
   "dims": "26\" ~ 35\" H",
   "desc": "The Rania Rania Swivel Adjustable Stool in its standard finish. It has a full swivel base. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
   "features": [
@@ -4310,7 +4491,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x34379.jpg",
-  "color": "Brown & Wood",
+  "color": "Cream & White",
   "comps": [
    {
     "store": "Metropolitan Furniture",
@@ -4336,7 +4517,8 @@
   "gallery": [
    "img/r/x34379.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#dfe6ea"
  },
  {
   "sku": "30607",
@@ -4345,9 +4527,9 @@
   "catLabel": "Bookcases",
   "room": "Office",
   "price": 329,
-  "finish": "White Finish",
+  "finish": "White",
   "dims": "37\"W x 18\"D x 30\"H",
-  "desc": "The Lacey Bookcase in white finish. It has hidden storage. Ships in a box straight to your door.",
+  "desc": "The Lacey Bookcase in white. It has hidden storage. Ships in a box straight to your door.",
   "features": [
    "Hidden storage"
   ],
@@ -4382,10 +4564,10 @@
   "gallery": [
    "img/p/30607_f4dc25f2.jpg",
    "img/p/30607_0acd113d.jpg",
-   "img/p/30607_edaf886d.jpg",
-   "img/r/x38444.jpg"
+   "img/p/30607_edaf886d.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "DN03256",
@@ -4394,9 +4576,9 @@
   "catLabel": "Counter & Bar Stools",
   "room": "Dining",
   "price": 509,
-  "finish": "Grey Linen, Natural Marble Top & Espresso Finish",
+  "finish": "Gray Linen & Espresso",
   "dims": "39\"H",
-  "desc": "The Edwyn Counter Height Chair in grey linen, natural marble top & espresso finish. It has a stone-look top and warm wood tones. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
+  "desc": "The Edwyn Counter Height Chair in gray linen & espresso. It has a stone-look top and warm wood tones. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
   "features": [
    "A stone-look top",
    "Warm wood tones"
@@ -4406,7 +4588,7 @@
   "pack": 2,
   "ship": "Parcel",
   "img": "img/p/DN03256_68b65ef9.jpg",
-  "color": "Gray",
+  "color": "Black",
   "comps": [
    {
     "store": "Ornate Home",
@@ -4438,7 +4620,8 @@
    "img/p/DN03256_b514a1bf.jpg",
    "img/r/x34710.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "DN02716",
@@ -4447,9 +4630,9 @@
   "catLabel": "Counter & Bar Stools",
   "room": "Dining",
   "price": 569,
-  "finish": "Natural Marble Top & Black Finish",
+  "finish": "Black Chenille & Black",
   "dims": "36\"H",
-  "desc": "The Jaramillo Counter Height Chair in natural marble top & black finish. It has a stone-look top and warm wood tones. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
+  "desc": "The Jaramillo Counter Height Chair in black chenille & black. It has a stone-look top and warm wood tones. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
   "features": [
    "A stone-look top",
    "Warm wood tones"
@@ -4459,7 +4642,7 @@
   "pack": 2,
   "ship": "Parcel",
   "img": "img/p/DN02716_aacccd5c.jpg",
-  "color": "Beige & Natural",
+  "color": "Black",
   "comps": [
    {
     "store": "Walmart",
@@ -4488,10 +4671,38 @@
    "img/p/DN02716_bd6f4889.jpg",
    "img/p/DN02716_8df4c202.jpg",
    "img/p/DN02716_1fe10c33.jpg",
-   "img/p/DN02716_09e5fcbe.jpg",
-   "img/r/x34600.jpg"
+   "img/p/DN02716_09e5fcbe.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#2a2526",
+  "opts": [
+   {
+    "sku": "DN02716",
+    "finish": "Black Chenille & Black",
+    "swatch": "#2a2526"
+   },
+   {
+    "sku": "DN02717",
+    "finish": "Beige Linen & Black",
+    "swatch": "#2a2526"
+   }
+  ],
+  "vx": {
+   "DN02717": {
+    "finish": "Beige Linen & Black",
+    "swatch": "#2a2526",
+    "color": "Black",
+    "price": 569,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/d/n/dn02717_5.jpg",
+     "https://acmecorp.com/media/catalog/product/d/n/dn02655_dn02717_life.jpg",
+     "https://acmecorp.com/media/catalog/product/d/n/dn02717_1.jpg",
+     "https://acmecorp.com/media/catalog/product/d/n/dn02717_2.jpg",
+     "https://acmecorp.com/media/catalog/product/d/n/dn02717_3.jpg",
+     "https://acmecorp.com/media/catalog/product/d/n/dn02717_4.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "LV03227",
@@ -4500,9 +4711,9 @@
   "catLabel": "Console Tables",
   "room": "Living",
   "price": null,
-  "finish": "Black Top Grain Leather",
+  "finish": "White Finish & Clear Acrylic",
   "dims": "47\"W x 18\"D x 30\"H",
-  "desc": "The Eilene Sofa Table in black top grain leather. It has leather upholstery. Ships in a box straight to your door.",
+  "desc": "The Eilene Sofa Table in white finish & clear acrylic. It has leather upholstery. Ships in a box straight to your door.",
   "features": [
    "Leather upholstery"
   ],
@@ -4511,7 +4722,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x33180.jpg",
-  "color": "Black",
+  "color": "Cream & White",
   "comps": [
    {
     "store": "Walmart",
@@ -4537,7 +4748,8 @@
   "gallery": [
    "img/r/x33180.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#dfe6ea"
  },
  {
   "sku": "92569",
@@ -4546,9 +4758,9 @@
   "catLabel": "Office Chairs",
   "room": "Office",
   "price": null,
-  "finish": "Top Grain Leather",
+  "finish": "Vintage Chocolate Top Grain Leather",
   "dims": "22\"W x 26\"D x 35\" ~ 38\"H",
-  "desc": "The Indra Office Chair in top grain leather. It has leather upholstery. Ships in a box straight to your door.",
+  "desc": "The Indra Office Chair in vintage chocolate top grain leather. It has leather upholstery. Ships in a box straight to your door.",
   "features": [
    "Leather upholstery"
   ],
@@ -4584,7 +4796,8 @@
    "img/p/92569_a7d4246b.jpg",
    "img/r/x42435.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#4a3125"
  },
  {
   "sku": "92416",
@@ -4593,9 +4806,9 @@
   "catLabel": "Office Chairs",
   "room": "Office",
   "price": 539,
-  "finish": "Top Grain Leather",
+  "finish": "Vintage Whiskey Top Grain Leather",
   "dims": "22\"W x 26\"D x 36\"H",
-  "desc": "The Harith Office Chair in top grain leather. It has leather upholstery. Ships in a box straight to your door.",
+  "desc": "The Harith Office Chair in vintage whiskey top grain leather. It has leather upholstery. Ships in a box straight to your door.",
   "features": [
    "Leather upholstery"
   ],
@@ -4604,7 +4817,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/92416_8e60a020.jpg",
-  "color": "Brown & Wood",
+  "color": "Warm Tones",
   "comps": [
    {
     "store": "English Elm",
@@ -4636,7 +4849,36 @@
    "img/p/92416_4a361522.jpg",
    "img/r/x42439.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#8a5a2e",
+  "opts": [
+   {
+    "sku": "92416",
+    "finish": "Vintage Whiskey Top Grain Leather",
+    "swatch": "#8a5a2e"
+   },
+   {
+    "sku": "92417",
+    "finish": "Vintage Blue Top Grain Leather",
+    "swatch": "#3d5a87"
+   }
+  ],
+  "vx": {
+   "92417": {
+    "finish": "Vintage Blue Top Grain Leather",
+    "swatch": "#3d5a87",
+    "color": "Blue & Green",
+    "price": 539,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/9/2/92417.jpg",
+     "https://acmecorp.com/media/catalog/product/9/2/92417_1.jpg",
+     "https://acmecorp.com/media/catalog/product/9/2/92417_2.jpg",
+     "https://acmecorp.com/media/catalog/product/9/2/92417_3.jpg",
+     "https://acmecorp.com/media/catalog/product/9/2/92417_4.jpg",
+     "https://acmecorp.com/media/catalog/product/9/2/92417_dim.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "DN01445",
@@ -4645,9 +4887,9 @@
   "catLabel": "Counter & Bar Stools",
   "room": "Dining",
   "price": 309,
-  "finish": "White Synthetic Leather, Natural Marble Top & Black Finish",
+  "finish": "White Synthetic Leather & Black Finish",
   "dims": "41\"H",
-  "desc": "The Hussein Counter Height Chair in white synthetic leather, natural marble top & black finish. It has leather upholstery, a stone-look top and warm wood tones. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
+  "desc": "The Hussein Counter Height Chair in white synthetic leather & black finish. It has leather upholstery, a stone-look top and warm wood tones. Works at kitchen islands and counter-height tables. Ships in a box straight to your door.",
   "features": [
    "Leather upholstery",
    "A stone-look top",
@@ -4658,7 +4900,7 @@
   "pack": 2,
   "ship": "Parcel",
   "img": "img/r/x34798.jpg",
-  "color": "Cream & White",
+  "color": "Black",
   "comps": [
    {
     "store": "Bradley Home Furnishings",
@@ -4679,7 +4921,8 @@
   "gallery": [
    "img/r/x34798.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#2a2526"
  },
  {
   "sku": "LV03207",
@@ -4688,9 +4931,9 @@
   "catLabel": "Console Tables",
   "room": "Living",
   "price": 279,
-  "finish": "White Natural Marble Top & Espresso Finish",
+  "finish": "Natural Marble Top & Espresso",
   "dims": "48\"W x 18\"D x 30\"H",
-  "desc": "The Edwyn Sofa Table in white natural marble top & espresso finish. It has a stone-look top and warm wood tones. Ships in a box straight to your door.",
+  "desc": "The Edwyn Sofa Table in natural marble top & espresso. It has a stone-look top and warm wood tones. Ships in a box straight to your door.",
   "features": [
    "A stone-look top",
    "Warm wood tones"
@@ -4700,7 +4943,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV03207_a91c767e.jpg",
-  "color": "Cream & White",
+  "color": "Black",
   "comps": [
    {
     "store": "Ornate Home",
@@ -4732,7 +4975,8 @@
    "img/p/LV03207_ebd533a6.jpg",
    "img/r/x44151.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "97169",
@@ -4741,7 +4985,7 @@
   "catLabel": "Vanities",
   "room": "Bedroom",
   "price": 259,
-  "finish": "",
+  "finish": "Gold Finish",
   "dims": "16\"W x 10\"D x 40\"H",
   "desc": "The Tammy Jewelry Armoire in its standard finish. Ships in a box straight to your door.",
   "features": [],
@@ -4750,7 +4994,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/97169_7d1eb1a1.jpg",
-  "color": "Brown & Wood",
+  "color": "Beige & Natural",
   "comps": [
    {
     "store": "familydiscountfurniturepr.com",
@@ -4778,7 +5022,8 @@
    "img/p/97169_4b077592.jpg",
    "img/r/x39959.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#c8a24a"
  },
  {
   "sku": "AC01167",
@@ -4787,7 +5032,7 @@
   "catLabel": "Vanities",
   "room": "Bedroom",
   "price": 329,
-  "finish": "",
+  "finish": "Black, Silver & Gold Finish",
   "dims": "17\"W x 16\"D x 45\"H",
   "desc": "The Myles Jewelry Armoire in its standard finish. Ships in a box straight to your door.",
   "features": [],
@@ -4796,7 +5041,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/AC01167_58370e5b.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "comps": [
    {
     "store": "Walmart",
@@ -4825,10 +5070,10 @@
    "img/p/AC01167_ea9aae21.jpg",
    "img/p/AC01167_94524897.jpg",
    "img/p/AC01167_1d1670cf.jpg",
-   "img/p/AC01167_75bee750.jpg",
-   "img/r/x38656.jpg"
+   "img/p/AC01167_75bee750.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#c8a24a"
  },
  {
   "sku": "24267",
@@ -4837,7 +5082,7 @@
   "catLabel": "Vanities",
   "room": "Bedroom",
   "price": 229,
-  "finish": "",
+  "finish": "Rustic Oak & Black Finish",
   "dims": "",
   "desc": "The Juvanth Vanity Desk & Mirror in its standard finish. Ships in a box straight to your door.",
   "features": [],
@@ -4846,7 +5091,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/24267_43e6e034.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "comps": [
    {
     "store": "Caviani",
@@ -4874,10 +5119,10 @@
    "img/p/24267_b78fa18b.jpg",
    "img/p/24267_4829e01b.jpg",
    "img/p/24267_44e86c6f.jpg",
-   "img/p/24267_434efa0c.jpg",
-   "img/r/x38608.jpg"
+   "img/p/24267_434efa0c.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#2a2526"
  },
  {
   "sku": "39080",
@@ -4886,9 +5131,9 @@
   "catLabel": "Daybeds",
   "room": "Bedroom",
   "price": 299,
-  "finish": "Black Finish",
+  "finish": "White",
   "dims": "",
-  "desc": "The Bailee Twin Daybed with Pull-Out Bed in black finish. It has a pull-out sleeper for overnight guests. Delivered by freight, with white-glove setup available.",
+  "desc": "The Bailee Twin Daybed with Pull-Out Bed in white. It has a pull-out sleeper for overnight guests. Delivered by freight, with white-glove setup available.",
   "features": [
    "A pull-out sleeper for overnight guests"
   ],
@@ -4897,7 +5142,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/39080_6cc2748b.jpg",
-  "color": "Black",
+  "color": "Cream & White",
   "comps": [
    {
     "store": "Home Living Furniture",
@@ -4929,7 +5174,8 @@
    "img/p/39080_ad615eed.jpg",
    "img/r/x38549.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "LV04611",
@@ -4957,7 +5203,8 @@
   "gallery": [
    "img/r/x32559.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV04612",
@@ -4985,7 +5232,8 @@
   "gallery": [
    "img/r/x32559.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV04613",
@@ -5012,7 +5260,8 @@
   "gallery": [
    "img/r/x32559.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV04931",
@@ -5039,7 +5288,8 @@
   "gallery": [
    "img/r/x33816.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV02543",
@@ -5073,25 +5323,54 @@
    "img/p/LV02543_c9145e3c.jpg",
    "img/r/x33816.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7",
+  "opts": [
+   {
+    "sku": "LV02543",
+    "finish": "Beige Boucle",
+    "swatch": "#d9c7a7"
+   },
+   {
+    "sku": "LV02568",
+    "finish": "2 Tone Brown Boucle",
+    "swatch": "#6f4e37"
+   }
+  ],
+  "vx": {
+   "LV02568": {
+    "finish": "2 Tone Brown Boucle",
+    "swatch": "#6f4e37",
+    "color": "Brown & Wood",
+    "price": 579,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/l/v/lv02568_1.jpg",
+     "https://acmecorp.com/media/catalog/product/l/v/lv02568_life_1_1.jpg",
+     "https://acmecorp.com/media/catalog/product/l/v/lv02568_1_1.jpg",
+     "https://acmecorp.com/media/catalog/product/l/v/lv02568_2.jpg",
+     "https://acmecorp.com/media/catalog/product/l/v/lv02568_3.jpg",
+     "https://acmecorp.com/media/catalog/product/l/v/lv02568_4.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "LV04236",
-  "name": "Isabel End Table",
+  "name": "Sanat End Table",
   "category": "End/Accent Table",
   "catLabel": "Side Tables",
   "room": "Living",
   "price": 179,
-  "finish": "Matches the Isabel collection",
+  "finish": "Brown Finish",
   "dims": "20\"Dia x 20\"H",
-  "desc": "The Isabel End Table, from the Isabel collection. Ships boxed to your door.",
+  "desc": "The Sanat End Table, from the Sanat collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 106,
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV04236_8adfb6c5.jpg",
-  "color": "Beige & Natural",
+  "color": "Brown & Wood",
   "set": "LV04235",
   "photo": "b42333f08b",
   "room_img": "img/r/x33816.jpg",
@@ -5103,7 +5382,8 @@
    "img/p/LV04236_b96bad0a.jpg",
    "img/r/x33816.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6f4e37"
  },
  {
   "sku": "LV03011",
@@ -5112,9 +5392,9 @@
   "catLabel": "Benches & Ottomans",
   "room": "Living",
   "price": 329,
-  "finish": "Beige Boucle",
+  "finish": "Pattern Boucle",
   "dims": "39\"Dia x 18\"H",
-  "desc": "The Sahara Ottoman in beige boucle, from the Sahara collection. It has textured boucle upholstery. Ships boxed to your door.",
+  "desc": "The Sahara Ottoman in pattern boucle, from the Sahara collection. It has textured boucle upholstery. Ships boxed to your door.",
   "features": [
    "Textured boucle upholstery"
   ],
@@ -5135,7 +5415,8 @@
    "img/p/LV03011_e538c1e1.jpg",
    "img/r/x33238.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#b9b2a8"
  },
  {
   "sku": "LV04290",
@@ -5144,16 +5425,16 @@
   "catLabel": "Sofas",
   "room": "Living",
   "price": 1139,
-  "finish": "Beige & Maroon Tweed",
+  "finish": "Maroon Tweed",
   "dims": "109\"W x 41\"D x 34\"H",
-  "desc": "The Mardi Sofa with 3 Pillows in beige & maroon tweed, from the Mardi collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Mardi Sofa with 3 Pillows in maroon tweed, from the Mardi collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 108,
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/LV04290_6d4ffaa0.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "set": "LV04280",
   "photo": "78d80713d5",
   "room_img": "img/r/x33421.jpg",
@@ -5166,25 +5447,26 @@
    "img/p/LV04290_7f35c9eb.jpg",
    "img/r/x33421.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6e2433"
  },
  {
   "sku": "LV03930",
-  "name": "Mardi Coffee Table",
+  "name": "Fritzy Coffee Table",
   "category": "Coffee Table",
   "catLabel": "Coffee Tables",
   "room": "Living",
   "price": 449,
-  "finish": "Beige Finish",
+  "finish": "Engineered Stone",
   "dims": "48\"W x 30\"D x 12\"H",
-  "desc": "The Mardi Coffee Table in beige finish, from the Mardi collection. Ships boxed to your door.",
+  "desc": "The Fritzy Coffee Table in engineered stone, from the Fritzy collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 109,
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV03930_0ea8c63c.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "set": "LV04280",
   "photo": "78d80713d5",
   "room_img": "img/r/x33421.jpg",
@@ -5197,7 +5479,8 @@
    "img/p/LV03930_3c8e2a3d.jpg",
    "img/r/x33421.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "LV55150",
@@ -5206,9 +5489,9 @@
   "catLabel": "Sectionals",
   "room": "Living",
   "price": 439,
-  "finish": "Beige Or Ivory Linen",
+  "finish": "Beige Linen",
   "dims": "38\"W x 45\"D x 23\"H",
-  "desc": "The Naveen Modular Armless Chair in beige or ivory linen, from the Naveen collection. It has modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
+  "desc": "The Naveen Modular Armless Chair in beige linen, from the Naveen collection. It has modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
   "features": [
    "Modular pieces you can rearrange as your space changes"
   ],
@@ -5224,7 +5507,8 @@
   "gallery": [
    "img/r/x32664.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV55151",
@@ -5233,9 +5517,9 @@
   "catLabel": "Sectionals",
   "room": "Living",
   "price": 599,
-  "finish": "Beige Or Ivory Linen",
+  "finish": "Beige Linen",
   "dims": "45\"W x 45\"D x 23\"H",
-  "desc": "The Naveen Modular Wedge with Pillow in beige or ivory linen, from the Naveen collection. It has modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
+  "desc": "The Naveen Modular Wedge with Pillow in beige linen, from the Naveen collection. It has modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
   "features": [
    "Modular pieces you can rearrange as your space changes"
   ],
@@ -5251,7 +5535,8 @@
   "gallery": [
    "img/r/x32664.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV55152",
@@ -5260,9 +5545,9 @@
   "catLabel": "Benches & Ottomans",
   "room": "Living",
   "price": 359,
-  "finish": "Beige Or Ivory Linen",
+  "finish": "Beige Linen",
   "dims": "37\"W x 37\"D x 22\"H",
-  "desc": "The Naveen Ottoman in beige or ivory linen, from the Naveen collection. Ships boxed to your door.",
+  "desc": "The Naveen Ottoman in beige linen, from the Naveen collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 112,
@@ -5276,7 +5561,8 @@
   "gallery": [
    "img/r/x32664.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "OF02586",
@@ -5285,9 +5571,9 @@
   "catLabel": "Desks",
   "room": "Office",
   "price": 2059,
-  "finish": "Bronze Aluminum & Oak Finish",
+  "finish": "Bronze Aluminum",
   "dims": "71\"W x 32\"D x 30\"H",
-  "desc": "The Brancaster Writing Desk with USB Port in bronze aluminum & oak finish, from the Brancaster collection. It has warm wood tones and uSB charging built in. Delivered by freight, with white-glove setup available.",
+  "desc": "The Brancaster Writing Desk with USB Port in bronze aluminum, from the Brancaster collection. It has warm wood tones and uSB charging built in. Delivered by freight, with white-glove setup available.",
   "features": [
    "Warm wood tones",
    "USB charging built in"
@@ -5297,7 +5583,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/OF02586_344b3a38.jpg",
-  "color": "Warm Tones",
+  "color": "Brown & Wood",
   "set": "AC02582",
   "photo": "51c2489cf7",
   "room_img": "img/r/x43088.jpg",
@@ -5310,7 +5596,8 @@
    "img/p/OF02586_96421690.jpg",
    "img/r/x43088.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#b9bbbe"
  },
  {
   "sku": "AC02587",
@@ -5330,7 +5617,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/AC02587_426b2361.jpg",
-  "color": "Warm Tones",
+  "color": "Brown & Wood",
   "set": "AC02582",
   "photo": "51c2489cf7",
   "room_img": "img/r/x43088.jpg",
@@ -5338,7 +5625,8 @@
    "img/p/AC02587_426b2361.jpg",
    "img/r/x43088.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#b48a5a"
  },
  {
   "sku": "LV04320",
@@ -5356,7 +5644,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/LV04320_1891d55b.jpg",
-  "color": "Cream & White",
+  "color": "Beige & Natural",
   "set": "LV03945",
   "photo": "846b70814a",
   "room_img": "img/r/x33338.jpg",
@@ -5369,18 +5657,19 @@
    "img/p/LV04320_fdf19308.jpg",
    "img/r/x33338.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d8ccb6"
  },
  {
   "sku": "LV03946",
-  "name": "Manilla End Table with Marble Top",
+  "name": "Clayten End Table with Marble Top",
   "category": "End/Accent Table",
   "catLabel": "Side Tables",
   "room": "Living",
   "price": 219,
-  "finish": "Matches the Manilla collection",
+  "finish": "White Natural Marble Top & Espresso Finish",
   "dims": "20\"Dia x 20\"H",
-  "desc": "The Manilla End Table with Marble Top, from the Manilla collection. It has a stone-look top. Ships boxed to your door.",
+  "desc": "The Clayten End Table with Marble Top, from the Clayten collection. It has a stone-look top. Ships boxed to your door.",
   "features": [
    "A stone-look top"
   ],
@@ -5389,7 +5678,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV03946_2f105a13.jpg",
-  "color": "Cream & White",
+  "color": "Black",
   "set": "LV03945",
   "photo": "846b70814a",
   "room_img": "img/r/x33338.jpg",
@@ -5401,18 +5690,19 @@
    "img/p/LV03946_a0fb126c.jpg",
    "img/r/x33338.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "LV03947",
-  "name": "Manilla Sofa Table with Marble Top",
+  "name": "Clayten Sofa Table with Marble Top",
   "category": "Console Table",
   "catLabel": "Console Tables",
   "room": "Living",
   "price": 409,
-  "finish": "Matches the Manilla collection",
+  "finish": "White Engineered Marble Top & Espresso",
   "dims": "55\"W x 18\"D x 30\"H",
-  "desc": "The Manilla Sofa Table with Marble Top, from the Manilla collection. It has a stone-look top. Ships boxed to your door.",
+  "desc": "The Clayten Sofa Table with Marble Top, from the Clayten collection. It has a stone-look top. Ships boxed to your door.",
   "features": [
    "A stone-look top"
   ],
@@ -5421,7 +5711,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV03947_017a4799.jpg",
-  "color": "Cream & White",
+  "color": "Warm Tones",
   "set": "LV03945",
   "photo": "846b70814a",
   "room_img": "img/r/x33338.jpg",
@@ -5434,7 +5724,8 @@
    "img/p/LV03947_013c90bd.jpg",
    "img/r/x33338.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "LV04542",
@@ -5443,9 +5734,9 @@
   "catLabel": "Accent Chairs",
   "room": "Living",
   "price": 529,
-  "finish": "Boucle",
+  "finish": "Beige Boucle",
   "dims": "43\"W x 35\"D x 29\"H",
-  "desc": "The Darius Chair in boucle, from the Darius collection. It has textured boucle upholstery. Delivered by freight, with white-glove setup available.",
+  "desc": "The Darius Chair in beige boucle, from the Darius collection. It has textured beige boucle upholstery. Delivered by freight, with white-glove setup available.",
   "features": [
    "Textured boucle upholstery"
   ],
@@ -5454,7 +5745,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/LV04542_061970d2.jpg",
-  "color": "Brown & Wood",
+  "color": "Beige & Natural",
   "set": "LV03185",
   "photo": "f5f66046dc",
   "room_img": "img/r/x33832.jpg",
@@ -5467,7 +5758,8 @@
    "img/p/LV04542_16b651ef.jpg",
    "img/r/x33832.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV03151",
@@ -5500,7 +5792,8 @@
    "img/p/LV03151_f1141557.jpg",
    "img/r/x32476.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6f4e37"
  },
  {
   "sku": "LV03152",
@@ -5533,7 +5826,8 @@
    "img/p/LV03152_e485ec93.jpg",
    "img/r/x32476.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6f4e37"
  },
  {
   "sku": "LV03990",
@@ -5542,9 +5836,9 @@
   "catLabel": "Sectionals",
   "room": "Living",
   "price": null,
-  "finish": "Top Grain Leather",
+  "finish": "Cream Top Grain Leather",
   "dims": "51\"W x 45\"D x 35\"H",
-  "desc": "The Brighton Modular Left Facing Arm Chair in top grain leather, from the Brighton collection. It has leather upholstery and modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
+  "desc": "The Brighton Modular Left Facing Arm Chair in cream top grain leather, from the Brighton collection. It has leather upholstery and modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
   "features": [
    "Leather upholstery",
    "Modular pieces you can rearrange as your space changes"
@@ -5554,14 +5848,27 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x32686.jpg",
-  "color": "Brown & Wood",
+  "color": "Cream & White",
   "set": "LV03370",
   "photo": "d30586c700",
   "room_img": "img/r/x32686.jpg",
   "gallery": [
    "img/r/x32686.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#efe6d2",
+  "opts": [
+   {
+    "sku": "LV03990",
+    "finish": "Cream Top Grain Leather",
+    "swatch": "#efe6d2"
+   },
+   {
+    "sku": "LV03370",
+    "finish": "Brown Top Grain Leather",
+    "swatch": "#6f4e37"
+   }
+  ]
  },
  {
   "sku": "LV03991",
@@ -5570,9 +5877,9 @@
   "catLabel": "Sectionals",
   "room": "Living",
   "price": null,
-  "finish": "Top Grain Leather",
+  "finish": "Cream Top Grain Leather",
   "dims": "46\"W x 45\"D x 35\"H",
-  "desc": "The Brighton Modular Armless Chair in top grain leather, from the Brighton collection. It has leather upholstery and modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
+  "desc": "The Brighton Modular Armless Chair in cream top grain leather, from the Brighton collection. It has leather upholstery and modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
   "features": [
    "Leather upholstery",
    "Modular pieces you can rearrange as your space changes"
@@ -5582,14 +5889,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x32686.jpg",
-  "color": "Brown & Wood",
+  "color": "Cream & White",
   "set": "LV03370",
   "photo": "d30586c700",
   "room_img": "img/r/x32686.jpg",
   "gallery": [
    "img/r/x32686.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#efe6d2"
  },
  {
   "sku": "LV03992",
@@ -5598,9 +5906,9 @@
   "catLabel": "Sectionals",
   "room": "Living",
   "price": null,
-  "finish": "Top Grain Leather",
+  "finish": "Cream Top Grain Leather",
   "dims": "45\"W x 45\"D x 35\"H",
-  "desc": "The Brighton Modular Wedge in top grain leather, from the Brighton collection. It has leather upholstery and modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
+  "desc": "The Brighton Modular Wedge in cream top grain leather, from the Brighton collection. It has leather upholstery and modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
   "features": [
    "Leather upholstery",
    "Modular pieces you can rearrange as your space changes"
@@ -5610,14 +5918,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x32686.jpg",
-  "color": "Brown & Wood",
+  "color": "Cream & White",
   "set": "LV03370",
   "photo": "d30586c700",
   "room_img": "img/r/x32686.jpg",
   "gallery": [
    "img/r/x32686.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#efe6d2"
  },
  {
   "sku": "LV03993",
@@ -5626,9 +5935,9 @@
   "catLabel": "Sectionals",
   "room": "Living",
   "price": null,
-  "finish": "Top Grain Leather",
+  "finish": "Cream Top Grain Leather",
   "dims": "51\"W x 45\"D x 35\"H",
-  "desc": "The Brighton Modular Right Facing Arm Chair in top grain leather, from the Brighton collection. It has leather upholstery and modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
+  "desc": "The Brighton Modular Right Facing Arm Chair in cream top grain leather, from the Brighton collection. It has leather upholstery and modular pieces you can rearrange as your space changes. Delivered by freight, with white-glove setup available.",
   "features": [
    "Leather upholstery",
    "Modular pieces you can rearrange as your space changes"
@@ -5638,14 +5947,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x32686.jpg",
-  "color": "Brown & Wood",
+  "color": "Cream & White",
   "set": "LV03370",
   "photo": "d30586c700",
   "room_img": "img/r/x32686.jpg",
   "gallery": [
    "img/r/x32686.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#efe6d2"
  },
  {
   "sku": "LV03994",
@@ -5654,9 +5964,9 @@
   "catLabel": "Benches & Ottomans",
   "room": "Living",
   "price": null,
-  "finish": "Top Grain Leather",
+  "finish": "Cream Top Grain Leather",
   "dims": "52\"W x 40\"D x 22\"H",
-  "desc": "The Brighton Ottoman in top grain leather, from the Brighton collection. It has leather upholstery. Ships boxed to your door.",
+  "desc": "The Brighton Ottoman in cream top grain leather, from the Brighton collection. It has leather upholstery. Ships boxed to your door.",
   "features": [
    "Leather upholstery"
   ],
@@ -5665,14 +5975,15 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x32686.jpg",
-  "color": "Brown & Wood",
+  "color": "Cream & White",
   "set": "LV03370",
   "photo": "d30586c700",
   "room_img": "img/r/x32686.jpg",
   "gallery": [
    "img/r/x32686.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#efe6d2"
  },
  {
   "sku": "BD00662",
@@ -5681,16 +5992,16 @@
   "catLabel": "Mirrors",
   "room": "Bedroom",
   "price": 229,
-  "finish": "Rustic Gray & Weathered White Finish",
+  "finish": "Rustic Gray & Weathered White",
   "dims": "42\"L x 38\"H",
-  "desc": "The Katia Mirror in rustic gray & weathered white finish, from the Katia collection. Ships boxed to your door.",
+  "desc": "The Katia Mirror in rustic gray & weathered white, from the Katia collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 126,
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/BD00662_546e4e57.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "set": "BD00660Q",
   "photo": "9b151850fa",
   "room_img": "img/r/x39178.jpg",
@@ -5702,7 +6013,8 @@
    "img/p/BD00662_14660b3f.jpg",
    "img/r/x39178.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "BD00663",
@@ -5711,16 +6023,16 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 859,
-  "finish": "Rustic Gray & Weathered White Finish",
+  "finish": "Rustic Gray & Weathered White",
   "dims": "66\"L x 19\"W x 40\"H",
-  "desc": "The Katia Dresser in rustic gray & weathered white finish, from the Katia collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Katia Dresser in rustic gray & weathered white, from the Katia collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 127,
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/BD00663_9de76820.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "set": "BD00660Q",
   "photo": "9b151850fa",
   "room_img": "img/r/x39178.jpg",
@@ -5732,7 +6044,8 @@
    "img/p/BD00663_795e42d2.jpg",
    "img/r/x39178.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "BD00664",
@@ -5741,16 +6054,16 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 759,
-  "finish": "Rustic Gray & Weathered White Finish",
+  "finish": "Rustic Gray & Weathered White",
   "dims": "40\"L x 19\"W x 56\"H",
-  "desc": "The Katia Chest in rustic gray & weathered white finish, from the Katia collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Katia Chest in rustic gray & weathered white, from the Katia collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 128,
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/BD00664_88b0085c.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "set": "BD00660Q",
   "photo": "9b151850fa",
   "room_img": "img/r/x39178.jpg",
@@ -5763,7 +6076,8 @@
    "img/p/BD00664_f9639705.jpg",
    "img/r/x39178.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#9b2f35"
  },
  {
   "sku": "BD04154",
@@ -5783,14 +6097,15 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x39148.jpg",
-  "color": "Gray",
+  "color": "Brown & Wood",
   "set": "BD04152Q",
   "photo": "78734fa5f6",
   "room_img": "img/r/x39148.jpg",
   "gallery": [
    "img/r/x39148.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#b48a5a"
  },
  {
   "sku": "BD04155",
@@ -5810,14 +6125,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x39148.jpg",
-  "color": "Gray",
+  "color": "Brown & Wood",
   "set": "BD04152Q",
   "photo": "78734fa5f6",
   "room_img": "img/r/x39148.jpg",
   "gallery": [
    "img/r/x39148.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#b48a5a"
  },
  {
   "sku": "BD04156",
@@ -5837,14 +6153,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x39148.jpg",
-  "color": "Gray",
+  "color": "Brown & Wood",
   "set": "BD04152Q",
   "photo": "78734fa5f6",
   "room_img": "img/r/x39148.jpg",
   "gallery": [
    "img/r/x39148.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#b48a5a"
  },
  {
   "sku": "BD04157",
@@ -5864,14 +6181,15 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x39148.jpg",
-  "color": "Gray",
+  "color": "Brown & Wood",
   "set": "BD04152Q",
   "photo": "78734fa5f6",
   "room_img": "img/r/x39148.jpg",
   "gallery": [
    "img/r/x39148.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#b48a5a"
  },
  {
   "sku": "BD02318",
@@ -5880,9 +6198,9 @@
   "catLabel": "Nightstands",
   "room": "Bedroom",
   "price": 359,
-  "finish": "Pearl White Finish",
+  "finish": "Pearl White",
   "dims": "30\"W x 18\"D x 29\"H",
-  "desc": "The Tarian Nightstand in pearl white finish, from the Tarian collection. Ships boxed to your door.",
+  "desc": "The Tarian Nightstand in pearl white, from the Tarian collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 133,
@@ -5902,7 +6220,8 @@
    "img/p/BD02318_c1826f1d.jpg",
    "img/r/x39105.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "BD02319",
@@ -5911,9 +6230,9 @@
   "catLabel": "Mirrors",
   "room": "Bedroom",
   "price": 239,
-  "finish": "Pearl White Finish",
+  "finish": "Pearl White",
   "dims": "47\"W x 36\"H",
-  "desc": "The Tarian Mirror in pearl white finish, from the Tarian collection. Ships boxed to your door.",
+  "desc": "The Tarian Mirror in pearl white, from the Tarian collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 134,
@@ -5931,7 +6250,8 @@
    "img/p/BD02319_54a7e932.jpg",
    "img/r/x39105.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "BD02321",
@@ -5940,9 +6260,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 589,
-  "finish": "Pearl White Finish",
+  "finish": "Pearl White",
   "dims": "38\"W x 18\"D x 51\"H",
-  "desc": "The Tarian Chest in pearl white finish, from the Tarian collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Tarian Chest in pearl white, from the Tarian collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 135,
@@ -5962,7 +6282,8 @@
    "img/p/BD02321_e937ed91.jpg",
    "img/r/x39105.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "BD03793",
@@ -5980,7 +6301,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/BD03793_084e29a3.jpg",
-  "color": "Beige & Natural",
+  "color": "Cream & White",
   "set": "BD03792Q",
   "photo": "25a18b7d31",
   "room_img": "img/r/x39104.jpg",
@@ -5993,7 +6314,8 @@
    "img/p/BD03793_1c2eb8af.jpg",
    "img/r/x39104.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "BD03794",
@@ -6002,16 +6324,16 @@
   "catLabel": "Mirrors",
   "room": "Bedroom",
   "price": 249,
-  "finish": "Pearl White Finish",
+  "finish": "Pearl White",
   "dims": "45\"W x 36\"H",
-  "desc": "The Laveda Mirror in pearl white finish, from the Laveda collection. Ships boxed to your door.",
+  "desc": "The Laveda Mirror in pearl white, from the Laveda collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 137,
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/BD03794_aeae8d55.jpg",
-  "color": "Beige & Natural",
+  "color": "Cream & White",
   "set": "BD03792Q",
   "photo": "25a18b7d31",
   "room_img": "img/r/x39104.jpg",
@@ -6024,7 +6346,8 @@
    "img/p/BD03794_6c03d253.jpg",
    "img/r/x39104.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "BD03796",
@@ -6033,16 +6356,16 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 549,
-  "finish": "Pearl White Finish",
+  "finish": "Pearl White",
   "dims": "38\"W x 18\"D x 50\"H",
-  "desc": "The Laveda Chest in pearl white finish, from the Laveda collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Laveda Chest in pearl white, from the Laveda collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 138,
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/BD03796_5cf955b5.jpg",
-  "color": "Beige & Natural",
+  "color": "Cream & White",
   "set": "BD03792Q",
   "photo": "25a18b7d31",
   "room_img": "img/r/x39104.jpg",
@@ -6055,7 +6378,8 @@
    "img/p/BD03796_90b97d86.jpg",
    "img/r/x39104.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "27233",
@@ -6083,7 +6407,36 @@
    "img/p/27233_ab2ddf2b.jpg",
    "img/r/x39082.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d8c6a3",
+  "opts": [
+   {
+    "sku": "27233",
+    "finish": "Champagne Finish",
+    "swatch": "#d8c6a3"
+   },
+   {
+    "sku": "27283",
+    "finish": "Metallic Gray Finish",
+    "swatch": "#a3a1a6"
+   }
+  ],
+  "vx": {
+   "27283": {
+    "finish": "Metallic Gray Finish",
+    "swatch": "#a3a1a6",
+    "color": "Gray",
+    "price": 269,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/2/7/27283_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27283_1_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27283_2.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27283_3.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27283_6.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27283_life.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "27234",
@@ -6092,9 +6445,9 @@
   "catLabel": "Mirrors",
   "room": "Bedroom",
   "price": 249,
-  "finish": "Champagne Finish",
+  "finish": "Champagne",
   "dims": "51\"W x 38\"H",
-  "desc": "The Kaitlyn Mirror with LED in champagne finish, from the Kaitlyn collection. It has built-in LED lighting. Ships boxed to your door.",
+  "desc": "The Kaitlyn Mirror with LED in champagne, from the Kaitlyn collection. It has built-in LED lighting. Ships boxed to your door.",
   "features": [
    "Built-in LED lighting"
   ],
@@ -6116,7 +6469,36 @@
    "img/p/27234_d2a34a21.jpg",
    "img/r/x39082.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d8c6a3",
+  "opts": [
+   {
+    "sku": "27234",
+    "finish": "Champagne",
+    "swatch": "#d8c6a3"
+   },
+   {
+    "sku": "27284",
+    "finish": "Metallic Gray",
+    "swatch": "#a3a1a6"
+   }
+  ],
+  "vx": {
+   "27284": {
+    "finish": "Metallic Gray",
+    "swatch": "#a3a1a6",
+    "color": "Gray",
+    "price": 239,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/2/7/27284_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27284_1_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27284_2.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27284_3.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27284_dim.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27284_feat.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "27236",
@@ -6125,9 +6507,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 569,
-  "finish": "Champagne Finish",
+  "finish": "Champagne",
   "dims": "38\"W x 18\"D x 54\"H",
-  "desc": "The Kaitlyn Chest in champagne finish, from the Kaitlyn collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Kaitlyn Chest in champagne, from the Kaitlyn collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 141,
@@ -6147,25 +6529,54 @@
    "img/p/27236_ba41f2b9.jpg",
    "img/r/x39082.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d8c6a3",
+  "opts": [
+   {
+    "sku": "27236",
+    "finish": "Champagne",
+    "swatch": "#d8c6a3"
+   },
+   {
+    "sku": "27286",
+    "finish": "Metallic Gray",
+    "swatch": "#a3a1a6"
+   }
+  ],
+  "vx": {
+   "27286": {
+    "finish": "Metallic Gray",
+    "swatch": "#a3a1a6",
+    "color": "Gray",
+    "price": 539,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/2/7/27286.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27286_1_2.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27286_2_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27286_3_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27286_4.jpg",
+     "https://acmecorp.com/media/catalog/product/2/7/27286_dim.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "21683",
-  "name": "Sandro Nightstand",
+  "name": "Merrilee Nightstand",
   "category": "Nightstand",
   "catLabel": "Nightstands",
   "room": "Bedroom",
   "price": 199,
-  "finish": "Walnut & Oak Finish",
+  "finish": "Oak Finish",
   "dims": "26\"W x 16\"D x 25\"H",
-  "desc": "The Sandro Nightstand in walnut & oak finish, from the Sandro collection. Ships boxed to your door.",
+  "desc": "The Merrilee Nightstand in oak finish, from the Merrilee collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 142,
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/21683_6576cffe.jpg",
-  "color": "Cream & White",
+  "color": "Brown & Wood",
   "set": "BD02470Q",
   "photo": "663bff8f81",
   "room_img": "img/r/x39026.jpg",
@@ -6176,25 +6587,26 @@
    "img/p/21683_b0243268.jpg",
    "img/r/x39026.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#b48a5a"
  },
  {
   "sku": "21684",
-  "name": "Sandro Mirror",
+  "name": "Merrilee Mirror",
   "category": "Mirror",
   "catLabel": "Mirrors",
   "room": "Bedroom",
   "price": 119,
-  "finish": "Walnut & Oak Finish",
+  "finish": "Oak",
   "dims": "41\"W x 40\"H",
-  "desc": "The Sandro Mirror in walnut & oak finish, from the Sandro collection. Ships boxed to your door.",
+  "desc": "The Merrilee Mirror in oak, from the Merrilee collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 143,
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/21684_95227919.jpg",
-  "color": "Cream & White",
+  "color": "Brown & Wood",
   "set": "BD02470Q",
   "photo": "663bff8f81",
   "room_img": "img/r/x39026.jpg",
@@ -6206,25 +6618,26 @@
    "img/p/21684_b2b820c6.jpg",
    "img/r/x39026.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#b48a5a"
  },
  {
   "sku": "21685",
-  "name": "Sandro Dresser",
+  "name": "Merrilee Dresser",
   "category": "Dresser/Chest",
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 469,
-  "finish": "Walnut & Oak Finish",
+  "finish": "Oak",
   "dims": "59\"W x 16\"D x 36\"H",
-  "desc": "The Sandro Dresser in walnut & oak finish, from the Sandro collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Merrilee Dresser in oak, from the Merrilee collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 144,
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/21685_32f2e9ec.jpg",
-  "color": "Cream & White",
+  "color": "Brown & Wood",
   "set": "BD02470Q",
   "photo": "663bff8f81",
   "room_img": "img/r/x39026.jpg",
@@ -6237,25 +6650,26 @@
    "img/p/21685_9ccc52df.jpg",
    "img/r/x39026.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#b48a5a"
  },
  {
   "sku": "21686",
-  "name": "Sandro Chest",
+  "name": "Merrilee Chest",
   "category": "Dresser/Chest",
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 419,
-  "finish": "Walnut & Oak Finish",
+  "finish": "Oak",
   "dims": "34\"W x 16\"D x 48\"H",
-  "desc": "The Sandro Chest in walnut & oak finish, from the Sandro collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Merrilee Chest in oak, from the Merrilee collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 145,
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/21686_09b16c43.jpg",
-  "color": "Cream & White",
+  "color": "Brown & Wood",
   "set": "BD02470Q",
   "photo": "663bff8f81",
   "room_img": "img/r/x39026.jpg",
@@ -6268,7 +6682,8 @@
    "img/p/21686_eac3fdea.jpg",
    "img/r/x39026.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#b48a5a"
  },
  {
   "sku": "24854",
@@ -6277,9 +6692,9 @@
   "catLabel": "Mirrors",
   "room": "Bedroom",
   "price": 119,
-  "finish": "Rustic Walnut Finish",
+  "finish": "Rustic Walnut",
   "dims": "43\"W x 38\"H",
-  "desc": "The Elettra Mirror in rustic walnut finish, from the Elettra collection. It has warm wood tones. Ships boxed to your door.",
+  "desc": "The Elettra Mirror in rustic walnut, from the Elettra collection. It has warm wood tones. Ships boxed to your door.",
   "features": [
    "Warm wood tones"
   ],
@@ -6299,7 +6714,8 @@
    "img/p/24854_c4450a6f.jpg",
    "img/r/x38978.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "24855",
@@ -6308,9 +6724,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 509,
-  "finish": "Rustic Walnut Finish",
+  "finish": "Rustic Walnut",
   "dims": "59\"W x 16\"D x 36\"H",
-  "desc": "The Elettra Dresser in rustic walnut finish, from the Elettra collection. It has warm wood tones. Delivered by freight, with white-glove setup available.",
+  "desc": "The Elettra Dresser in rustic walnut, from the Elettra collection. It has warm wood tones. Delivered by freight, with white-glove setup available.",
   "features": [
    "Warm wood tones"
   ],
@@ -6329,7 +6745,8 @@
    "img/p/24855_21a48e1c.jpg",
    "img/r/x38978.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "24856",
@@ -6338,9 +6755,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 379,
-  "finish": "Rustic Walnut Finish",
+  "finish": "Rustic Walnut",
   "dims": "34\"W x 16\"D x 49\"H",
-  "desc": "The Elettra Chest in rustic walnut finish, from the Elettra collection. It has warm wood tones. Delivered by freight, with white-glove setup available.",
+  "desc": "The Elettra Chest in rustic walnut, from the Elettra collection. It has warm wood tones. Delivered by freight, with white-glove setup available.",
   "features": [
    "Warm wood tones"
   ],
@@ -6359,7 +6776,8 @@
    "img/p/24856_7d433657.jpg",
    "img/r/x38978.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "BD04604",
@@ -6377,14 +6795,15 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x38967.jpg",
-  "color": "Beige & Natural",
+  "color": "Black",
   "set": "BD04602Q",
   "photo": "67c6133360",
   "room_img": "img/r/x38967.jpg",
   "gallery": [
    "img/r/x38967.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "BD04605",
@@ -6402,14 +6821,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x38967.jpg",
-  "color": "Beige & Natural",
+  "color": "Black",
   "set": "BD04602Q",
   "photo": "67c6133360",
   "room_img": "img/r/x38967.jpg",
   "gallery": [
    "img/r/x38967.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "BD04606",
@@ -6427,14 +6847,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x38967.jpg",
-  "color": "Beige & Natural",
+  "color": "Black",
   "set": "BD04602Q",
   "photo": "67c6133360",
   "room_img": "img/r/x38967.jpg",
   "gallery": [
    "img/r/x38967.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "BD04607",
@@ -6452,14 +6873,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x38967.jpg",
-  "color": "Beige & Natural",
+  "color": "Black",
   "set": "BD04602Q",
   "photo": "67c6133360",
   "room_img": "img/r/x38967.jpg",
   "gallery": [
    "img/r/x38967.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "LV01710",
@@ -6487,7 +6909,20 @@
    "img/p/LV01710_3371eac1.jpg",
    "img/r/x33638.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#a3a1a6",
+  "opts": [
+   {
+    "sku": "LV01710",
+    "finish": "Gray Velvet",
+    "swatch": "#a3a1a6"
+   },
+   {
+    "sku": "LV01774",
+    "finish": "Blue Velvet",
+    "swatch": "#3d5a87"
+   }
+  ]
  },
  {
   "sku": "LV01711",
@@ -6520,7 +6955,20 @@
    "img/p/LV01711_feee2f67.jpg",
    "img/r/x33638.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6",
+  "opts": [
+   {
+    "sku": "LV01711",
+    "finish": "Gray Velvet",
+    "swatch": "#a3a1a6"
+   },
+   {
+    "sku": "LV01775",
+    "finish": "Blue Velvet",
+    "swatch": "#3d5a87"
+   }
+  ]
  },
  {
   "sku": "LV03866",
@@ -6529,7 +6977,7 @@
   "catLabel": "Side Tables",
   "room": "Living",
   "price": 219,
-  "finish": "Matches the Wenona collection",
+  "finish": "Black Mirrored Finish",
   "dims": "24\"W x 16\"D x 24\"H",
   "desc": "The Wenona End Table, from the Wenona collection. Ships boxed to your door.",
   "features": [],
@@ -6538,7 +6986,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV03866_490f1369.jpg",
-  "color": "Gray",
+  "color": "Warm Tones",
   "set": "LV03865",
   "photo": "fdc404563e",
   "room_img": "img/r/x33638.jpg",
@@ -6551,7 +6999,8 @@
    "img/p/LV03866_01309875.jpg",
    "img/r/x33638.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cfd3d6"
  },
  {
   "sku": "BD00243",
@@ -6560,16 +7009,16 @@
   "catLabel": "Nightstands",
   "room": "Bedroom",
   "price": 249,
-  "finish": "Champagne Finish",
+  "finish": "Mirrored & Champagne Finish",
   "dims": "26\"W x 17\"D x 26\"H",
-  "desc": "The Sliverfluff Nightstand in champagne finish, from the Sliverfluff collection. Ships boxed to your door.",
+  "desc": "The Sliverfluff Nightstand in mirrored & champagne finish, from the Sliverfluff collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 156,
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/BD00243_0af3c8d3.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "set": "BD00242Q",
   "photo": "a935fce91b",
   "room_img": "img/r/x39067.jpg",
@@ -6582,7 +7031,8 @@
    "img/p/BD00243_d2681e99.jpg",
    "img/r/x39067.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cfd3d6"
  },
  {
   "sku": "BD00245",
@@ -6591,9 +7041,9 @@
   "catLabel": "Mirrors",
   "room": "Bedroom",
   "price": 219,
-  "finish": "Champagne Finish",
+  "finish": "Mirrored & Champagne Finish",
   "dims": "41\"W x 36\"H",
-  "desc": "The Sliverfluff Mirror with Light in champagne finish, from the Sliverfluff collection. It has built-in LED lighting. Ships boxed to your door.",
+  "desc": "The Sliverfluff Mirror with Light in mirrored & champagne finish, from the Sliverfluff collection. It has built-in LED lighting. Ships boxed to your door.",
   "features": [
    "Built-in LED lighting"
   ],
@@ -6602,7 +7052,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/BD00245_199a9c25.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "set": "BD00242Q",
   "photo": "a935fce91b",
   "room_img": "img/r/x39067.jpg",
@@ -6614,7 +7064,8 @@
    "img/p/BD00245_533aeb64.jpg",
    "img/r/x39067.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cfd3d6"
  },
  {
   "sku": "BD00246",
@@ -6623,16 +7074,16 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 639,
-  "finish": "Champagne Finish",
+  "finish": "Mirrored & Champagne",
   "dims": "63\"W x 17\"D x 39\"H",
-  "desc": "The Sliverfluff Dresser in champagne finish, from the Sliverfluff collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Sliverfluff Dresser in mirrored & champagne, from the Sliverfluff collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 158,
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/BD00246_de89c250.jpg",
-  "color": "Beige & Natural",
+  "color": "Warm Tones",
   "set": "BD00242Q",
   "photo": "a935fce91b",
   "room_img": "img/r/x39067.jpg",
@@ -6645,7 +7096,8 @@
    "img/p/BD00246_2cdbf628.jpg",
    "img/r/x39067.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cfd3d6"
  },
  {
   "sku": "BD00247",
@@ -6671,7 +7123,8 @@
    "img/p/BD00247_45ad32b3.jpg",
    "img/r/x39067.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#d8c6a3"
  },
  {
   "sku": "28453",
@@ -6680,9 +7133,9 @@
   "catLabel": "Nightstands",
   "room": "Bedroom",
   "price": 199,
-  "finish": "LED & White Finish",
+  "finish": "White Finish",
   "dims": "28\"W x 17\"D x 26\"H",
-  "desc": "The Haiden Nightstand in led & white finish, from the Haiden collection. Ships boxed to your door.",
+  "desc": "The Haiden Nightstand in white finish, from the Haiden collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 160,
@@ -6702,7 +7155,36 @@
    "img/p/28453_81fb3cab.jpg",
    "img/r/x39054.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0",
+  "opts": [
+   {
+    "sku": "28453",
+    "finish": "White Finish",
+    "swatch": "#efeae0"
+   },
+   {
+    "sku": "28433",
+    "finish": "Weathered Black Finish",
+    "swatch": "#9b2f35"
+   }
+  ],
+  "vx": {
+   "28433": {
+    "finish": "Weathered Black Finish",
+    "swatch": "#9b2f35",
+    "color": "Warm Tones",
+    "price": 199,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/2/8/28433.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28433_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28433_2.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28433_3.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28433_4.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28433_life.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "28454",
@@ -6711,9 +7193,9 @@
   "catLabel": "Mirrors",
   "room": "Bedroom",
   "price": 139,
-  "finish": "LED & White Finish",
+  "finish": "White",
   "dims": "46\"W x 35\"H",
-  "desc": "The Haiden Mirror in led & white finish, from the Haiden collection. Ships boxed to your door.",
+  "desc": "The Haiden Mirror in white, from the Haiden collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 161,
@@ -6732,7 +7214,35 @@
    "img/p/28454_a2d3da4b.jpg",
    "img/r/x39054.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0",
+  "opts": [
+   {
+    "sku": "28454",
+    "finish": "White",
+    "swatch": "#efeae0"
+   },
+   {
+    "sku": "28434",
+    "finish": "Weathered Black",
+    "swatch": "#9b2f35"
+   }
+  ],
+  "vx": {
+   "28434": {
+    "finish": "Weathered Black",
+    "swatch": "#9b2f35",
+    "color": "Warm Tones",
+    "price": 139,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/2/8/28434.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28434_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28434_life.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28434_dim.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28434_20.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "28455",
@@ -6741,9 +7251,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 469,
-  "finish": "LED & White Finish",
+  "finish": "White",
   "dims": "63\"W x 17\"D x 38\"H",
-  "desc": "The Haiden Dresser in led & white finish, from the Haiden collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Haiden Dresser in white, from the Haiden collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 162,
@@ -6762,7 +7272,36 @@
    "img/p/28455_4d38a98d.jpg",
    "img/r/x39054.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0",
+  "opts": [
+   {
+    "sku": "28455",
+    "finish": "White",
+    "swatch": "#efeae0"
+   },
+   {
+    "sku": "28435",
+    "finish": "Weathered Black",
+    "swatch": "#9b2f35"
+   }
+  ],
+  "vx": {
+   "28435": {
+    "finish": "Weathered Black",
+    "swatch": "#9b2f35",
+    "color": "Warm Tones",
+    "price": 469,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/2/8/28435.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28435_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28435_2.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28435_3.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28435_life.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28435_draw.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "28456",
@@ -6771,9 +7310,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 359,
-  "finish": "LED & White Finish",
+  "finish": "White Finish",
   "dims": "35\"W x 17\"D x 50\"H",
-  "desc": "The Haiden Chest in led & white finish, from the Haiden collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Haiden Chest in white finish, from the Haiden collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 163,
@@ -6789,7 +7328,8 @@
    "img/p/28456_10e1fc20.jpg",
    "img/r/x39054.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#efeae0"
  },
  {
   "sku": "LV00443",
@@ -6818,7 +7358,8 @@
    "img/p/LV00443_403fc408.jpg",
    "img/r/x43428.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "AC02584",
@@ -6852,7 +7393,8 @@
    "img/p/AC02584_0e0975fd.jpg",
    "img/r/x41841.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#b9b2a8"
  },
  {
   "sku": "28043",
@@ -6885,7 +7427,36 @@
    "img/p/28043_5566e7cb.jpg",
    "img/r/x38805.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e",
+  "opts": [
+   {
+    "sku": "28043",
+    "finish": "Natural Finish",
+    "swatch": "#cdb48e"
+   },
+   {
+    "sku": "28053",
+    "finish": "Oak Finish",
+    "swatch": "#b48a5a"
+   }
+  ],
+  "vx": {
+   "28053": {
+    "finish": "Oak Finish",
+    "swatch": "#b48a5a",
+    "color": "Brown & Wood",
+    "price": 129,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/2/8/28053.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28053_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28053_2.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28053_3.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28053_4.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28053_life.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "28044",
@@ -6894,9 +7465,9 @@
   "catLabel": "Mirrors",
   "room": "Bedroom",
   "price": 79,
-  "finish": "Natural Finish",
+  "finish": "Natural",
   "dims": "40\"W x 40\"H",
-  "desc": "The Miquell Mirror in natural finish, from the Miquell collection. It has warm wood tones. Ships boxed to your door.",
+  "desc": "The Miquell Mirror in natural, from the Miquell collection. It has warm wood tones. Ships boxed to your door.",
   "features": [
    "Warm wood tones"
   ],
@@ -6918,7 +7489,35 @@
    "img/p/28044_8aadff97.jpg",
    "img/r/x38805.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e",
+  "opts": [
+   {
+    "sku": "28044",
+    "finish": "Natural",
+    "swatch": "#cdb48e"
+   },
+   {
+    "sku": "28054",
+    "finish": "Oak",
+    "swatch": "#b48a5a"
+   }
+  ],
+  "vx": {
+   "28054": {
+    "finish": "Oak",
+    "swatch": "#b48a5a",
+    "color": "Brown & Wood",
+    "price": 79,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/2/8/28054.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28054_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28054_life.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28054_dim.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28054_20.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "28045",
@@ -6927,9 +7526,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 339,
-  "finish": "Natural Finish",
+  "finish": "Natural",
   "dims": "59\"W x 16\"D x 33\"H",
-  "desc": "The Miquell Dresser in natural finish, from the Miquell collection. It has warm wood tones. Delivered by freight, with white-glove setup available.",
+  "desc": "The Miquell Dresser in natural, from the Miquell collection. It has warm wood tones. Delivered by freight, with white-glove setup available.",
   "features": [
    "Warm wood tones"
   ],
@@ -6951,7 +7550,35 @@
    "img/p/28045_e39c0105.jpg",
    "img/r/x38805.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e",
+  "opts": [
+   {
+    "sku": "28045",
+    "finish": "Natural",
+    "swatch": "#cdb48e"
+   },
+   {
+    "sku": "28055",
+    "finish": "Oak",
+    "swatch": "#b48a5a"
+   }
+  ],
+  "vx": {
+   "28055": {
+    "finish": "Oak",
+    "swatch": "#b48a5a",
+    "color": "Brown & Wood",
+    "price": 339,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/2/8/28055.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28055_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28055_2.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28055_3.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28055_life.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "28046",
@@ -6960,9 +7587,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 269,
-  "finish": "Natural Finish",
+  "finish": "Natural",
   "dims": "32\"W x 16\"D x 44\"H",
-  "desc": "The Miquell Chest in natural finish, from the Miquell collection. It has warm wood tones. Delivered by freight, with white-glove setup available.",
+  "desc": "The Miquell Chest in natural, from the Miquell collection. It has warm wood tones. Delivered by freight, with white-glove setup available.",
   "features": [
    "Warm wood tones"
   ],
@@ -6984,7 +7611,34 @@
    "img/p/28046_09fefbad.jpg",
    "img/r/x38805.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e",
+  "opts": [
+   {
+    "sku": "28046",
+    "finish": "Natural",
+    "swatch": "#cdb48e"
+   },
+   {
+    "sku": "28056",
+    "finish": "Oak",
+    "swatch": "#b48a5a"
+   }
+  ],
+  "vx": {
+   "28056": {
+    "finish": "Oak",
+    "swatch": "#b48a5a",
+    "color": "Brown & Wood",
+    "price": 269,
+    "gallery": [
+     "https://acmecorp.com/media/catalog/product/2/8/28056.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28056_1.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28056_2.jpg",
+     "https://acmecorp.com/media/catalog/product/2/8/28056_dim.jpg"
+    ]
+   }
+  }
  },
  {
   "sku": "LV00830",
@@ -7016,7 +7670,20 @@
    "img/p/LV00830_40060417.jpg",
    "img/r/x44165.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#efeae0",
+  "opts": [
+   {
+    "sku": "LV00830",
+    "finish": "White Marble Grain Finish",
+    "swatch": "#efeae0"
+   },
+   {
+    "sku": "83145",
+    "finish": "Walnut Finish",
+    "swatch": "#6b4a32"
+   }
+  ]
  },
  {
   "sku": "37955",
@@ -7034,7 +7701,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/37955_34dd5ad2.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "set": "37959",
   "photo": "884953ce51",
   "room_img": "img/r/x37830.jpg",
@@ -7045,7 +7712,8 @@
    "img/p/37955_8efc44d7.jpg",
    "img/r/x37830.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#55585d"
  },
  {
   "sku": "37957",
@@ -7063,7 +7731,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/37957_df686769.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "set": "37959",
   "photo": "884953ce51",
   "room_img": "img/r/x37830.jpg",
@@ -7075,7 +7743,8 @@
    "img/p/37957_17be0df8.jpg",
    "img/r/x37830.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#55585d"
  },
  {
   "sku": "37958",
@@ -7093,14 +7762,15 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x37830.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "set": "37959",
   "photo": "884953ce51",
   "room_img": "img/r/x37830.jpg",
   "gallery": [
    "img/r/x37830.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#55585d"
  },
  {
   "sku": "LV04411",
@@ -7134,7 +7804,8 @@
    "img/p/LV04411_08160ce7.jpg",
    "img/r/x32590.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV04412",
@@ -7162,7 +7833,8 @@
   "gallery": [
    "img/r/x32590.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV04413",
@@ -7196,7 +7868,8 @@
    "img/p/LV04413_f357a1a3.jpg",
    "img/r/x32590.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV04414",
@@ -7230,7 +7903,8 @@
    "img/p/LV04414_f100fb1e.jpg",
    "img/r/x32590.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV04415",
@@ -7265,7 +7939,8 @@
    "img/p/LV04415_0d0f5cc5.jpg",
    "img/r/x32590.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "LV04416",
@@ -7299,25 +7974,26 @@
    "img/p/LV04416_76954f35.jpg",
    "img/r/x32590.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "26153",
-  "name": "Gaiva Nightstand",
+  "name": "Varian Nightstand",
   "category": "Nightstand",
   "catLabel": "Nightstands",
   "room": "Bedroom",
   "price": 349,
-  "finish": "Matches the Gaiva collection",
+  "finish": "Mirrored & Silver",
   "dims": "32\"W x 19\"D x 31\"H",
-  "desc": "The Gaiva Nightstand, from the Gaiva collection. Ships boxed to your door.",
+  "desc": "The Varian Nightstand, from the Varian collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 180,
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/26153_603b7ea5.jpg",
-  "color": "Gray",
+  "color": "Warm Tones",
   "set": "BD00967Q",
   "photo": "473a4f22c3",
   "room_img": "img/r/x38806.jpg",
@@ -7330,7 +8006,8 @@
    "img/p/26153_96998382.jpg",
    "img/r/x38806.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cfd3d6"
  },
  {
   "sku": "70425",
@@ -7350,7 +8027,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/70425_486479d2.jpg",
-  "color": "Brown & Wood",
+  "color": "Beige & Natural",
   "set": "96556",
   "photo": "16eeec9217",
   "room_img": "img/r/x34555.jpg",
@@ -7358,7 +8035,8 @@
    "img/p/70425_486479d2.jpg",
    "img/r/x34555.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#cdb48e"
  },
  {
   "sku": "96555",
@@ -7367,9 +8045,9 @@
   "catLabel": "Counter & Bar Stools",
   "room": "Dining",
   "price": 669,
-  "finish": "Vintage Brown Top Grain Leather, Natural Marble Top & Aluminum",
+  "finish": "Vintage Brown Top Grain Leather & Aluminum",
   "dims": "",
-  "desc": "The Brancaster Swivel Adjustable Stool in vintage brown top grain leather, natural marble top & aluminum, from the Brancaster collection. It has leather upholstery, a stone-look top and a full swivel base. Delivered by freight, with white-glove setup available.",
+  "desc": "The Brancaster Swivel Adjustable Stool in vintage brown top grain leather & aluminum, from the Brancaster collection. It has leather upholstery, a stone-look top and a full swivel base. Delivered by freight, with white-glove setup available.",
   "features": [
    "Leather upholstery",
    "A stone-look top",
@@ -7393,7 +8071,8 @@
    "img/p/96555_8ac0cd38.jpg",
    "img/r/x34555.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6f4e37"
  },
  {
   "sku": "55921",
@@ -7422,7 +8101,8 @@
    "img/p/55921_b126529c.jpg",
    "img/r/x33657.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#2a2526"
  },
  {
   "sku": "LV01775",
@@ -7451,7 +8131,20 @@
    "img/p/LV01775_b8cbc87c.jpg",
    "img/r/x33637.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#3d5a87",
+  "opts": [
+   {
+    "sku": "LV01775",
+    "finish": "Blue Velvet",
+    "swatch": "#3d5a87"
+   },
+   {
+    "sku": "LV01711",
+    "finish": "Gray Velvet",
+    "swatch": "#a3a1a6"
+   }
+  ]
  },
  {
   "sku": "DN02372",
@@ -7471,7 +8164,7 @@
   "pack": 2,
   "ship": "Freight",
   "img": "img/p/DN02372_00fe2c77.jpg",
-  "color": "Brown & Wood",
+  "color": "Beige & Natural",
   "set": "DN02371",
   "photo": "5a8506319d",
   "room_img": "img/r/x35838.jpg",
@@ -7484,7 +8177,8 @@
    "img/p/DN02372_8738327e.jpg",
    "img/r/x35838.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e"
  },
  {
   "sku": "DN02373",
@@ -7504,7 +8198,7 @@
   "pack": 2,
   "ship": "Freight",
   "img": "img/p/DN02373_dca5c4ef.jpg",
-  "color": "Brown & Wood",
+  "color": "Beige & Natural",
   "set": "DN02371",
   "photo": "5a8506319d",
   "room_img": "img/r/x35838.jpg",
@@ -7517,7 +8211,8 @@
    "img/p/DN02373_584058f1.jpg",
    "img/r/x35838.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e"
  },
  {
   "sku": "DN02374",
@@ -7537,7 +8232,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/DN02374_2f850e7d.jpg",
-  "color": "Brown & Wood",
+  "color": "Beige & Natural",
   "set": "DN02371",
   "photo": "5a8506319d",
   "room_img": "img/r/x35838.jpg",
@@ -7550,7 +8245,8 @@
    "img/p/DN02374_2f84462b.jpg",
    "img/r/x35838.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cdb48e"
  },
  {
   "sku": "DN02310",
@@ -7559,9 +8255,9 @@
   "catLabel": "Dining Chairs",
   "room": "Dining",
   "price": 339,
-  "finish": "White Boucle & Walnut Finish",
+  "finish": "Walnut Finish",
   "dims": "30\"H",
-  "desc": "The Casson Side Chair in white boucle & walnut finish, from the Casson collection. It has textured boucle upholstery. Sold as a set of 2. Ships boxed to your door.",
+  "desc": "The Casson Side Chair in walnut finish, from the Casson collection. It has textured boucle upholstery. Sold as a set of 2. Ships boxed to your door.",
   "features": [
    "Textured boucle upholstery"
   ],
@@ -7570,7 +8266,7 @@
   "pack": 2,
   "ship": "Parcel",
   "img": "img/p/DN02310_d96b2aaf.jpg",
-  "color": "Cream & White",
+  "color": "Brown & Wood",
   "set": "DN02309",
   "photo": "6c9d906b7e",
   "room_img": "img/r/x35779.jpg",
@@ -7583,7 +8279,20 @@
    "img/p/DN02310_4d5ffd60.jpg",
    "img/r/x35779.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32",
+  "opts": [
+   {
+    "sku": "DN02310",
+    "finish": "Walnut Finish",
+    "swatch": "#6b4a32"
+   },
+   {
+    "sku": "DN02311",
+    "finish": "White Boucle & Walnut Finish",
+    "swatch": "#6b4a32"
+   }
+  ]
  },
  {
   "sku": "DN02311",
@@ -7603,7 +8312,7 @@
   "pack": 2,
   "ship": "Parcel",
   "img": "img/p/DN02311_d3726ab1.jpg",
-  "color": "Cream & White",
+  "color": "Brown & Wood",
   "set": "DN02309",
   "photo": "6c9d906b7e",
   "room_img": "img/r/x35779.jpg",
@@ -7616,7 +8325,20 @@
    "img/p/DN02311_b729ec3f.jpg",
    "img/r/x35779.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32",
+  "opts": [
+   {
+    "sku": "DN02311",
+    "finish": "White Boucle & Walnut Finish",
+    "swatch": "#6b4a32"
+   },
+   {
+    "sku": "DN02310",
+    "finish": "Walnut Finish",
+    "swatch": "#6b4a32"
+   }
+  ]
  },
  {
   "sku": "LV00141",
@@ -7636,7 +8358,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/LV00141_1448ae3a.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "set": "LV00142",
   "photo": "3e1d64a9df",
   "room_img": "img/r/x43427.jpg",
@@ -7648,7 +8370,8 @@
    "img/p/LV00141_0aa871e8.jpg",
    "img/r/x43427.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#2a2526"
  },
  {
   "sku": "LV04680",
@@ -7669,7 +8392,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/LV04680_0b3f3cbb.jpg",
-  "color": "Beige & Natural",
+  "color": "Gray",
   "set": "LV04682",
   "photo": "501f44dc79",
   "room_img": "img/r/x32094.jpg",
@@ -7682,7 +8405,8 @@
    "img/p/LV04680_4d1bb6da.jpg",
    "img/r/x32094.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "LV04681",
@@ -7703,7 +8427,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/LV04681_ce005b4c.jpg",
-  "color": "Beige & Natural",
+  "color": "Gray",
   "set": "LV04682",
   "photo": "501f44dc79",
   "room_img": "img/r/x32094.jpg",
@@ -7716,7 +8440,8 @@
    "img/p/LV04681_d0a887a8.jpg",
    "img/r/x32094.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "LV00229",
@@ -7749,7 +8474,8 @@
    "img/p/LV00229_e8e034f1.jpg",
    "img/r/x33714.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "55425",
@@ -7767,7 +8493,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/55425_4a48fcd4.jpg",
-  "color": "Black",
+  "color": "Warm Tones",
   "set": "55427",
   "photo": "cc889fe9fb",
   "room_img": "img/r/x32030.jpg",
@@ -7775,7 +8501,8 @@
    "img/p/55425_4a48fcd4.jpg",
    "img/r/x32030.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "55426",
@@ -7793,7 +8520,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/55426_8eab3eea.jpg",
-  "color": "Black",
+  "color": "Warm Tones",
   "set": "55427",
   "photo": "cc889fe9fb",
   "room_img": "img/r/x32030.jpg",
@@ -7802,7 +8529,8 @@
    "img/p/55426_323e1608.jpg",
    "img/r/x32030.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "81110",
@@ -7811,23 +8539,24 @@
   "catLabel": "Side Tables",
   "room": "Living",
   "price": 309,
-  "finish": "Toffee Finish",
+  "finish": "Gold Finish",
   "dims": "36\"Dia x 16\"H",
-  "desc": "The Jaylen 2-Pc Nesting Table Set in toffee finish, from the Jaylen collection. Ships boxed to your door.",
+  "desc": "The Jaylen 2-Pc Nesting Table Set in gold finish, from the Jaylen collection. Ships boxed to your door.",
   "features": [],
   "featured": false,
   "rank": 196,
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x32030.jpg",
-  "color": "Black",
+  "color": "Beige & Natural",
   "set": "55427",
   "photo": "cc889fe9fb",
   "room_img": "img/r/x32030.jpg",
   "gallery": [
    "img/r/x32030.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#c8a24a"
  },
  {
   "sku": "55445",
@@ -7860,7 +8589,8 @@
    "img/p/55445_6015971e.jpg",
    "img/r/x31954.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6f4e37"
  },
  {
   "sku": "55446",
@@ -7893,7 +8623,8 @@
    "img/p/55446_20c056f6.jpg",
    "img/r/x31954.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6f4e37"
  },
  {
   "sku": "LV04490",
@@ -7902,9 +8633,9 @@
   "catLabel": "Sofas",
   "room": "Living",
   "price": 1349,
-  "finish": "Red Or Gray Teddy Velvet",
+  "finish": "Gray Teddy Velvet",
   "dims": "100\"W x 43\"D x 28\"H",
-  "desc": "The Poma Sofa in red or gray teddy velvet, from the Poma collection. It has plush velvet upholstery. Delivered by freight, with white-glove setup available.",
+  "desc": "The Poma Sofa in gray teddy velvet, from the Poma collection. It has plush velvet upholstery. Delivered by freight, with white-glove setup available.",
   "features": [
    "Plush velvet upholstery"
   ],
@@ -7913,14 +8644,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x33405.jpg",
-  "color": "Warm Tones",
+  "color": "Gray",
   "set": "LV04802",
   "photo": "f29e3d6bba",
   "room_img": "img/r/x33405.jpg",
   "gallery": [
    "img/r/x33405.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "LV04492",
@@ -7929,9 +8661,9 @@
   "catLabel": "Accent Chairs",
   "room": "Living",
   "price": 749,
-  "finish": "Red Or Gray Teddy Velvet",
+  "finish": "Gray Teddy Velvet",
   "dims": "54\"W x 43\"D x 28\"H",
-  "desc": "The Poma Chair in red or gray teddy velvet, from the Poma collection. It has plush velvet upholstery. Delivered by freight, with white-glove setup available.",
+  "desc": "The Poma Chair in gray teddy velvet, from the Poma collection. It has plush velvet upholstery. Delivered by freight, with white-glove setup available.",
   "features": [
    "Plush velvet upholstery"
   ],
@@ -7940,14 +8672,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x33405.jpg",
-  "color": "Warm Tones",
+  "color": "Gray",
   "set": "LV04802",
   "photo": "f29e3d6bba",
   "room_img": "img/r/x33405.jpg",
   "gallery": [
    "img/r/x33405.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "60170",
@@ -7956,9 +8689,9 @@
   "catLabel": "Dining Tables & Sets",
   "room": "Dining",
   "price": 539,
-  "finish": "Reclaimed Gray Finish",
+  "finish": "Reclaimed Gray",
   "dims": "39\"D x 84\"W",
-  "desc": "The Gabrian Dining Table in reclaimed gray finish, from the Gabrian collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Gabrian Dining Table in reclaimed gray, from the Gabrian collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 201,
@@ -7978,7 +8711,8 @@
    "img/p/60170_091a7868.jpg",
    "img/r/x36777.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "60172",
@@ -7987,9 +8721,9 @@
   "catLabel": "Dining Chairs",
   "room": "Dining",
   "price": 509,
-  "finish": "Fabric & Reclaimed Gray Finish",
+  "finish": "Two-tone Beige Fabric & Reclaimed Gray Finish",
   "dims": "38\"H",
-  "desc": "The Gabrian Side Chair in fabric & reclaimed gray finish, from the Gabrian collection. Sold as a set of 2. Delivered by freight, with white-glove setup available.",
+  "desc": "The Gabrian Side Chair in two-tone beige fabric & reclaimed gray finish, from the Gabrian collection. Sold as a set of 2. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 202,
@@ -8009,7 +8743,8 @@
    "img/p/60172_eb7d0a59.jpg",
    "img/r/x36777.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "60173",
@@ -8018,9 +8753,9 @@
   "catLabel": "Dining Chairs",
   "room": "Dining",
   "price": 629,
-  "finish": "Fabric & Reclaimed Gray Finish",
+  "finish": "Two-tone Beige Fabric & Reclaimed Gray Finish",
   "dims": "38\"H",
-  "desc": "The Gabrian Dining Chair in fabric & reclaimed gray finish, from the Gabrian collection. Sold as a set of 2. Delivered by freight, with white-glove setup available.",
+  "desc": "The Gabrian Dining Chair in two-tone beige fabric & reclaimed gray finish, from the Gabrian collection. Sold as a set of 2. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 203,
@@ -8040,7 +8775,8 @@
    "img/p/60173_ec6e9d74.jpg",
    "img/r/x36777.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "60174",
@@ -8066,7 +8802,8 @@
    "img/p/60174_e44992a4.jpg",
    "img/r/x36777.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#a3a1a6"
  },
  {
   "sku": "DN02876",
@@ -8075,9 +8812,9 @@
   "catLabel": "Dining Chairs",
   "room": "Dining",
   "price": 709,
-  "finish": "Natural Marble Top & Oak Finish",
+  "finish": "Beige Boucle & Oak Finish",
   "dims": "36\"H",
-  "desc": "The Qwin Side Chair in natural marble top & oak finish, from the Qwin collection. It has a stone-look top. Sold as a set of 2. Delivered by freight, with white-glove setup available.",
+  "desc": "The Qwin Side Chair in beige boucle & oak finish, from the Qwin collection. It has a stone-look top. Sold as a set of 2. Delivered by freight, with white-glove setup available.",
   "features": [
    "A stone-look top"
   ],
@@ -8086,7 +8823,7 @@
   "pack": 2,
   "ship": "Freight",
   "img": "img/p/DN02876_988f28c8.jpg",
-  "color": "Beige & Natural",
+  "color": "Brown & Wood",
   "set": "DN02875",
   "photo": "1743908e8b",
   "room_img": "img/r/x36166.jpg",
@@ -8099,7 +8836,8 @@
    "img/p/DN02876_a9a28419.jpg",
    "img/r/x36166.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "DN02128",
@@ -8108,9 +8846,9 @@
   "catLabel": "Dining Chairs",
   "room": "Dining",
   "price": 599,
-  "finish": "Beige Boucle, Engineered Stone Top & Walnut Finish",
+  "finish": "Beige Boucle",
   "dims": "36\"H",
-  "desc": "The Hettie Side Chair in beige boucle, engineered stone top & walnut finish, from the Hettie collection. It has textured boucle upholstery. Sold as a set of 2. Delivered by freight, with white-glove setup available.",
+  "desc": "The Hettie Side Chair in beige boucle, from the Hettie collection. It has textured boucle upholstery. Sold as a set of 2. Delivered by freight, with white-glove setup available.",
   "features": [
    "Textured boucle upholstery"
   ],
@@ -8132,7 +8870,8 @@
    "img/p/DN02128_4a185a2f.jpg",
    "img/r/x36144.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#d9c7a7"
  },
  {
   "sku": "DN01450",
@@ -8141,9 +8880,9 @@
   "catLabel": "Dining Chairs",
   "room": "Dining",
   "price": 519,
-  "finish": "Beige Linen, Natural Marble Top & Rustic Oak Finish",
+  "finish": "Beige Linen & Rustic Oak Finish",
   "dims": "39\"H",
-  "desc": "The Karsen Side Chair in beige linen, natural marble top & rustic oak finish, from the Karsen collection. It has a stone-look top. Sold as a set of 2. Delivered by freight, with white-glove setup available.",
+  "desc": "The Karsen Side Chair in beige linen & rustic oak finish, from the Karsen collection. It has a stone-look top. Sold as a set of 2. Delivered by freight, with white-glove setup available.",
   "features": [
    "A stone-look top"
   ],
@@ -8152,7 +8891,7 @@
   "pack": 2,
   "ship": "Freight",
   "img": "img/p/DN01450_cd1afe0e.jpg",
-  "color": "Beige & Natural",
+  "color": "Brown & Wood",
   "set": "DN01449",
   "photo": "9349234b36",
   "room_img": "img/r/x36103.jpg",
@@ -8165,25 +8904,26 @@
    "img/p/DN01450_6cb9a9ca.jpg",
    "img/r/x36103.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#8c6a46"
  },
  {
   "sku": "LV00318",
-  "name": "Drisana TV Stand",
+  "name": "Noralie TV Stand with Fireplace",
   "category": "TV Stand/Media",
   "catLabel": "Media & TV Stands",
   "room": "Living",
   "price": 999,
-  "finish": "Black Mirrored Finish",
+  "finish": "Mirrored & Faux Diamonds",
   "dims": "59\"W x 16\"D x 32\"H",
-  "desc": "The Drisana TV Stand in black mirrored finish, from the Drisana collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Noralie TV Stand with Fireplace in mirrored & faux diamonds, from the Noralie collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 208,
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/LV00318_1e414108.jpg",
-  "color": "Black",
+  "color": "Warm Tones",
   "set": "LV00312",
   "photo": "e1d6adf4e1",
   "room_img": "img/r/x43300.jpg",
@@ -8192,7 +8932,8 @@
    "img/p/LV00318_7e1b3203.jpg",
    "img/r/x43300.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#cfd3d6"
  },
  {
   "sku": "30598",
@@ -8218,7 +8959,8 @@
    "img/p/30598_3ce5da57.jpg",
    "img/r/x38444.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "30600",
@@ -8244,7 +8986,8 @@
    "img/p/30600_d6a0bc28.jpg",
    "img/r/x38444.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "30601",
@@ -8253,9 +8996,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 649,
-  "finish": "White Finish",
+  "finish": "White",
   "dims": "58\"W x 18\"D x 35\"H",
-  "desc": "The Lacey Dresser in white finish, from the Lacey collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Lacey Dresser in white, from the Lacey collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 211,
@@ -8272,7 +9015,8 @@
    "img/p/30601_32f3e520.jpg",
    "img/r/x38444.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "30602",
@@ -8281,9 +9025,9 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 579,
-  "finish": "White Finish",
+  "finish": "White",
   "dims": "36\"W x 18\"D x 50\"H",
-  "desc": "The Lacey Chest in white finish, from the Lacey collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Lacey Chest in white, from the Lacey collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 212,
@@ -8298,7 +9042,8 @@
    "img/p/30602_f1670aa2.jpg",
    "img/r/x38444.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "54850",
@@ -8329,7 +9074,8 @@
    "img/p/54850_bc458030.jpg",
    "img/r/x33797.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "54851",
@@ -8338,9 +9084,9 @@
   "catLabel": "Sofas",
   "room": "Living",
   "price": 1079,
-  "finish": "Fabric & Walnut Finish",
+  "finish": "Fabric & Walnut",
   "dims": "72\"W x 38\"D x 34\"H",
-  "desc": "The Niamey Loveseat with 2 Pillows in fabric & walnut finish, from the Niamey collection. It has warm wood tones. Delivered by freight, with white-glove setup available.",
+  "desc": "The Niamey Loveseat with 2 Pillows in fabric & walnut, from the Niamey collection. It has warm wood tones. Delivered by freight, with white-glove setup available.",
   "features": [
    "Warm wood tones"
   ],
@@ -8358,7 +9104,8 @@
    "img/p/54851_5af62c3d.jpg",
    "img/r/x33797.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "54852",
@@ -8385,7 +9132,8 @@
   "gallery": [
    "img/r/x33797.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "84850",
@@ -8414,7 +9162,8 @@
    "img/p/84850_bdd5f38f.jpg",
    "img/r/x33797.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "84852",
@@ -8442,7 +9191,8 @@
    "img/p/84852_35bf621e.jpg",
    "img/r/x33797.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#6b4a32"
  },
  {
   "sku": "53072",
@@ -8451,9 +9201,9 @@
   "catLabel": "Accent Chairs",
   "room": "Living",
   "price": 2319,
-  "finish": "Espresso Top Grain Leather Match & Walnut Finish",
+  "finish": "Espresso Top Grain Leather Match & Walnut",
   "dims": "50\"W x 44\"D x 53\"H",
-  "desc": "The Forsythia Chair with Pillow in espresso top grain leather match & walnut finish, from the Forsythia collection. It has leather upholstery. Delivered by freight, with white-glove setup available.",
+  "desc": "The Forsythia Chair with Pillow in espresso top grain leather match & walnut, from the Forsythia collection. It has leather upholstery. Delivered by freight, with white-glove setup available.",
   "features": [
    "Leather upholstery"
   ],
@@ -8475,7 +9225,8 @@
    "img/p/53072_8f901d2c.jpg",
    "img/r/x34113.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "55070",
@@ -8495,7 +9246,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/55070_f86d4c75.jpg",
-  "color": "Brown & Wood",
+  "color": "Warm Tones",
   "set": "84882",
   "photo": "bf8e9e924c",
   "room_img": "img/r/x32776.jpg",
@@ -8506,7 +9257,8 @@
    "img/p/55070_54ef4cf7.jpg",
    "img/r/x32776.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#6e2433"
  },
  {
   "sku": "37152",
@@ -8515,9 +9267,9 @@
   "catLabel": "Beds",
   "room": "Bedroom",
   "price": 169,
-  "finish": "White Finish",
+  "finish": "White",
   "dims": "79\"W x 42\"D x 31\"H",
-  "desc": "The Freya Twin Bed in white finish, from the Freya collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Freya Twin Bed in white, from the Freya collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 220,
@@ -8537,7 +9289,8 @@
    "img/p/37152_67669597.jpg",
    "img/r/x38120.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "38155",
@@ -8563,7 +9316,8 @@
    "img/p/38155_675e158f.jpg",
    "img/r/x37973.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#efeae0"
  },
  {
   "sku": "92424",
@@ -8572,16 +9326,16 @@
   "catLabel": "Desks",
   "room": "Office",
   "price": 539,
-  "finish": "Gold Aluminum Finish",
+  "finish": "Gold Aluminum",
   "dims": "50\"W x 22\"D x 31\"H",
-  "desc": "The Danton Writing Desk in gold aluminum finish, from the Danton collection. Delivered by freight, with white-glove setup available.",
+  "desc": "The Danton Writing Desk in gold aluminum, from the Danton collection. Delivered by freight, with white-glove setup available.",
   "features": [],
   "featured": false,
   "rank": 222,
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/92424_9e7a4a9d.jpg",
-  "color": "Warm Tones",
+  "color": "Beige & Natural",
   "set": "92568",
   "photo": "d348b6f70c",
   "room_img": "img/r/x42914.jpg",
@@ -8594,7 +9348,8 @@
    "img/p/92424_75ba0c58.jpg",
    "img/r/x42914.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#c8a24a"
  },
  {
   "sku": "LV03700",
@@ -8627,7 +9382,8 @@
    "img/p/LV03700_631056a5.jpg",
    "img/r/x33180.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#2a2526"
  },
  {
   "sku": "LV03701",
@@ -8660,7 +9416,8 @@
    "img/p/LV03701_c3fd8d46.jpg",
    "img/r/x33180.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#2a2526"
  },
  {
   "sku": "LV03702",
@@ -8693,7 +9450,8 @@
    "img/p/LV03702_0d7d1b89.jpg",
    "img/r/x33180.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#2a2526"
  },
  {
   "sku": "LV03225",
@@ -8702,7 +9460,7 @@
   "catLabel": "Coffee Tables",
   "room": "Living",
   "price": null,
-  "finish": "Matches the Eilene collection",
+  "finish": "White Finish & Clear Acrylic",
   "dims": "47\"W x 25\"D x 18\"H",
   "desc": "The Eilene Coffee Table, from the Eilene collection. Ships boxed to your door.",
   "features": [],
@@ -8711,14 +9469,15 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x33180.jpg",
-  "color": "Black",
+  "color": "Cream & White",
   "set": "LV03227",
   "photo": "6fc227078c",
   "room_img": "img/r/x33180.jpg",
   "gallery": [
    "img/r/x33180.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#dfe6ea"
  },
  {
   "sku": "LV03226",
@@ -8727,7 +9486,7 @@
   "catLabel": "Side Tables",
   "room": "Living",
   "price": null,
-  "finish": "Matches the Eilene collection",
+  "finish": "White Finish & Clear Acrylic",
   "dims": "24\"Dia x 24\"H",
   "desc": "The Eilene End Table, from the Eilene collection. Ships boxed to your door.",
   "features": [],
@@ -8736,14 +9495,15 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/r/x33180.jpg",
-  "color": "Black",
+  "color": "Cream & White",
   "set": "LV03227",
   "photo": "6fc227078c",
   "room_img": "img/r/x33180.jpg",
   "gallery": [
    "img/r/x33180.jpg"
   ],
-  "imgsrc": "catalog"
+  "imgsrc": "catalog",
+  "swatch": "#dfe6ea"
  },
  {
   "sku": "DN01444",
@@ -8763,14 +9523,15 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/r/x34798.jpg",
-  "color": "Cream & White",
+  "color": "Black",
   "set": "DN01445",
   "photo": "726300c57f",
   "room_img": "img/r/x34798.jpg",
   "gallery": [
    "img/r/x34798.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#2a2526"
  },
  {
   "sku": "LV03205",
@@ -8779,9 +9540,9 @@
   "catLabel": "Coffee Tables",
   "room": "Living",
   "price": 309,
-  "finish": "White Natural Marble Top & Espresso Finish",
+  "finish": "Natural Marble Top & Espresso",
   "dims": "48\"W x 26\"D x 18\"H",
-  "desc": "The Edwyn Coffee Table in white natural marble top & espresso finish, from the Edwyn collection. It has a stone-look top. Ships boxed to your door.",
+  "desc": "The Edwyn Coffee Table in natural marble top & espresso, from the Edwyn collection. It has a stone-look top. Ships boxed to your door.",
   "features": [
    "A stone-look top"
   ],
@@ -8790,7 +9551,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV03205_84569417.jpg",
-  "color": "Cream & White",
+  "color": "Black",
   "set": "LV03207",
   "photo": "16cd36f435",
   "room_img": "img/r/x44151.jpg",
@@ -8803,7 +9564,8 @@
    "img/p/LV03205_390d9c2d.jpg",
    "img/r/x44151.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "LV03206",
@@ -8812,9 +9574,9 @@
   "catLabel": "Side Tables",
   "room": "Living",
   "price": 209,
-  "finish": "White Natural Marble Top & Espresso Finish",
+  "finish": "Natural Marble Top & Espresso",
   "dims": "22\"W x 22\"D x 20\"H",
-  "desc": "The Edwyn End Table in white natural marble top & espresso finish, from the Edwyn collection. It has a stone-look top. Ships boxed to your door.",
+  "desc": "The Edwyn End Table in natural marble top & espresso, from the Edwyn collection. It has a stone-look top. Ships boxed to your door.",
   "features": [
    "A stone-look top"
   ],
@@ -8823,7 +9585,7 @@
   "pack": 1,
   "ship": "Parcel",
   "img": "img/p/LV03206_503219e1.jpg",
-  "color": "Cream & White",
+  "color": "Black",
   "set": "LV03207",
   "photo": "16cd36f435",
   "room_img": "img/r/x44151.jpg",
@@ -8836,7 +9598,8 @@
    "img/p/LV03206_ddedb8b1.jpg",
    "img/r/x44151.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#3b2a22"
  },
  {
   "sku": "AC00959",
@@ -8845,7 +9608,7 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 269,
-  "finish": "Matches the Myles collection",
+  "finish": "Black, Silver & Gold Finish",
   "dims": "32\"W x 16\"D x 37\"H",
   "desc": "The Myles Chest, from the Myles collection. Delivered by freight, with white-glove setup available.",
   "features": [],
@@ -8854,7 +9617,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/AC00959_cf0e6e06.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "set": "AC01167",
   "photo": "c6ecafd72a",
   "room_img": "img/r/x38656.jpg",
@@ -8865,7 +9628,8 @@
    "img/p/AC00959_2d3c78ec.jpg",
    "img/r/x38656.jpg"
   ],
-  "imgsrc": "acme"
+  "imgsrc": "acme",
+  "swatch": "#c8a24a"
  },
  {
   "sku": "24266",
@@ -8874,7 +9638,7 @@
   "catLabel": "Dressers & Chests",
   "room": "Bedroom",
   "price": 279,
-  "finish": "Matches the Juvanth collection",
+  "finish": "Rustic Oak & Black Finish",
   "dims": "33\"W x 18\"D x 48\"H",
   "desc": "The Juvanth Chest, from the Juvanth collection. Delivered by freight, with white-glove setup available.",
   "features": [],
@@ -8883,7 +9647,7 @@
   "pack": 1,
   "ship": "Freight",
   "img": "img/p/24266_46ce796c.jpg",
-  "color": "Brown & Wood",
+  "color": "Black",
   "set": "24267",
   "photo": "f71ed72410",
   "room_img": "img/r/x38608.jpg",
@@ -8891,6 +9655,7 @@
    "img/p/24266_46ce796c.jpg",
    "img/r/x38608.jpg"
   ],
-  "imgsrc": "retail"
+  "imgsrc": "retail",
+  "swatch": "#2a2526"
  }
 ]

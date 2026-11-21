@@ -28,6 +28,23 @@ for p in P:
             bad += 1; failed.append(f"{p['sku']} {u} {e}")
     if new:
         p['gallery'] = new; p['img'] = new[0]
+    for vsku, v in (p.get('vx') or {}).items():
+        keep = []
+        for u in v.get('gallery', []):
+            if not u.startswith('http'):
+                keep.append(u); continue
+            name = f"img/p/{vsku}_{hashlib.md5(u.encode()).hexdigest()[:8]}.jpg"
+            try:
+                if not os.path.exists(name):
+                    im = Image.open(io.BytesIO(get(u))).convert('RGB')
+                    if max(im.size) > 1200: im.thumbnail((1200, 1200))
+                    if min(im.size) < 250: raise ValueError('too small')
+                    im.save(name, quality=82, optimize=True, progressive=True)
+                    time.sleep(0.15)
+                keep.append(name); ok += 1
+            except Exception as e:
+                bad += 1; failed.append(f"{vsku} {u} {e}")
+        if keep: v['gallery'] = keep
 json.dump(P, open('products.json', 'w'), indent=1)
 open('tools/fetch_failed.txt', 'w').write('\n'.join(failed) + '\n')
 print('saved', ok, 'failed', bad)

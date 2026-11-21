@@ -724,6 +724,7 @@ header{background:#fff;border-bottom:1px solid var(--hair)}
 .pm-btn{grid-column:2;justify-self:start;margin-top:6px;background:none;border:0;padding:0;font:600 13.5px/1.4 inherit;color:var(--iris-d);text-decoration:underline;text-underline-offset:3px;cursor:pointer}
 .pm-btn:focus-visible{outline:2px solid var(--iris);outline-offset:3px;border-radius:2px}
 .pm-form{display:grid;gap:8px;margin-top:12px}
+.pm-form[hidden]{display:none}
 .pm-form input{width:100%;min-width:0;height:44px;border:1px solid #d9d6d0;border-radius:8px;padding:0 12px;font:inherit;font-size:14px;background:#fff}
 .pm-form input:focus{outline:2px solid var(--iris);outline-offset:0;border-color:transparent}
 .pm-form .btn{justify-self:start}
@@ -805,6 +806,17 @@ footer .bt{border-top-color:rgba(255,255,255,.14)}
   .gal .main{order:1}
   .cmp li div span{white-space:normal}
 }
+
+/* real color options */
+.fin2 .opts{display:flex;flex-wrap:wrap;gap:10px}
+.fin2 .chipx{height:auto;min-height:46px;padding:6px 16px 6px 7px;box-shadow:inset 0 0 0 1.5px #d9d6d0;color:var(--ink);text-decoration:none;max-width:100%}
+.fin2 .chipx span{line-height:1.25}
+.fin2 a.chipx:hover{box-shadow:inset 0 0 0 1.5px var(--iris)}
+.fin2 .chipx.on{box-shadow:inset 0 0 0 2px var(--ink)}
+.fin2 .chipx .sw{flex:none;border:1px solid rgba(0,0,0,.12)}
+.fin .dotc{width:16px;height:16px;border-radius:50%;flex:none;border:1px solid rgba(0,0,0,.15)}
+.fin .ncol{font-style:normal;color:var(--iris-d);font-weight:600;margin-left:auto;white-space:nowrap}
+.fin{gap:8px}
 @media (prefers-reduced-motion:reduce){*,*:before,*:after{animation-duration:.01ms!important;animation-iteration-count:1!important;transition-duration:.01ms!important}.copy h1 span i{transform:none}.copy p{opacity:1}}
 </style>
 </head>
@@ -909,11 +921,13 @@ const SCENES = [
 let P = [], bag = [], recent = [], subscribed = false, sbarGone = false;
 try { bag = JSON.parse(localStorage.getItem('royal-bag') || '[]'); recent = JSON.parse(localStorage.getItem('royal-recent') || '[]'); sbarGone = localStorage.getItem('royal-sbar') === '1'; } catch (e) {}
 const persist = () => { try { localStorage.setItem('royal-bag', JSON.stringify(bag)); localStorage.setItem('royal-recent', JSON.stringify(recent)); } catch (e) {} };
-const bySku = s => P.find(p => p.sku === s);
+const VX = {};
+const buildVX = () => P.forEach(p => Object.entries(p.vx || {}).forEach(([sku, v]) => { VX[sku] = { ...p, ...v, sku, img: v.gallery[0], vx: undefined, comps: null, checked: null, beat: false, variantOf: p.sku }; }));
+const bySku = s => P.find(p => p.sku === s) || VX[s];
 const ord = (a, b) => ((a.price == null) - (b.price == null)) || a.rank - b.rank;
 const catsIn = r => [...new Map(P.filter(p => !r || p.room === r).map(p => [p.category, p.catLabel]))].sort((a, b) => a[1].localeCompare(b[1]));
 
-fetch('products.json').then(r => r.json()).then(d => { P = d; P.forEach(p => p.cs = slug(p.catLabel)); chrome(); drawBag(); route(); });
+fetch('products.json').then(r => r.json()).then(d => { P = d; P.forEach(p => p.cs = slug(p.catLabel)); buildVX(); chrome(); drawBag(); route(); });
 addEventListener('hashchange', route);
 addEventListener('scroll', () => { $('#hdr').classList.toggle('s', scrollY > 8); maybeSbar(); }, { passive: true });
 
@@ -996,7 +1010,7 @@ function card(p) {
   fitFrame(ph, p.img);
   if (p.price == null) ph.append(h('span', { class: 'tag', text: 'Coming soon' })); else if (p.featured) ph.append(h('span', { class: 'tag new', text: 'New' }));
   if (p.price != null) { const q = h('button', { class: 'qadd', type: 'button', 'aria-label': `Add ${p.name} to bag` }, ic('i-plus'), h('span', { text: 'Add to bag' })); q.onclick = () => { addBag(p.sku, 1); q.classList.add('done'); q.lastChild.textContent = 'Added'; q.firstChild.replaceWith(ic('i-check')); setTimeout(() => { q.classList.remove('done'); q.lastChild.textContent = 'Add to bag'; q.firstChild.replaceWith(ic('i-plus')); }, 1600); }; ph.append(q); }
-  el.append(ph, h('div', { class: 'meta' }, h('span', { class: 'ven', text: p.catLabel }), h('a', { class: 'n', href: '#p-' + p.sku, text: p.name }), h('span', { class: 'pr' + (p.price == null ? ' na' : ''), text: p.price == null ? 'Price coming soon' : money(p.price) }), h('span', { class: 'fin' }, h('img', { class: 'thumb', src: p.img, alt: '' }), h('span', { text: p.finish }))));
+  el.append(ph, h('div', { class: 'meta' }, h('span', { class: 'ven', text: p.catLabel }), h('a', { class: 'n', href: '#p-' + p.sku, text: p.name }), h('span', { class: 'pr' + (p.price == null ? ' na' : ''), text: p.price == null ? 'Price coming soon' : money(p.price) }), h('span', { class: 'fin' }, h('i', { class: 'dotc', style: 'background:' + (p.swatch || SW[p.color]) }), h('span', { text: p.finish }), p.opts && p.opts.length > 1 ? h('em', { class: 'ncol', text: `${p.opts.length} colors` }) : null)));
   return el;
 }
 
@@ -1090,7 +1104,7 @@ function featured(p) {
   return h('section', { class: 'feat' }, h('div', { class: 'bigm' }, bigm), h('div', { class: 'w', style: 'margin-top:36px' }, h('div', { class: 'fp' }, th, (() => { const mi = h('div', { class: 'mi' }, mimg); fitFrame(mi, pics[0]); return mi; })(),
     h('div', { class: 'card' }, h('span', { class: 'vt', text: p.catLabel }), h('h3', {}, h('a', { href: '#p-' + p.sku, text: p.name })), h('div', { class: 'pr', text: money(p.price) }), h('p', { class: 'ds', text: p.desc }),
       h('div', { class: 'deal' }, h('b', { text: 'Members hear about deals first' }), h('span', { text: 'Join the Royal list for early access to sales on pieces like this.' }), h('div', {}, h('button', { class: 'btn', type: 'button', text: 'Join the list', onclick: joinFocus }))),
-      h('div', { class: 'sw2' }, h('i', { style: 'background:' + SW[p.color] }), h('span', {}, 'Finish: ', h('b', { text: p.finish }))),
+      h('div', { class: 'sw2' }, h('i', { style: 'background:' + (p.swatch || SW[p.color]) }), h('span', {}, 'Finish: ', h('b', { text: p.finish }))),
       h('div', { class: 'buy' }, h('div', { class: 'step' }, h('button', { type: 'button', 'aria-label': 'Decrease quantity', text: '−', onclick: () => { qty = Math.max(1, qty - 1); out.textContent = qty; } }), out, h('button', { type: 'button', 'aria-label': 'Increase quantity', text: '+', onclick: () => { qty = Math.min(20, qty + 1); out.textContent = qty; } })), h('button', { class: 'btn', type: 'button', text: 'Add to bag', onclick: () => addBag(p.sku, qty) })),
       h('div', { class: 'perks' }, h('span', {}, ic('i-truck'), 'Freight delivery'), h('span', {}, ic('i-box'), 'White-glove setup')),
       h('a', { class: 'lnk', style: 'display:inline-block;margin-top:18px', href: '#p-' + p.sku, text: 'View full details' })))));
@@ -1311,7 +1325,11 @@ function product(p) {
     p.price != null && p.beat && p.comps && p.comps.length && !p.similar ? h('div', { class: 'beat' }, ic('i-check'), `${money(Math.floor(lowComp(p) - p.price))} less than ${p.comps.slice().sort((a, b) => a.price - b.price)[0].store}`) : null,
     p.price != null && bfOn() ? h('div', { class: 'bfp' }, h('b', { text: 'Black Friday' }), ` Save $${(BF.tiers.find(([t]) => p.price >= t) || BF.tiers[BF.tiers.length - 1])[1]} on orders $${(BF.tiers.find(([t]) => p.price >= t) || BF.tiers[BF.tiers.length - 1])[0].toLocaleString('en-US')}+. Applied in your bag.`) : null,
     p.price != null ? h('div', { class: 'stock' }, h('i'), freight ? 'Ships by freight from our warehouse' : 'Ships boxed from our warehouse') : null,
-    h('div', { class: 'fin2' }, h('div', { class: 'k' }, h('span', { text: 'Finish: ' }), p.finish), h('span', { class: 'chipx' }, h('i', { class: 'sw', style: 'background:' + SW[p.color] }), p.color)),
+    (() => { const base = p.variantOf ? bySku(p.variantOf) : p; const opts = (base.opts && base.opts.length > 1) ? base.opts : [{ sku: p.sku, finish: p.finish, swatch: p.swatch }];
+      return h('div', { class: 'fin2' }, h('div', { class: 'k' }, h('span', { text: opts.length > 1 ? `Color (${opts.length} options): ` : 'Finish: ' }), p.finish),
+        h('div', { class: 'opts', role: opts.length > 1 ? 'radiogroup' : null, 'aria-label': 'Color' }, opts.map(o => { const on = o.sku === p.sku; return opts.length > 1
+          ? h('a', { class: 'chipx' + (on ? ' on' : ''), href: '#p-' + o.sku, role: 'radio', 'aria-checked': on, title: o.finish }, h('i', { class: 'sw', style: 'background:' + (o.swatch || '#b9b2a8') }), h('span', { text: o.finish }))
+          : h('span', { class: 'chipx on' }, h('i', { class: 'sw', style: 'background:' + (o.swatch || SW[p.color]) }), h('span', { text: o.finish })); }))); })(),
     h('p', { class: 'pdesc', text: p.desc }),
     p.features.length ? h('ul', { class: 'feats' }, p.features.map(f => h('li', { text: f }))) : null,
     h('div', { class: 'buy', id: 'buyRow' }, step, atb),
