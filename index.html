@@ -921,16 +921,16 @@ const SCENES = [
   { id: 'bedroom', label: 'Bedroom', img: 'img/room-bedroom.jpg', alt: 'White bed with LED headboard and matching dresser', h1: ['Lights out,', 'storage in.'], p: 'LED headboards and drawers built into the footboard. Tap the bed or the dresser.', dots: [{ sku: 'BD02317Q', x: 36, y: 66 }, { sku: 'BD02320', x: 92, y: 58 }] },
   { id: 'dining', label: 'Dining', img: 'img/room-dining.jpg', alt: 'Oak dining table with rattan chairs and bench', h1: ['Pull up', 'a chair.'], p: 'Light oak and woven rattan for a table that gets used every day.', dots: [{ sku: 'DN02371', x: 52, y: 36 }] }
 ];
-let P = [], bag = [], recent = [], subscribed = false, sbarGone = false;
+let P = [], bag = [], recent = [], subscribed = false, sbarGone = false, ALL = [];
 try { bag = JSON.parse(localStorage.getItem('royal-bag') || '[]'); recent = JSON.parse(localStorage.getItem('royal-recent') || '[]'); sbarGone = localStorage.getItem('royal-sbar') === '1'; } catch (e) {}
 const persist = () => { try { localStorage.setItem('royal-bag', JSON.stringify(bag)); localStorage.setItem('royal-recent', JSON.stringify(recent)); } catch (e) {} };
 const VX = {};
-const buildVX = () => P.forEach(p => Object.entries(p.vx || {}).forEach(([sku, v]) => { VX[sku] = { ...p, ...v, sku, img: v.gallery[0], vx: undefined, comps: null, checked: null, beat: false, variantOf: p.sku }; }));
-const bySku = s => P.find(p => p.sku === s) || VX[s];
+const buildVX = () => ALL.forEach(p => Object.entries(p.vx || {}).forEach(([sku, v]) => { VX[sku] = { ...p, ...v, sku, img: v.gallery[0], vx: undefined, comps: null, checked: null, beat: false, variantOf: p.sku }; }));
+const bySku = s => ALL.find(p => p.sku === s) || VX[s];
 const ord = (a, b) => ((a.price == null) - (b.price == null)) || a.rank - b.rank;
 const catsIn = r => [...new Map(P.filter(p => !r || p.room === r).map(p => [p.category, p.catLabel]))].sort((a, b) => a[1].localeCompare(b[1]));
 
-fetch('products.json').then(r => r.json()).then(d => { P = d; P.forEach(p => p.cs = slug(p.catLabel)); buildVX(); chrome(); drawBag(); route(); });
+fetch('products.json').then(r => r.json()).then(d => { ALL = d; ALL.forEach(p => p.cs = slug(p.catLabel)); P = ALL.filter(p => !p.hide); buildVX(); chrome(); drawBag(); route(); });
 addEventListener('hashchange', route);
 addEventListener('scroll', () => { $('#hdr').classList.toggle('s', scrollY > 8); maybeSbar(); }, { passive: true });
 
@@ -1014,7 +1014,7 @@ function card(p) {
   fitFrame(ph, p.img);
   if (p.price == null) ph.append(h('span', { class: 'tag', text: 'Coming soon' })); else if (p.featured) ph.append(h('span', { class: 'tag new', text: 'New' }));
   if (p.price != null) { const q = h('button', { class: 'qadd', type: 'button', 'aria-label': `Add ${p.name} to bag` }, ic('i-plus'), h('span', { text: 'Add to bag' })); q.onclick = () => { addBag(p.sku, 1); q.classList.add('done'); q.lastChild.textContent = 'Added'; q.firstChild.replaceWith(ic('i-check')); setTimeout(() => { q.classList.remove('done'); q.lastChild.textContent = 'Add to bag'; q.firstChild.replaceWith(ic('i-plus')); }, 1600); }; ph.append(q); }
-  el.append(ph, h('div', { class: 'meta' }, (p.brand === 'Haven' ? h('a', { class: 'ven hv', href: '#haven', text: 'Haven Collection' }) : h('span', { class: 'ven', text: p.catLabel })), h('a', { class: 'n', href: '#p-' + p.sku, text: p.name }), h('span', { class: 'pr' + (p.price == null ? ' na' : ''), text: p.price == null ? 'Price coming soon' : money(p.price) }), h('span', { class: 'fin' }, h('i', { class: 'dotc', style: 'background:' + (p.swatch || SW[p.color]) }), h('span', { text: p.finish }), p.opts && p.opts.length > 1 ? h('em', { class: 'ncol', text: `${p.opts.length} colors` }) : null)));
+  el.append(ph, h('div', { class: 'meta' }, (p.brand === 'Haven' ? h('a', { class: 'ven hv', href: '#haven', text: 'Haven Collection' }) : h('span', { class: 'ven', text: p.catLabel })), h('a', { class: 'n', href: '#p-' + p.sku, text: p.name }), h('span', { class: 'pr' + (p.price == null ? ' na' : ''), text: p.price == null ? 'Price coming soon' : money(p.price) }), h('span', { class: 'fin' }, h('i', { class: 'dotc', style: 'background:' + (p.swatch || SW[p.color]) }), h('span', { text: p.finish }), p.opts && p.opts.length > 1 ? h('em', { class: 'ncol', text: `${p.opts.length} colors` }) : null, p.pieces && p.pieces.length > 1 ? h('em', { class: 'ncol', text: `${p.pieces.length} pieces` }) : null)));
   return el;
 }
 
@@ -1334,6 +1334,9 @@ function product(p) {
         h('div', { class: 'opts', role: opts.length > 1 ? 'radiogroup' : null, 'aria-label': 'Color' }, opts.map(o => { const on = o.sku === p.sku; return opts.length > 1
           ? h('a', { class: 'chipx' + (on ? ' on' : ''), href: '#p-' + o.sku, role: 'radio', 'aria-checked': on, title: o.finish }, h('i', { class: 'sw', style: 'background:' + (o.swatch || '#b9b2a8') }), h('span', { text: o.finish }))
           : h('span', { class: 'chipx on' }, h('i', { class: 'sw', style: 'background:' + (o.swatch || SW[p.color]) }), h('span', { text: o.finish })); }))); })(),
+    (() => { const base = p.variantOf ? bySku(p.variantOf) : p; const pcs = (base.pieces || []).map(bySku).filter(Boolean); if (pcs.length < 2) return null; const fam = base.name.split(' ')[0];
+      return h('div', { class: 'fin2 pcs' }, h('div', { class: 'k' }, h('span', { text: `Pieces in this set (${pcs.length}): ` })),
+        h('div', { class: 'opts' }, pcs.map(x => h('a', { class: 'chipx' + (x.sku === base.sku ? ' on' : ''), href: '#p-' + x.sku }, h('span', { text: x.name.replace(fam + ' ', '') + (x.price != null ? ' · ' + money(x.price) : '') }))))); })(),
     h('p', { class: 'pdesc', text: p.desc }),
     p.features.length ? h('ul', { class: 'feats' }, p.features.map(f => h('li', { text: f }))) : null,
     h('div', { class: 'buy', id: 'buyRow' }, step, atb),
@@ -1346,7 +1349,7 @@ function product(p) {
       acc('Care', 'Dust with a soft, dry cloth. Blot spills right away, and keep the piece out of direct sun to protect the fabric and finish.')));
   w.append(h('div', { class: 'pdp' }, gal, info));
   // complete the look / more
-  const theSet = P.filter(x => x.sku !== p.sku && x.photo === p.photo).sort(ord);
+  const theSet = ALL.filter(x => x.sku !== p.sku && x.photo && x.photo === p.photo).sort(ord);
   if (theSet.length) app.append(h('section', { class: 'w blk' }, h('div', { class: 'bh' }, h('h2', { class: 'h2', text: 'Shop the set' }), h('span', { class: 'muted', text: `${theSet.length + 1} pieces from the ${p.name.split(' ')[0]} photo` })), h('div', { class: 'grid' }, theSet.slice(0, 8).map(card))));
   const same = P.filter(x => x.category === p.category && x.sku !== p.sku).sort(ord);
   const room = P.filter(x => x.room === p.room && x.category !== p.category && x.price != null).sort(ord);
