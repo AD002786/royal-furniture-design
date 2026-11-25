@@ -6,7 +6,8 @@ LABELS = ["a bed", "a dresser", "a tall chest of drawers", "a nightstand", "a mi
           "a bench", "a sofa", "a loveseat", "an ottoman", "a cabinet", "a coffee table", "a side table", "a bar stool", "a sectional sofa"]
 M = "google/owlv2-base-patch16-ensemble"
 proc = Owlv2Processor.from_pretrained(M); model = Owlv2ForObjectDetection.from_pretrained(M).eval()
-out = {}
+import os
+out = json.load(open('tools/boxes.json')) if os.path.exists('tools/boxes.json') else {}
 for f in json.load(open('tools/detect_list.json')):
     im = Image.open(f).convert('RGB'); W, H = im.size; S = max(W, H)
     inp = proc(text=[LABELS], images=im, return_tensors='pt')
