@@ -11,7 +11,12 @@ for f in json.load(open('tools/detect_list.json')):
     im = Image.open(f).convert('RGB'); W, H = im.size; S = max(W, H)
     inp = proc(text=[LABELS], images=im, return_tensors='pt')
     with torch.no_grad(): o = model(**inp)
-    r = proc.post_process_object_detection(o, threshold=0.08, target_sizes=torch.tensor([[S, S]]))[0]
+    sc = o.logits[0].sigmoid(); bx = o.pred_boxes[0]
+    best, lab = sc.max(-1)
+    m0 = best > 0.08
+    cx, cy, bw, bh = bx[:, 0] * S, bx[:, 1] * S, bx[:, 2] * S, bx[:, 3] * S
+    xy = torch.stack([cx - bw / 2, cy - bh / 2, cx + bw / 2, cy + bh / 2], -1)
+    r = {'boxes': xy[m0], 'scores': best[m0], 'labels': lab[m0]}
     keep = []
     for li in range(len(LABELS)):
         m = r['labels'] == li
