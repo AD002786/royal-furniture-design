@@ -858,9 +858,7 @@ footer .bt{border-top-color:rgba(255,255,255,.14)}
       <a href="#living" data-nav="living">Living</a>
       <a href="#bedroom" data-nav="bedroom">Bedroom</a>
       <a href="#dining" data-nav="dining">Dining</a>
-      <a href="#office" data-nav="office">Office</a>
       <a href="#new" data-nav="new">New in</a>
-      <a href="#haven" data-nav="haven">Haven</a>
     </nav>
     <div class="tools">
       <label class="sbox"><svg><use href="#i-search"/></svg><span class="sr">Search</span><input id="q" type="search" placeholder="Search furniture" autocomplete="off"></label>
@@ -911,16 +909,11 @@ const NS = 'http://www.w3.org/2000/svg';
 function h(t, a = {}, ...kids) { const e = document.createElement(t); for (const [k, v] of Object.entries(a)) { if (v == null || v === false) continue; if (k === 'class') e.className = v; else if (k === 'text') e.textContent = v; else if (k === 'style') e.style.cssText = v; else if (k.startsWith('on')) e[k] = v; else e.setAttribute(k, v === true ? '' : v); } kids.flat(9).forEach(c => c != null && c !== false && e.append(c.nodeType ? c : document.createTextNode(c))); return e; }
 function ic(id, size) { const s = document.createElementNS(NS, 'svg'); if (size) { s.setAttribute('width', size); s.setAttribute('height', size); } const u = document.createElementNS(NS, 'use'); u.setAttribute('href', '#' + id); s.append(u); s.setAttribute('aria-hidden', 'true'); return s; }
 const slug = s => s.toLowerCase().replace(/&/g, 'and').replace(/[^a-z0-9]+/g, '-').replace(/^-|-$/g, '');
-const ROOMS = ['Living', 'Bedroom', 'Dining', 'Office'];
+const ROOMS = ['Living', 'Bedroom', 'Dining'];
 const RNAME = { Living: 'Living room', Bedroom: 'Bedroom', Dining: 'Dining room', Office: 'Home office' };
 const RTXT = { Living: 'Sectionals, sofas, accent chairs and the tables that go with them.', Bedroom: 'Beds with storage and LED headboards, plus nightstands, dressers and kids rooms.', Dining: 'Tables, dining sets, counter stools and storage for the kitchen.', Office: 'Desks, office chairs and shelving for working from home.' };
 const SW = { 'Cream & White': '#f1ece2', 'Beige & Natural': '#d4c09f', 'Gray': '#9b98a0', 'Black': '#24212a', 'Brown & Wood': '#7a5638', 'Blue & Green': '#3f6b69', 'Warm Tones': '#a5492f' };
-const SCENES = [
-  { id: 'living', label: 'Living room', img: 'img/hero.jpg', alt: 'Curved boucle sectional with a round ottoman', h1: ['Sit down.', 'Stay awhile.'], p: 'Curved boucle sectionals, deep sofas and chairs you sink into. Tap the dots to shop what you see.', dots: [{ sku: 'LV03010', x: 64, y: 58 }] },
-  { id: 'lounge', label: 'Lounge', img: 'img/scene-isabel.jpg', alt: 'Cream sofa with a white round coffee table', h1: ['Soft lines,', 'warm wood.'], p: 'The Isabel collection pairs cream boucle with walnut legs. Tap a piece to see it.', dots: [{ sku: 'LV04235', x: 51, y: 70 }, { sku: 'LV04930', x: 38, y: 42 }] },
-  { id: 'bedroom', label: 'Bedroom', img: 'img/room-bedroom.jpg', alt: 'White bed with LED headboard and matching dresser', h1: ['Lights out,', 'storage in.'], p: 'LED headboards and drawers built into the footboard. Tap the bed or the dresser.', dots: [{ sku: 'BD02317Q', x: 36, y: 66 }, { sku: 'BD02320', x: 92, y: 58 }] },
-  { id: 'dining', label: 'Dining', img: 'img/room-dining.jpg', alt: 'Oak dining table with rattan chairs and bench', h1: ['Pull up', 'a chair.'], p: 'Light oak and woven rattan for a table that gets used every day.', dots: [{ sku: 'DN02371', x: 52, y: 36 }] }
-];
+const SCENES = [{ dots: [] }, { dots: [] }, { dots: [] }, { dots: [] }];
 let P = [], bag = [], recent = [], subscribed = false, sbarGone = false, ALL = [];
 try { bag = JSON.parse(localStorage.getItem('royal-bag') || '[]'); recent = JSON.parse(localStorage.getItem('royal-recent') || '[]'); sbarGone = localStorage.getItem('royal-sbar') === '1'; } catch (e) {}
 const persist = () => { try { localStorage.setItem('royal-bag', JSON.stringify(bag)); localStorage.setItem('royal-recent', JSON.stringify(recent)); } catch (e) {} };
@@ -944,8 +937,8 @@ document.addEventListener('keydown', e => { if (e.key === 'Escape') { OV.forEach
 function chrome() {
   const m = $('#megaIn');
   ROOMS.forEach(r => m.append(h('div', {}, h('h4', {}, h('a', { href: '#' + r.toLowerCase(), text: RNAME[r] })), catsIn(r).map(([c, l]) => h('a', { class: 'm', href: '#c-' + slug(l) }, l, h('small', { text: P.filter(p => p.category === c).length }))))));
-  const f = bySku('BD02317Q');
-  m.append(h('a', { class: 'promo-card', href: '#p-' + f.sku }, h('img', { src: 'img/room-bedroom.jpg', alt: '' }), h('div', {}, h('b', { text: 'The Tarian bed' }), h('span', { text: `LED headboard and storage drawers. ${money(f.price)}` }))));
+  const f = bySku('HV-6714') || P[0];
+  m.append(h('a', { class: 'promo-card', href: '#p-' + f.sku }, h('img', { src: f.img, alt: '' }), h('div', {}, h('b', { text: 'The Wilder bed' }), h('span', { text: `Navy velvet with a tufted wingback headboard. From ${money(f.price)}` }))));
   const mb = $('#megaB'), mega = $('#mega'); let t;
   const open = v => { mega.classList.toggle('on', v); mb.setAttribute('aria-expanded', v); };
   mb.addEventListener('mouseenter', () => { clearTimeout(t); open(true); }); mb.addEventListener('mouseleave', () => t = setTimeout(() => open(false), 160));
@@ -955,7 +948,7 @@ function chrome() {
   const side = $('#side');
   side.append(h('div', { style: 'display:flex;justify-content:space-between;align-items:center;margin-bottom:6px' }, h('a', { class: 'brand', href: '#' }, h('img', { class: 'lg-w', src: 'img/logo-word-dark.png', alt: 'Royal Furniture and Design', style: 'height:30px' })), h('button', { class: 'ib', 'aria-label': 'Close menu', onclick: () => ov('#side', false) }, ic('i-x'))));
   ROOMS.forEach(r => side.append(h('details', {}, h('summary', { text: RNAME[r] }), h('div', { class: 'sub' }, h('a', { href: '#' + r.toLowerCase(), text: 'Shop all' }), catsIn(r).map(([c, l]) => h('a', { href: '#c-' + slug(l), text: l }))))));
-  side.append(h('a', { href: '#new', text: 'New in' }), h('a', { href: '#haven', text: 'The Haven Collection' }), h('a', { href: '#shop', text: 'All furniture' }));
+  side.append(h('a', { href: '#new', text: 'New in' }), h('a', { href: '#shop', text: 'All furniture' }));
   side.addEventListener('click', e => { if (e.target.closest('a')) ov('#side', false); });
   $('#menuB').onclick = () => ov('#side', true);
   $$('[data-info]').forEach(b => b.onclick = () => info(b.dataset.info));
@@ -1014,7 +1007,7 @@ function card(p) {
   fitFrame(ph, p.img);
   if (p.price == null) ph.append(h('span', { class: 'tag', text: 'Coming soon' })); else if (p.featured) ph.append(h('span', { class: 'tag new', text: 'New' }));
   if (p.price != null) { const q = h('button', { class: 'qadd', type: 'button', 'aria-label': `Add ${p.name} to bag` }, ic('i-plus'), h('span', { text: 'Add to bag' })); q.onclick = () => { addBag(p.sku, 1); q.classList.add('done'); q.lastChild.textContent = 'Added'; q.firstChild.replaceWith(ic('i-check')); setTimeout(() => { q.classList.remove('done'); q.lastChild.textContent = 'Add to bag'; q.firstChild.replaceWith(ic('i-plus')); }, 1600); }; ph.append(q); }
-  el.append(ph, h('div', { class: 'meta' }, (p.brand === 'Haven' ? h('a', { class: 'ven hv', href: '#haven', text: 'Haven Collection' }) : h('span', { class: 'ven', text: p.catLabel })), h('a', { class: 'n', href: '#p-' + p.sku, text: p.name }), h('span', { class: 'pr' + (p.price == null ? ' na' : ''), text: p.price == null ? 'Price coming soon' : money(p.price) }), h('span', { class: 'fin' }, h('i', { class: 'dotc', style: 'background:' + (p.swatch || SW[p.color]) }), h('span', { text: p.finish }), p.opts && p.opts.length > 1 ? h('em', { class: 'ncol', text: `${p.opts.length} colors` }) : null, p.pieces && p.pieces.length > 1 ? h('em', { class: 'ncol', text: `${p.pieces.length} pieces` }) : null)));
+  el.append(ph, h('div', { class: 'meta' }, h('span', { class: 'ven', text: p.catLabel }), h('a', { class: 'n', href: '#p-' + p.sku, text: p.cardName || p.name }), h('span', { class: 'pr' + (p.price == null ? ' na' : ''), text: p.price == null ? 'Price coming soon' : (p.choices && p.choices.items.some(x => x.price !== p.price) ? 'From ' + money(Math.min(...p.choices.items.map(x => x.price))) : money(p.price)) }), h('span', { class: 'fin' }, h('i', { class: 'dotc', style: 'background:' + (p.swatch || SW[p.color]) }), h('span', { text: p.finish }), p.opts && p.opts.length > 1 ? h('em', { class: 'ncol', text: `${p.opts.length} colors` }) : null, p.choices && p.choices.label === 'Size' ? h('em', { class: 'ncol', text: p.choices.items.map(x => x.text).join(', ') }) : null)));
   return el;
 }
 
@@ -1024,16 +1017,16 @@ function home() {
   const app = $('#app');
   const firstIn = c => P.filter(p => p.category === c).sort(ord)[0];
   // category circles
-  const CIRC = [['#new', 'New in', bySku('LV02541'), 'New'], ...['Sectional', 'Sofa', 'Accent Chair', 'Coffee Table', 'Bed', 'Nightstand', 'Dresser/Chest', 'Dining', 'Counter/Bar Stool', 'TV Stand/Media', 'Desk', 'Office Chair', 'Kids Bunk/Loft'].map(c => { const p = firstIn(c); return p ? ['#c-' + p.cs, p.catLabel, p, null] : null; }).filter(Boolean), ['#shop', 'Shop all', bySku('BD03122Q'), null]];
+  const CIRC = [['#new', 'New in', bySku('HV-651') || P[0], 'New'], ...['Sectional', 'Sofa', 'Accent Chair', 'Coffee Table', 'Bed', 'Nightstand', 'Dresser/Chest', 'Dining', 'Counter/Bar Stool', 'TV Stand/Media', 'Desk', 'Kids Bunk/Loft', 'Mirror'].map(c => { const p = firstIn(c); return p ? ['#c-' + p.cs, p.catLabel, p, null] : null; }).filter(Boolean), ['#shop', 'Shop all', bySku('HV-9314') || P[0], null]];
   app.append(h('div', { class: 'w' }, h('nav', { class: 'circles', 'aria-label': 'Shop by category' }, CIRC.map(([href, label, p, badge]) => h('a', { class: 'circ', href }, h('span', { class: 'c' }, h('img', { src: p.img, alt: '', loading: 'lazy' }), badge ? h('span', { class: 'b', text: badge }) : null), label)))));
   // hero slideshow
   const SL = [
-    { img: 'img/hero.jpg', alt: 'Curved boucle sectional with a round ottoman', h1: 'Sink into something good', p: 'Curved boucle sectionals and deep sofas, made for the way you actually sit.', cta: ['Shop living room', '#living'], dots: SCENES[0].dots },
-    { img: 'img/room-bedroom.jpg', alt: 'White bed with LED headboard and matching dresser', h1: 'A bedroom that does more', p: 'LED headboards, storage drawers and dressers that match.', cta: ['Shop bedroom', '#bedroom'], dots: SCENES[2].dots },
-    { img: 'img/room-dining.jpg', alt: 'Oak dining table with rattan chairs', h1: 'Made for long dinners', p: 'Light oak and woven rattan for a table that gets used every day.', cta: ['Shop dining', '#dining'], dots: SCENES[3].dots },
-    { img: 'img/room-living.jpg', alt: 'Modular sectional in a sunlit living room', h1: 'Build the sofa you need', p: 'Modular pieces you can rearrange as your space changes.', cta: ['Shop sectionals', '#c-sectionals'], dots: [] }
+    { img: (bySku('HV-651') || P[0]).img, alt: 'Cream corduroy sectional with ottoman in a brick loft', h1: 'Sink into something good', p: 'Plush corduroy and velvet sectionals, made for the way you actually sit.', cta: ['Shop sectionals', '#c-sectionals'], dots: [] },
+    { img: (bySku('HV-6714') || P[0]).img, alt: 'Navy velvet tufted bed in a bright bedroom', h1: 'A bedroom with presence', p: 'Velvet wingbacks, canopy frames and full matching sets.', cta: ['Shop bedroom', '#bedroom'], dots: [] },
+    { img: (bySku('HV-9876') || P[0]).img, alt: 'Double pedestal dining table with upholstered chairs', h1: 'Made for long dinners', p: 'Dining sets with servers, mirrors and chairs that match.', cta: ['Shop dining', '#dining'], dots: [] },
+    { img: (bySku('HV-7210') || P[0]).img, alt: 'Pink velvet sectional in a sunlit living room', h1: 'Bring the color', p: 'Fuchsia, navy and emerald velvet for rooms that stand out.', cta: ['Shop living room', '#living'], dots: [] }
   ];
-  if (bfOn()) SL.unshift({ bf: true, img: 'img/scene-isabel.jpg', alt: 'Boucle sofas and a sculpted coffee table in a bright living room', h1: 'Black Friday', p: 'Up to $300 off your order. Savings apply automatically in your bag.', cta: ['Shop the sale', '#shop'], dots: [] });
+  if (bfOn()) SL.unshift({ bf: true, img: (bySku('HV-5105') || P[0]).img, alt: 'Black velvet curved sectional with a round tufted ottoman', h1: 'Black Friday', p: 'Up to $300 off your order. Savings apply automatically in your bag.', cta: ['Shop the sale', '#shop'], dots: [] });
   const DUR = 7000;
   const slides = h('section', { class: 'slides', 'aria-roledescription': 'carousel', 'aria-label': 'Featured rooms', style: `--dur:${DUR / 1000}s` });
   SL.forEach((s, i) => {
@@ -1063,30 +1056,30 @@ function home() {
   const tr = h('div', { class: 'tr', 'aria-hidden': 'true' }); [...BEN, ...BEN, ...BEN, ...BEN].forEach(([i, t]) => tr.append(h('span', {}, ic(i), t)));
   app.append(h('div', { class: 'ticker' }, h('p', { class: 'sr', text: BEN.map(b => b[1]).join('. ') }), tr));
   // most purchased with thumbnail tabs
-  const TABS = [['Living room', p => p.room === 'Living', 'LV03010'], ['Bedroom', p => p.room === 'Bedroom', 'BD02317Q'], ['Dining room', p => p.room === 'Dining', 'DN02371'], ['Accent chairs', p => p.category === 'Accent Chair', 'LV04802'], ['Home office', p => p.room === 'Office', '93125'], ['Under $500', p => p.price != null && p.price < 500, '24853']];
+  const TABS = [['Living room', p => p.room === 'Living', 'HV-7210'], ['Bedroom', p => p.room === 'Bedroom', 'HV-6714'], ['Dining room', p => p.room === 'Dining' && p.category !== 'Counter/Bar Stool', 'HV-6291'], ['Bar & counter', p => p.category === 'Counter/Bar Stool' || /Counter|Pub/.test(p.name), 'HV-6929'], ['Under $500', p => p.price != null && p.price < 500, 'HV-1015-C']];
   const row = h('div', { class: 'prow2' });
   const l = h('button', { 'aria-label': 'Scroll left', onclick: () => row.scrollBy({ left: -row.clientWidth * .9, behavior: 'smooth' }) }, ic('i-l')), r = h('button', { 'aria-label': 'Scroll right', onclick: () => row.scrollBy({ left: row.clientWidth * .9, behavior: 'smooth' }) }, ic('i-r'));
   const upd = () => { l.disabled = row.scrollLeft < 6; r.disabled = row.scrollLeft + row.clientWidth > row.scrollWidth - 6; };
   row.addEventListener('scroll', upd, { passive: true });
   const tl = h('div', { class: 'tl', role: 'tablist' });
   const pick = i => { $$('.mtab', tl).forEach((b, j) => b.setAttribute('aria-selected', j === i)); row.replaceChildren(...P.filter(TABS[i][1]).filter(p => p.price != null).sort(ord).slice(0, 12).map(card)); row.scrollLeft = 0; setTimeout(upd, 30); };
-  TABS.forEach(([t, f, sku], i) => tl.append(h('button', { class: 'mtab', role: 'tab', 'aria-selected': 'false', onclick: () => pick(i) }, h('img', { src: (bySku(sku) || P[0]).img, alt: '' }), t)));
+  TABS.forEach(([t, f, sku], i) => tl.append(h('button', { class: 'mtab', role: 'tab', 'aria-selected': 'false', onclick: () => pick(i) }, h('img', { src: (bySku(sku) || P.filter(f)[0] || P[0]).img, alt: '' }), t)));
   app.append(h('section', { class: 'w blk' }, h('div', { class: 'bh' }, h('h2', { class: 'h2', text: 'Most popular' }), h('a', { class: 'lnk', href: '#shop', text: 'View all furniture' })), h('div', { class: 'mtabs' }, tl, h('div', { class: 'carr' }, l, r)), row));
   pick(0);
   // two-up banners
   app.append(h('section', { class: 'blk' }, h('div', { class: 'pair2' },
-    h('a', { class: 'ban', href: '#bedroom' }, h('img', { src: 'img/BD03122Q.jpg', alt: 'Tufted bed in a gray bedroom', loading: 'lazy' }), h('div', { class: 't' }, h('h3', { text: 'Rest easy' }), h('p', { text: 'Upholstered beds, storage and LED headboards.' }), h('span', { class: 'btn light', text: 'Shop now' }))),
-    h('a', { class: 'ban', href: '#c-accent-chairs' }, h('img', { src: 'img/LV04802.jpg', alt: 'Swivel accent chair in a living room', loading: 'lazy' }), h('div', { class: 't' }, h('h3', { text: 'The extra seat' }), h('p', { text: 'Swivel chairs and statement pieces for any corner.' }), h('span', { class: 'btn light', text: 'Shop now' }))))));
+    h('a', { class: 'ban', href: '#bedroom' }, h('img', { src: (bySku('HV-6211') || P[0]).img, alt: 'Gray velvet canopy bed', loading: 'lazy' }), h('div', { class: 't' }, h('h3', { text: 'Rest easy' }), h('p', { text: 'Velvet, canopy and LED beds in every size.' }), h('span', { class: 'btn light', text: 'Shop now' }))),
+    h('a', { class: 'ban', href: '#c-accent-chairs' }, h('img', { src: (bySku('HV-3100') || P[0]).img, alt: 'Lazy lounger seat in a living room', loading: 'lazy' }), h('div', { class: 't' }, h('h3', { text: 'The extra seat' }), h('p', { text: 'Swivel chairs, loungers and statement pieces for any corner.' }), h('span', { class: 'btn light', text: 'Shop now' }))))));
   // shop the look
-  const look = h('section', { class: 'look' }, h('img', { src: 'img/scene-isabel.jpg', alt: 'Cream boucle sofa with a round white coffee table', loading: 'lazy' }), h('div', { class: 't' }, h('h3', { text: 'Shop the look' }), h('p', { text: 'Cream boucle and walnut from the Isabel collection. Tap a dot to see the piece.' }), h('a', { class: 'btn light', href: '#c-coffee-tables', text: 'Shop coffee tables' })));
+  const look = h('section', { class: 'look' }, h('img', { src: (bySku('HV-7104') || P[0]).img, alt: 'Dune bedroom set with LED bed, dresser and nightstand', loading: 'lazy' }), h('div', { class: 't' }, h('h3', { text: 'Shop the look' }), h('p', { text: 'The Dune bedroom: an LED bed with a matching dresser, mirror, chest and nightstand.' }), h('a', { class: 'btn light', href: '#p-HV-7104', text: 'Shop the Dune set' })));
   SCENES[1].dots.forEach(d => { const p = bySku(d.sku); if (p) look.append(h('button', { class: 'dot', style: `left:${d.x}%;top:${d.y}%`, 'aria-label': `View ${p.name}`, 'aria-expanded': 'false', onclick: e => { e.stopPropagation(); togglePop(e.currentTarget, p, look); } })); });
   look.append(h('div', { class: 'pop', role: 'dialog', 'aria-label': 'Product' }));
   app.append(h('div', { class: 'blk' }, look));
   // category mosaic
-  const MO = [['Sectionals', '#c-sectionals', 'LV02541'], ['Beds', '#c-beds', 'BD02470Q'], ['Living room', '#living', 'LV03010', true], ['Dining', '#dining', 'DN02390'], ['Desks', '#c-desks', '93125']];
-  app.append(h('section', { class: 'w blk' }, h('div', { class: 'bh' }, h('h2', { class: 'h2', text: 'Our categories' })), h('div', { class: 'mosaic' }, [MO[0], MO[2], MO[1], MO[3], MO[4]].map(([t, href, sku, big]) => h('a', { class: 'mt' + (big ? ' big' : ''), href }, h('img', { src: big ? 'img/hero.jpg' : (bySku(sku) || P[0]).img, alt: '', loading: 'lazy' }), h('span', { class: 'fr' }), h('span', { class: 't' }, h('b', { text: t }), h('span', { class: 'btn', text: 'Shop now' })))))));
+  const MO = [['Sectionals', '#c-sectionals', 'HV-7210'], ['Beds', '#c-beds', 'HV-9314'], ['Living room', '#living', 'HV-652', true], ['Dining', '#dining', 'HV-6925'], ['Bar & counter', '#c-counter-bar-stools', 'HV-6929']];
+  app.append(h('section', { class: 'w blk' }, h('div', { class: 'bh' }, h('h2', { class: 'h2', text: 'Our categories' })), h('div', { class: 'mosaic' }, [MO[0], MO[2], MO[1], MO[3], MO[4]].map(([t, href, sku, big]) => h('a', { class: 'mt' + (big ? ' big' : ''), href }, h('img', { src: big ? (bySku('HV-652') || P[0]).img : (bySku(sku) || P[0]).img, alt: '', loading: 'lazy' }), h('span', { class: 'fr' }), h('span', { class: 't' }, h('b', { text: t }), h('span', { class: 'btn', text: 'Shop now' })))))));
   // featured product
-  app.append(h('div', { class: 'blk' }, featured(bySku('LV03010'))));
+  app.append(h('div', { class: 'blk' }, featured(bySku('HV-651') || P[0])));
   // under $500 carousel
   const r2 = h('div', { class: 'prow2' }, P.filter(p => p.price != null && p.price < 600).sort(ord).slice(0, 10).map(card));
   app.append(h('section', { class: 'w blk' }, h('div', { class: 'bh' }, h('h2', { class: 'h2', text: 'Finishing touches under $600' }), h('div', { class: 'carr' }, h('button', { 'aria-label': 'Scroll left', onclick: () => r2.scrollBy({ left: -r2.clientWidth * .9, behavior: 'smooth' }) }, ic('i-l')), h('button', { 'aria-label': 'Scroll right', onclick: () => r2.scrollBy({ left: r2.clientWidth * .9, behavior: 'smooth' }) }, ic('i-r')))), r2));
@@ -1094,7 +1087,7 @@ function home() {
   app.append(h('section', { class: 'w blk' }, bundle()));
   // words over image
   const wt = h('div', { class: 'tr', 'aria-hidden': 'true' }); for (let k = 0; k < 4; k++) ['Furniture', 'Comfort', 'Design'].forEach(w => wt.append(h('span', { text: w }), ic('i-spark')));
-  app.append(h('div', { class: 'blk' }, h('section', { class: 'words' }, h('img', { src: 'img/room-living.jpg', alt: '', loading: 'lazy' }), h('div', { class: 'box' }, wt))));
+  app.append(h('div', { class: 'blk' }, h('section', { class: 'words' }, h('img', { src: (bySku('HV-6212') || P[0]).img, alt: '', loading: 'lazy' }), h('div', { class: 'box' }, wt))));
   // newsletter
   app.append(h('section', { class: 'w blk', id: 'join' }, newsletter()));
   recentBlock(app);
@@ -1145,14 +1138,14 @@ function segment(labels, on) {
   return el;
 }
 function bundle() {
-  const items = [['BD02317Q', true], ['BD02320', true], ['24853', false]].map(([s, c]) => [bySku(s), c]).filter(([p]) => p && p.price);
+  const items = [['HV-7104', true], ['HV-7101', true], ['HV-7103', false]].map(([s, c]) => [bySku(s), c]).filter(([p]) => p && p.price);
   const tot = h('b'), cta = h('button', { class: 'btn iris', type: 'button' }), picks = [];
   const upd = () => { const sel = picks.filter(x => x.cb.checked); tot.textContent = money(sel.reduce((a, x) => a + x.p.price, 0)); cta.textContent = sel.length ? `Add ${sel.length} ${sel.length === 1 ? 'piece' : 'pieces'} to bag` : 'Choose at least one piece'; cta.disabled = !sel.length; };
   const list = items.map(([p, c]) => { const cb = h('input', { type: 'checkbox', 'aria-label': p.name }); cb.checked = c; cb.onchange = upd; picks.push({ cb, p }); return h('label', { class: 'pick' }, cb, h('img', { src: p.img, alt: '' }), h('div', {}, h('b', { text: p.name }), h('span', { text: p.finish })), h('span', { class: 'pp', text: money(p.price) })); });
   cta.onclick = () => { picks.filter(x => x.cb.checked).forEach(x => addBag(x.p.sku, 1, true)); toast(`Added ${picks.filter(x => x.cb.checked).length} pieces to your bag`, items[0][0].img); bump(); };
   upd();
-  return h('div', { class: 'bundle' }, h('div', { class: 'ph' }, h('img', { src: 'img/room-bedroom.jpg', alt: 'Tarian bed and dresser in a bedroom', loading: 'lazy' })),
-    h('div', { class: 'bd' }, h('h2', { class: 'h2', text: 'Build the bedroom' }), h('p', { text: 'Start with the Tarian bed, then add the pieces you want. The total updates as you go.' }), list, h('div', { class: 'btot' }, h('span', { class: 'muted', text: 'Your total' }), tot), cta));
+  return h('div', { class: 'bundle' }, h('div', { class: 'ph' }, h('img', { src: (bySku('HV-7104') || P[0]).img, alt: 'Dune LED bed and dresser in a bedroom', loading: 'lazy' })),
+    h('div', { class: 'bd' }, h('h2', { class: 'h2', text: 'Build the bedroom' }), h('p', { text: 'Start with the Dune LED bed, then add the pieces you want. The total updates as you go.' }), list, h('div', { class: 'btot' }, h('span', { class: 'muted', text: 'Your total' }), tot), cta));
 }
 function newsletter() {
   const f = nform('news');
@@ -1334,9 +1327,12 @@ function product(p) {
         h('div', { class: 'opts', role: opts.length > 1 ? 'radiogroup' : null, 'aria-label': 'Color' }, opts.map(o => { const on = o.sku === p.sku; return opts.length > 1
           ? h('a', { class: 'chipx' + (on ? ' on' : ''), href: '#p-' + o.sku, role: 'radio', 'aria-checked': on, title: o.finish }, h('i', { class: 'sw', style: 'background:' + (o.swatch || '#b9b2a8') }), h('span', { text: o.finish }))
           : h('span', { class: 'chipx on' }, h('i', { class: 'sw', style: 'background:' + (o.swatch || SW[p.color]) }), h('span', { text: o.finish })); }))); })(),
-    (() => { const base = p.variantOf ? bySku(p.variantOf) : p; const pcs = (base.pieces || []).map(bySku).filter(Boolean); if (pcs.length < 2) return null; const fam = base.name.split(' ')[0];
-      return h('div', { class: 'fin2 pcs' }, h('div', { class: 'k' }, h('span', { text: `Pieces in this set (${pcs.length}): ` })),
-        h('div', { class: 'opts' }, pcs.map(x => h('a', { class: 'chipx' + (x.sku === base.sku ? ' on' : ''), href: '#p-' + x.sku }, h('span', { text: x.name.replace(fam + ' ', '') + (x.price != null ? ' · ' + money(x.price) : '') }))))); })(),
+    (() => { const base = p.variantOf ? bySku(p.variantOf) : p; const ch = base.choices; if (!ch || ch.items.length < 2) return null;
+      return h('div', { class: 'fin2' }, h('div', { class: 'k' }, h('span', { text: ch.label + ': ' }), (ch.items.find(x => x.sku === base.sku) || {}).text || ''),
+        h('div', { class: 'opts', role: 'radiogroup', 'aria-label': ch.label }, ch.items.map(x => h('a', { class: 'chipx' + (x.sku === base.sku ? ' on' : ''), href: '#p-' + x.sku, role: 'radio', 'aria-checked': x.sku === base.sku }, h('span', { text: x.text + (x.price != null ? ', ' + money(x.price) : '') }))))); })(),
+    (() => { const base = p.variantOf ? bySku(p.variantOf) : p; const lead = base.choiceOf ? bySku(base.choiceOf) : base; const pcs = (lead.setGroup || []).map(bySku).filter(Boolean); if (pcs.length < 2) return null;
+      return h('div', { class: 'fin2 pcs' }, h('div', { class: 'k' }, h('span', { text: `Pieces in this set (${pcs.length})` })),
+        h('div', { class: 'opts' }, pcs.map(x => h('a', { class: 'chipx' + (x.sku === lead.sku ? ' on' : ''), href: '#p-' + x.sku }, h('span', { text: (x.cardName || x.name).replace(x.name.split(' ')[0] + ' ', '') }))))); })(),
     h('p', { class: 'pdesc', text: p.desc }),
     p.features.length ? h('ul', { class: 'feats' }, p.features.map(f => h('li', { text: f }))) : null,
     h('div', { class: 'buy', id: 'buyRow' }, step, atb),
@@ -1349,7 +1345,7 @@ function product(p) {
       acc('Care', 'Dust with a soft, dry cloth. Blot spills right away, and keep the piece out of direct sun to protect the fabric and finish.')));
   w.append(h('div', { class: 'pdp' }, gal, info));
   // complete the look / more
-  const theSet = ALL.filter(x => x.sku !== p.sku && x.photo && x.photo === p.photo).sort(ord);
+  const theSet = (() => { const me = p.variantOf ? bySku(p.variantOf) : p; const lead = me.choiceOf ? bySku(me.choiceOf) : me; return (lead.setGroup || []).map(bySku).filter(x => x && x.sku !== lead.sku || (x && x.sku === lead.sku && lead !== me)).filter(x => x.sku !== me.sku); })().sort(ord);
   if (theSet.length) app.append(h('section', { class: 'w blk' }, h('div', { class: 'bh' }, h('h2', { class: 'h2', text: 'Shop the set' }), h('span', { class: 'muted', text: `${theSet.length + 1} pieces from the ${p.name.split(' ')[0]} photo` })), h('div', { class: 'grid' }, theSet.slice(0, 8).map(card))));
   const same = P.filter(x => x.category === p.category && x.sku !== p.sku).sort(ord);
   const room = P.filter(x => x.room === p.room && x.category !== p.category && x.price != null).sort(ord);
